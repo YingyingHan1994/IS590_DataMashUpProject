@@ -3,7 +3,7 @@
 2. For those object of which state/city information is given, map the location to their country. Or map the longitude/latitude numbers to counrty. If so, I need to devide the file into two parts: records with longitude and latitude numbers and those with no longitude and latitude information. 
 3. Confirm: for those object of which "cultural area" is "southeast", is it from southeast of the United States or anyother countries?
 
-I need to discuss with instructor the parsing problem, mapping problem. 
+I need to discuss with instructor the parsing problem, mapping problem. The data cleaning takes at least three hours.
 # 2.Describe the authorship, attribution, and/or the provenance of the file.  
 To be comfirmed. 
 # 3. Describe the semantic contents of the file.
