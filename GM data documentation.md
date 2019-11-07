@@ -1,5 +1,6 @@
 # 1.Data cleaning assessment
 1. Delete records of which the reference type is "0900".
+2. For those object of which state/city information is given, map the location to their country.
 # 2.Describe the authorship, attribution, and/or the provenance of the file.  
 To be comfirmed. 
 # 3. Describe the semantic contents of the file.
