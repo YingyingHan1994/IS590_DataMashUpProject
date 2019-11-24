@@ -11,7 +11,7 @@ To be comfirmed.
 ## 3.1 A short plain language statement about what the data file contains, this should be very much along the lines of a domain description.
 The Gilcrease Museum describes its geography information from the aspects of country, or state, or city, and longitude number, latitude number, longitude direction, latitude direction.
 ## 3.2 A short statement about what is being used from this dataset.
-The country, state, city information.
+The country, state, city information, longitude number, latitude number.
 ## 3.3 Relevant dates of the data collection.
 24 October 2019
 
@@ -53,8 +53,8 @@ Reference type: 5 unique values, which are 0900, cultural area, place, place mad
 ## 7.3 What are all the unique values and their meaning? (if you have categorical data).  Don’t do this if there are more than like 10 or 20.
 
 ## 7.4 Reason for missing values and the relevant missing values or codes
-No missing data
+Though the csv parser tool shows that there is no missing data in each column. However, it is observed that several columns do not have longitude/latitude number. 
 ## 7.5 Number of known missing values within this column
-No missing data
+3421 records with no longitude number, latutude number, or the number is 0.
 ## 7.6 Other notes, caveats, attribution, etc. that you need to report for this data file.
 No.
