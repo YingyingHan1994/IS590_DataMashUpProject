@@ -1,9 +1,8 @@
 # 1.Data cleaning assessment
 1. Delete records of which the reference type is "0900".
-2. For those object of which state/city information is given, map the location to their country. Or map the longitude/latitude numbers to counrty. If so, I need to devide the file into two parts: records with longitude and latitude numbers and those with no longitude and latitude information. 
-3. Confirm: for those object of which "cultural area" is "southeast", is it from southeast of the United States or anyother countries?
+2. The geogography terms include four type: culture area (2577 records), place, place made (1004), place found (7985 records). There are 10668 raws in this csv file. Each raw has one object ID value. While there are only 4239 unique object ID values. This shows that many object geography information is repeated in this file. The object ID value is repeated because of two reasons: the museum might keep the "found place", "made place", "culture area" of an object, so they will repeat the geograpphy information in different rows. In this case, I want to keep the raws the geography term is only "place made" or "place found". So raws both describe the found place of an object but are having different longitude/latitude number. In this case, I will ramdomly keep raw.
+3. For those object of which state/city information is given, map the location to their country. Or map the longitude/latitude numbers to counrty. If so, I need to devide the file into two parts: records with longitude and latitude numbers and those with no longitude and latitude information. 
 
-I need to discuss with instructor the parsing problem, mapping problem. The data cleaning takes at least three hours.
 # 2.Describe the authorship, attribution, and/or the provenance of the file.  
 To be comfirmed. 
 # 3. Describe the semantic contents of the file.
