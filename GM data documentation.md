@@ -39,8 +39,8 @@ Longitude Number: float
 # 7 Codebook
 ## 7.1 Description of column (a short human readable statement of what this column contains).
 1. object ID: An object is assigned with an ID, which uniquely represents the object.
-2. Term: the geography area (country, or state, or disctrict).
-3. Reference Type: The type of geography information, for example, the place found.
+2. Term: the geography area (country, or state, or city).
+3. Reference Type: The type of geography information
 4. Latitude: for example, 23.00
 5. latitude direction: N,S,W,E represent North, South, West, and East respectively.
 6. Longitude: for example, 102.
@@ -48,17 +48,18 @@ Longitude Number: float
 8. Latitude number: for example, 23.00
 9. Longitude number: for example, -102.00
 ## 7.2 Description of data values and units present 
-Note: I am having problem parsing the origianl csv file. I deleted the coloum of latitude and longitude and kept only three coloumns: object ID, terms, reference.
-
-Object ID: 4239 unique values from 10668 records.
-Term: 635 unique values
+Object ID: 4239 unique values from 10668 records. I identify two reasons for repeated object ID. 
+Term: 635 unique values.
 Reference type: 5 unique values, which are 0900, cultural area, place, place made, place found. 
 
 ## 7.3 What are all the unique values and their meaning? (if you have categorical data).  Don’t do this if there are more than like 10 or 20.
+See my answer to question 7.2.
 
 ## 7.4 Reason for missing values and the relevant missing values or codes
 Though the csv parser tool shows that there is no missing data in each column. However, it is observed that several columns do not have longitude/latitude number. 
+
 ## 7.5 Number of known missing values within this column
 3421 records with no longitude number, latutude number, or the number is 0.
+
 ## 7.6 Other notes, caveats, attribution, etc. that you need to report for this data file.
 No.
