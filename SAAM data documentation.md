@@ -1,7 +1,13 @@
 # 1.Data cleaning assessment
-No data cleaning is needed.
+1. Delete the duplicated rows.
+2. Fix those records with no city names.
+3. Fix those records with no state names.
+4. Fix those records with no country names.
+5. Add continent columns.
+6. Keep the rows of which the geoterms are "birth place" and "death place"
+Since there is no longitude and latitude number offered, no python package can be found for data cleaning. I need to fix the cells on my own, which will take around 3 hours.
 # 2.Describe the authorship, attribution, and/or the provenance of the file.  
-To be filled up.
+The dataset was created and published by Smithsonian American Art Museum. It is published under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication and can be freely re-used for any purpose.
 # 3. Describe the semantic contents of the file.
 
 ## 3.1 A short plain language statement about what the data file contains, this should be very much along the lines of a domain description.
