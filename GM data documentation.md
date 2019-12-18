@@ -5,7 +5,7 @@ The second reason why object ID is repeated in different rows is the musuem some
 3. For those object of which state/city information is given, map the location to their country. Or map the longitude/latitude numbers to counrty. If so, I need to devide the file into two parts: records with longitude and latitude numbers and those with no longitude and latitude information. 
 
 # 2.Describe the authorship, attribution, and/or the provenance of the file.  
-The dataset was created and published by Princeton University Art Museum. It is published under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication and can be freely re-used for any purpose.
+The dataset was created and published by Gilcrease Museum. It is published under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication and can be freely re-used for any purpose.
 # 3. Describe the semantic contents of the file.
 
 ## 3.1 A short plain language statement about what the data file contains, this should be very much along the lines of a domain description.
