@@ -6,7 +6,7 @@
 
 
 # 2.Describe the authorship, attribution, and/or the provenance of the file.  
-To be filled up.
+The dataset was created and published by Princeton University Art Museum. It is published under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication and can be freely re-used for any purpose.
 
 # 3. Describe the semantic contents of the file.
 
