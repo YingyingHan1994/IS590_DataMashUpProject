@@ -1,0 +1,3836 @@
+,ObjectID,Term,ThesXrefType,LatitudeNumber,LongitudeNumber
+0,1960,MÃ©xico,Place found,23.0,-102.0
+1,1967,MÃ©xico,Place found,23.0,-102.0
+2,14721,MÃ©xico,Place found,23.0,-102.0
+4,17252,Oklahoma,Place found,35.0,-98.0
+7,17443,Ohio,Place found,40.0,-80.83
+11,17478,United States of America,Place found,38.0,-98.0
+13,22539,United States of America,Place found,38.0,-98.0
+15,22753,United States of America,Place found,38.0,-98.0
+17,22945,United States of America,Place found,38.0,-98.0
+19,23498,United States of America,Place found,38.0,-98.0
+22,23504,United States of America,Place found,38.0,-98.0
+24,24285,Philippines,Place found,13.0,122.0
+26,24647,Oklahoma,Place found,35.0,-98.0
+28,30203,Michigan,Place found,44.0,-85.0
+30,30204,Arkansas,Place found,35.0,-93.0
+31,30205,Arkansas,Place found,35.0,-93.0
+34,30206,Arkansas,Place found,35.0,-93.0
+35,30207,Arkansas,Place found,35.0,-93.0
+36,30209,Ouachita River,Place found,34.68,-94.32
+41,30210,Arkansas,Place found,35.0,-93.0
+42,30211,Arkansas,Place found,35.0,-93.0
+43,30214,Arkansas,Place found,35.0,-93.0
+44,30215,Arkansas,Place found,35.0,-93.0
+45,30217,Ouachita River,Place found,34.68,-94.32
+50,30218,Arkansas,Place found,35.0,-93.0
+51,30219,Arkansas,Place found,35.0,-93.0
+52,30220,Ouachita River,Place found,34.68,-94.32
+57,30222,Arkansas,Place found,35.0,-93.0
+58,30223,Arkansas,Place found,35.0,-93.0
+59,30225,Ouachita River,Place found,34.68,-94.32
+64,30226,Arkansas,Place found,35.0,-93.0
+65,30227,Arkansas,Place found,35.0,-93.0
+66,30228,Ouachita River,Place found,34.68,-94.32
+71,30230,Arkansas,Place found,35.0,-93.0
+72,30231,Arkansas,Place found,35.0,-93.0
+73,30233,Missouri,Place found,38.0,-98.0
+75,30234,Arkansas,Place found,35.0,-93.0
+76,30238,Indiana,Place found,40.0,-86.0
+78,30244,Arkansas,Place found,35.0,-93.0
+82,30246,Michigan,Place found,44.0,-85.0
+84,30248,Arkansas,Place found,35.0,-93.0
+87,30249,United States of America,Place found,38.0,-98.0
+89,30250,Ohio,Place found,40.0,-80.83
+91,30251,United States of America,Place found,38.0,-98.0
+93,30252,United States of America,Place found,38.0,-98.0
+95,30253,United States of America,Place found,38.0,-98.0
+97,30254,Kentucky,Place found,37.0,-85.0
+99,30258,United States of America,Place found,38.0,-98.0
+101,30259,Michigan,Place found,44.0,-85.0
+103,30262,United States of America,Place found,38.0,-98.0
+105,30263,United States of America,Place found,38.0,-98.0
+107,30266,United States of America,Place found,38.0,-98.0
+109,30267,United States of America,Place found,38.0,-98.0
+111,30268,United States of America,Place found,38.0,-98.0
+113,30269,United States of America,Place found,38.0,-98.0
+115,30272,United States of America,Place found,38.0,-98.0
+117,30273,United States of America,Place found,38.0,-98.0
+120,30276,United States of America,Place found,38.0,-98.0
+122,30277,United States of America,Place found,38.0,-98.0
+125,30279,Saint Lawrence Island,Place found,63.5,-170.43
+126,30281,United States of America,Place found,38.0,-98.0
+128,30282,Saint Lawrence Island,Place found,63.5,-170.43
+129,30283,Saint Lawrence Island,Place found,63.5,-170.43
+130,30286,Alaska,Place found,65.0,-153.0
+131,30288,Arkansas,Place found,35.0,-93.0
+132,30289,Saint Lawrence Island,Place found,63.5,-170.43
+133,30290,Alaska,Place found,65.0,-153.0
+135,30291,Arkansas,Place found,35.0,-93.0
+136,30292,Arkansas,Place found,35.0,-93.0
+137,30293,Alaska,Place found,65.0,-153.0
+139,30295,Arkansas,Place found,35.0,-93.0
+140,30296,Arkansas,Place found,35.0,-93.0
+141,30297,United States of America,Place found,38.0,-98.0
+143,30298,Saint Lawrence Island,Place found,63.5,-170.43
+144,30299,Arkansas,Place found,35.0,-93.0
+145,30300,Arkansas,Place found,35.0,-93.0
+146,30301,Alaska,Place found,65.0,-153.0
+147,30302,Alaska,Place found,65.0,-153.0
+149,30303,Arkansas,Place found,35.0,-93.0
+150,30304,Arkansas,Place found,35.0,-93.0
+151,30305,Alaska,Place found,65.0,-153.0
+153,30306,Alaska,Place found,65.0,-153.0
+155,30307,Arkansas,Place found,35.0,-93.0
+156,30308,Arkansas,Place found,35.0,-93.0
+157,30309,Alaska,Place found,65.0,-153.0
+159,30310,Alaska,Place found,65.0,-153.0
+161,30311,Arkansas,Place found,35.0,-93.0
+162,30312,Arkansas,Place found,35.0,-93.0
+163,30314,Alaska,Place found,65.0,-153.0
+165,30315,Arkansas,Place found,35.0,-93.0
+166,30316,Illinois,Place found,40.0,-89.0
+168,30317,Alaska,Place found,65.0,-153.0
+171,30318,Alaska,Place found,65.0,-153.0
+173,30320,Ohio,Place found,40.0,-80.83
+174,30322,Alaska,Place found,65.0,-153.0
+176,30323,Illinois,Place found,40.0,-89.0
+178,30325,Cape Prince of Wales,Place found,65.58,-168.83
+179,30326,Alaska,Place found,65.0,-153.0
+181,30329,Kotzebue Sound,Place found,66.53,-162.73
+182,30330,Alaska,Place found,65.0,-153.0
+184,30331,Illinois,Place found,40.0,-89.0
+187,30332,Illinois,Place found,40.0,-89.0
+189,30333,Saint Lawrence Island,Place found,63.5,-170.43
+190,30334,Alaska,Place found,65.0,-153.0
+192,30335,Illinois,Place found,40.0,-89.0
+194,30337,Alaska,Place found,65.0,-153.0
+196,30338,Kotzebue Sound,Place found,66.53,-162.73
+197,30343,Illinois,Place found,40.0,-89.0
+199,30346,Ohio,Place found,40.0,-80.83
+201,30347,Illinois,Place found,40.0,-89.0
+203,30348,Ohio,Place found,40.0,-80.83
+204,30350,Ohio,Place found,40.0,-80.83
+206,30351,Tennessee,Place found,35.5,-85.0
+208,30356,Ohio,Place found,40.0,-80.83
+209,30359,Oklahoma,Place found,35.0,-98.0
+211,30362,United States of America,Place found,38.0,-98.0
+214,30363,Leflore county,Place found,33.52,-90.22
+220,30364,Leflore county,Place found,33.52,-90.22
+226,30366,Leflore county,Place found,33.52,-90.22
+232,30375,Leflore county,Place found,33.52,-90.22
+238,30377,Anderson River,Place found,38.3,-86.6
+239,30378,Oklahoma,Place found,35.0,-98.0
+242,30379,Oklahoma,Place found,35.0,-98.0
+245,30380,Alaska,Place found,65.0,-153.0
+246,30381,Alaska,Place found,65.0,-153.0
+248,30382,Leflore county,Place found,33.52,-90.22
+254,30384,Illinois,Place found,40.0,-89.0
+255,30385,Illinois,Place found,40.0,-89.0
+259,30387,Leflore county,Place found,33.52,-90.22
+265,30388,Illinois,Place found,40.0,-89.0
+269,30389,Leflore county,Place found,33.52,-90.22
+275,30391,Illinois,Place found,40.0,-89.0
+279,30392,Ohio,Place found,40.0,-80.83
+281,30393,Illinois,Place found,40.0,-89.0
+283,30394,Arkansas,Place found,35.0,-93.0
+284,30397,Illinois,Place found,40.0,-89.0
+286,30398,Ohio,Place found,40.0,-80.83
+289,30399,Georgia,Place found,32.0,-84.0
+291,30400,Ohio,Place found,40.0,-80.83
+293,30405,Illinois,Place found,40.0,-89.0
+295,30407,Panama,Place found,9.0,-80.0
+296,30409,Missouri,Place found,38.0,-98.0
+298,30410,Central Mexico,Place found,,
+300,30411,Central Mexico,Place found,,
+302,30412,Illinois,Place found,40.0,-89.0
+304,30413,Illinois,Place found,40.0,-89.0
+306,30414,MÃ©xico,Place found,23.0,-102.0
+308,30415,MÃ©xico,Place found,23.0,-102.0
+309,30417,Michigan,Place found,44.0,-85.0
+311,30419,MÃ©xico,Place found,23.0,-102.0
+312,30420,Ohio,Place found,40.0,-80.83
+314,30422,MÃ©xico,Place found,23.0,-102.0
+315,30423,Illinois,Place found,40.0,-89.0
+317,30424,Ohio,Place found,40.0,-80.83
+318,30425,MÃ©xico,Place found,23.0,-102.0
+320,30426,Indiana,Place found,40.0,-86.0
+322,30429,Indiana,Place found,40.0,-86.0
+324,30431,MÃ©xico,Place found,23.0,-102.0
+326,30432,MÃ©xico,Place found,23.0,-102.0
+328,30433,Indiana,Place found,40.0,-86.0
+330,30436,Indiana,Place found,40.0,-86.0
+332,30438,MÃ©xico,Place found,23.0,-102.0
+334,30439,MÃ©xico,Place found,23.0,-102.0
+335,30440,Michigan,Place found,44.0,-85.0
+337,30441,Michigan,Place found,44.0,-85.0
+339,30442,MÃ©xico,Place found,23.0,-102.0
+342,30443,Michigan,Place found,44.0,-85.0
+344,30445,MÃ©xico,Place found,23.0,-102.0
+345,30446,Michigan,Place found,44.0,-85.0
+347,30447,Ohio,Place found,40.0,-80.83
+349,30448,MÃ©xico,Place found,23.0,-102.0
+350,30450,Ohio,Place found,40.0,-80.83
+352,30451,Ohio,Place found,40.0,-80.83
+354,30452,United States of America,Place found,38.0,-98.0
+356,30453,England,Place Made,53.0,-2.0
+357,30454,Michigan,Place found,44.0,-85.0
+359,30455,United States of America,Place found,38.0,-98.0
+361,30456,United States of America,Place found,38.0,-98.0
+366,30457,France,Place Made,46.0,2.0
+367,30458,United States of America,Place found,38.0,-98.0
+369,30459,United States of America,Place found,38.0,-98.0
+371,30460,United States of America,Place found,38.0,-98.0
+373,30461,France,Place Made,46.0,2.0
+374,30462,United States of America,Place found,38.0,-98.0
+376,30463,United States of America,Place found,38.0,-98.0
+378,30466,United States of America,Place found,38.0,-98.0
+380,30467,United States of America,Place found,38.0,-98.0
+382,30468,Arizona,Place found,34.0,-112.0
+384,30469,Arizona,Place found,34.0,-112.0
+385,30470,United States of America,Place found,38.0,-98.0
+387,30471,United States of America,Place found,38.0,-98.0
+389,30472,Alaska,Place found,65.0,-153.0
+391,30475,United States of America,Place found,38.0,-98.0
+393,30476,New Mexico,Place found,35.0,-105.0
+395,30477,United States of America,Place found,38.0,-98.0
+398,30480,United States of America,Place found,38.0,-98.0
+400,30481,Alaska,Place found,65.0,-153.0
+402,30485,United States of America,Place found,38.0,-98.0
+404,30486,United States of America,Place found,38.0,-98.0
+406,30491,United States of America,Place found,38.0,-98.0
+408,30493,United States of America,Place found,38.0,-98.0
+410,30494,United States of America,Place found,38.0,-98.0
+412,30496,United States of America,Place found,38.0,-98.0
+414,30500,United States of America,Place found,38.0,-98.0
+416,30501,United States of America,Place found,38.0,-98.0
+418,30504,Ohio,Place found,40.0,-80.83
+420,30505,United States of America,Place found,38.0,-98.0
+422,30506,Ohio,Place found,40.0,-80.83
+424,30507,South Carolina,Place found,34.0,-80.0
+425,30508,United States of America,Place found,38.0,-98.0
+427,30512,United States of America,Place found,38.0,-98.0
+429,30513,United States of America,Place found,38.0,-98.0
+431,30514,United States of America,Place found,38.0,-98.0
+433,30515,United States of America,Place found,38.0,-98.0
+435,30519,Tennessee,Place found,35.5,-85.0
+437,30521,Missouri,Place found,38.0,-98.0
+439,30526,Illinois,Place found,40.0,-89.0
+440,30527,Illinois,Place found,40.0,-89.0
+441,30530,Missouri,Place found,38.0,-98.0
+442,30531,Missouri,Place found,38.0,-98.0
+444,30537,Kansas,Place found,38.67,-98.0
+446,30538,Illinois,Place found,40.0,-89.0
+448,30539,Ohio,Place found,40.0,-80.83
+449,30541,Illinois,Place found,40.0,-89.0
+451,30542,Illinois,Place found,40.0,-89.0
+452,30544,Missouri,Place found,38.0,-98.0
+454,30547,Illinois,Place found,40.0,-89.0
+456,30549,Arkansas,Place found,35.0,-93.0
+460,30550,Arkansas,Place found,35.0,-93.0
+464,30551,Ouachita River,Place found,34.68,-94.32
+469,30552,Arkansas,Place found,35.0,-93.0
+471,30554,Arkansas,Place found,35.0,-93.0
+475,30555,Arkansas,Place found,35.0,-93.0
+478,30556,Arkansas,Place found,35.0,-93.0
+483,30557,Arkansas,Place found,35.0,-93.0
+486,30558,Ouachita River,Place found,34.68,-94.32
+491,30559,Arkansas,Place found,35.0,-93.0
+494,30560,Arkansas,Place found,35.0,-93.0
+498,30561,Arkansas,Place found,35.0,-93.0
+501,30562,Arkansas,Place found,35.0,-93.0
+505,30563,Arkansas,Place found,35.0,-93.0
+508,30564,Arkansas,Place found,35.0,-93.0
+511,30565,Ouachita River,Place found,34.68,-94.32
+516,30566,Ouachita River,Place found,34.68,-94.32
+521,30567,Ouachita River,Place found,34.68,-94.32
+526,30568,Ohio,Place found,40.0,-80.83
+528,30569,Arkansas,Place found,35.0,-93.0
+531,30570,Ouachita River,Place found,34.68,-94.32
+536,30571,Louisiana,Place found,31.0,-92.0
+538,30572,Arkansas,Place found,35.0,-93.0
+541,30573,Arkansas,Place found,35.0,-93.0
+544,30574,Arkansas,Place found,35.0,-93.0
+547,30575,Illinois,Place found,40.0,-89.0
+549,30576,Illinois,Place found,40.0,-89.0
+551,30577,Ohio,Place found,40.0,-80.83
+553,30578,Illinois,Place found,40.0,-89.0
+555,30579,Kentucky,Place found,37.0,-85.0
+557,30580,Michigan,Place found,44.0,-85.0
+559,30581,Illinois,Place found,40.0,-89.0
+561,30582,Missouri,Place found,38.0,-98.0
+563,30583,East of Rockies,Place found,,
+564,30584,Ohio,Place found,40.0,-80.83
+566,30585,Ohio,Place found,40.0,-80.83
+568,30586,Missouri,Place found,38.0,-98.0
+570,30587,Illinois,Place found,40.0,-89.0
+572,30588,East Pennsylvania,Place found,,
+573,30589,Missouri,Place found,38.0,-98.0
+575,30590,Tennessee,Place found,35.5,-85.0
+577,30591,East of Rockies,Place found,,
+578,30592,East of Rockies,Place found,,
+579,30593,Illinois,Place found,40.0,-89.0
+581,30594,Illinois,Place found,40.0,-89.0
+583,30595,Oklahoma,Place found,35.0,-98.0
+585,30596,Kentucky,Place found,37.0,-85.0
+587,30597,Missouri,Place found,38.0,-98.0
+589,30598,Kentucky,Place found,37.0,-85.0
+591,30599,Missouri,Place found,38.0,-98.0
+594,30600,Illinois,Place found,40.0,-89.0
+596,30601,Illinois,Place found,40.0,-89.0
+598,30602,Illinois,Place found,40.0,-89.0
+600,30603,Illinois,Place found,40.0,-89.0
+602,30604,Illinois,Place found,40.0,-89.0
+604,30605,Kentucky,Place found,37.0,-85.0
+606,30606,Indiana,Place found,40.0,-86.0
+608,30607,East of Rockies,Place found,,
+609,30608,Illinois,Place found,40.0,-89.0
+611,30609,Illinois,Place found,40.0,-89.0
+613,30610,Tennessee,Place found,35.5,-85.0
+615,30611,Tennessee,Place found,35.5,-85.0
+618,30612,Indiana,Place found,40.0,-86.0
+621,30613,Wisconsin,Place found,45.0,-90.0
+623,30614,Illinois,Place found,40.0,-89.0
+625,30615,East of Rockies,Place found,,
+626,30616,Arkansas,Place found,35.0,-93.0
+630,30617,Illinois,Place found,40.0,-89.0
+633,30618,Ohio,Place found,40.0,-80.83
+635,30619,East of Rockies,Place found,,
+636,30620,Oklahoma,Place found,35.0,-98.0
+638,30622,Oklahoma,Place found,35.0,-98.0
+640,30623,United States of America,Place found,38.0,-98.0
+642,30624,Oklahoma,Place found,35.0,-98.0
+644,30625,Oklahoma,Place found,35.0,-98.0
+646,30627,Oklahoma,Place found,35.0,-98.0
+648,30628,Oklahoma,Place found,35.0,-98.0
+650,30629,Alaska,Place found,65.0,-153.0
+651,30630,Oklahoma,Place found,35.0,-98.0
+653,30632,Illinois,Place found,40.0,-89.0
+655,30633,Kentucky,Place found,37.0,-85.0
+657,30634,Tennessee,Place found,35.5,-85.0
+658,30635,Missouri,Place found,38.0,-98.0
+662,30637,Ohio,Place found,40.0,-80.83
+665,30638,Kentucky,Place found,37.0,-85.0
+667,30639,Missouri,Place found,38.0,-98.0
+669,30640,Ouachita River,Place found,34.68,-94.32
+673,30641,Illinois,Place found,40.0,-89.0
+674,30642,Illinois,Place found,40.0,-89.0
+676,30643,Illinois,Place found,40.0,-89.0
+678,30645,Illinois,Place found,40.0,-89.0
+680,30646,Missouri,Place found,38.0,-98.0
+682,30647,Ohio,Place found,40.0,-80.83
+684,30649,Ohio,Place found,40.0,-80.83
+686,30650,Indiana,Place found,40.0,-86.0
+688,30651,Kentucky,Place found,37.0,-85.0
+690,30652,Illinois,Place found,40.0,-89.0
+691,30653,Missouri,Place found,38.0,-98.0
+693,30654,Arkansas,Place found,35.0,-93.0
+699,30655,Illinois,Place found,40.0,-89.0
+702,30656,Tennessee,Place found,35.5,-85.0
+704,30657,Tennessee,Place found,35.5,-85.0
+706,30658,Tennessee,Place found,35.5,-85.0
+708,30659,Illinois,Place found,40.0,-89.0
+710,30660,Illinois,Place found,40.0,-89.0
+712,30661,Missouri,Place found,38.0,-98.0
+714,30662,Missouri,Place found,38.0,-98.0
+716,30663,Illinois,Place found,40.0,-89.0
+718,30664,Illinois,Place found,40.0,-89.0
+720,30665,Missouri,Place found,38.0,-98.0
+722,30666,Illinois,Place found,40.0,-89.0
+724,30668,Illinois,Place found,40.0,-89.0
+726,30669,Illinois,Place found,40.0,-89.0
+728,30670,Illinois,Place found,40.0,-89.0
+730,30671,Illinois,Place found,40.0,-89.0
+733,30672,Illinois,Place found,40.0,-89.0
+735,30673,Illinois,Place found,40.0,-89.0
+736,30674,Kentucky,Place found,37.0,-85.0
+738,30675,Illinois,Place found,40.0,-89.0
+740,30676,Illinois,Place found,40.0,-89.0
+742,30677,Tennessee,Place found,35.5,-85.0
+744,30678,Missouri,Place found,38.0,-98.0
+746,30679,Illinois,Place found,40.0,-89.0
+748,30681,Illinois,Place found,40.0,-89.0
+750,30684,Michigan,Place found,44.0,-85.0
+752,30685,Illinois,Place found,40.0,-89.0
+754,30686,Illinois,Place found,40.0,-89.0
+755,30688,Illinois,Place found,40.0,-89.0
+757,30689,Missouri,Place found,38.0,-98.0
+759,30691,Illinois,Place found,40.0,-89.0
+761,30692,Illinois,Place found,40.0,-89.0
+763,30693,Missouri,Place found,38.0,-98.0
+766,30694,Missouri,Place found,38.0,-98.0
+768,30696,Illinois,Place found,40.0,-89.0
+770,30699,Ouachita River,Place found,34.68,-94.32
+775,30700,Ouachita River,Place found,34.68,-94.32
+780,30701,Missouri,Place found,38.0,-98.0
+782,30702,Ouachita River,Place found,34.68,-94.32
+787,30703,Ouachita River,Place found,34.68,-94.32
+792,30704,Arkansas,Place found,35.0,-93.0
+795,30706,Arkansas,Place found,35.0,-93.0
+798,30707,Arkansas,Place found,35.0,-93.0
+801,30713,Ouachita River,Place found,34.68,-94.32
+806,30714,Arkansas,Place found,35.0,-93.0
+809,30715,Arkansas,Place found,35.0,-93.0
+812,30716,Arkansas,Place found,35.0,-93.0
+815,30718,Arkansas,Place found,35.0,-93.0
+819,30719,Ouachita River,Place found,34.68,-94.32
+824,30720,Arkansas,Place found,35.0,-93.0
+827,30721,Ouachita River,Place found,34.68,-94.32
+832,30722,Arkansas,Place found,35.0,-93.0
+835,30723,Arkansas,Place found,35.0,-93.0
+838,30724,Arkansas,Place found,35.0,-93.0
+841,30725,Arkansas,Place found,35.0,-93.0
+844,30727,Arkansas,Place found,35.0,-93.0
+848,30730,Arkansas,Place found,35.0,-93.0
+851,30734,Arkansas,Place found,35.0,-93.0
+854,30736,Ouachita River,Place found,34.68,-94.32
+859,30738,Arkansas,Place found,35.0,-93.0
+863,30739,Arkansas,Place found,35.0,-93.0
+867,30740,Ouachita River,Place found,34.68,-94.32
+872,30742,Arkansas,Place found,35.0,-93.0
+875,30743,Arkansas,Place found,35.0,-93.0
+878,30745,Arkansas,Place found,35.0,-93.0
+882,30746,Arkansas,Place found,35.0,-93.0
+885,30750,Ouachita River,Place found,34.68,-94.32
+890,30752,Ouachita River,Place found,34.68,-94.32
+895,30754,Ouachita River,Place found,34.68,-94.32
+900,30755,Ouachita River,Place found,34.68,-94.32
+905,30756,Ouachita River,Place found,34.68,-94.32
+910,30757,Ouachita River,Place found,34.68,-94.32
+915,30760,Ouachita River,Place found,34.68,-94.32
+920,30762,Ouachita River,Place found,34.68,-94.32
+925,30763,Ouachita River,Place found,34.68,-94.32
+930,30764,Ouachita River,Place found,34.68,-94.32
+935,30767,Ouachita River,Place found,34.68,-94.32
+940,30768,Ouachita River,Place found,34.68,-94.32
+945,30770,Ouachita River,Place found,34.68,-94.32
+950,30773,Ouachita River,Place found,34.68,-94.32
+955,30775,Ouachita River,Place found,34.68,-94.32
+960,30777,Arkansas,Place found,35.0,-93.0
+964,30779,Ouachita River,Place found,34.68,-94.32
+969,30780,Ouachita River,Place found,34.68,-94.32
+974,30783,Ouachita River,Place found,34.68,-94.32
+979,30784,Ouachita River,Place found,34.68,-94.32
+984,30788,Ouachita River,Place found,34.68,-94.32
+989,30789,Ouachita River,Place found,34.68,-94.32
+994,30790,Ouachita River,Place found,34.68,-94.32
+999,30791,Ouachita River,Place found,34.68,-94.32
+1004,30792,Ouachita River,Place found,34.68,-94.32
+1009,30794,Arkansas,Place found,35.0,-93.0
+1012,30795,Ouachita River,Place found,34.68,-94.32
+1017,30796,Ouachita River,Place found,34.68,-94.32
+1022,30799,Ouachita River,Place found,34.68,-94.32
+1027,30802,Arkansas,Place found,35.0,-93.0
+1030,30803,Tennessee,Place found,35.5,-85.0
+1031,30805,Missouri,Place found,38.0,-98.0
+1033,30806,Ouachita River,Place found,34.68,-94.32
+1038,30807,Illinois,Place found,40.0,-89.0
+1040,30809,Michigan,Place found,44.0,-85.0
+1042,30810,Kentucky,Place found,37.0,-85.0
+1044,30811,Michigan,Place found,44.0,-85.0
+1047,30812,Missouri,Place found,38.0,-98.0
+1049,30813,Ohio,Place found,40.0,-80.83
+1052,30814,Ohio,Place found,40.0,-80.83
+1054,30815,Missouri,Place found,38.0,-98.0
+1055,30817,Ohio,Place found,40.0,-80.83
+1056,30818,Indiana,Place found,40.0,-86.0
+1058,30820,Indiana,Place found,40.0,-86.0
+1060,30821,Illinois,Place found,40.0,-89.0
+1062,30822,Tennessee,Place found,35.5,-85.0
+1064,30823,Missouri,Place found,38.0,-98.0
+1067,30824,Ohio,Place found,40.0,-80.83
+1068,30825,Illinois,Place found,40.0,-89.0
+1071,30826,Ohio,Place found,40.0,-80.83
+1073,30827,Illinois,Place found,40.0,-89.0
+1075,30828,Alaska,Place found,65.0,-153.0
+1077,30829,Indiana,Place found,40.0,-86.0
+1079,30830,Indiana,Place found,40.0,-86.0
+1081,30831,Missouri,Place found,38.0,-98.0
+1084,30832,Arkansas,Place found,35.0,-93.0
+1088,30834,Missouri,Place found,38.0,-98.0
+1091,30838,Indiana,Place found,40.0,-86.0
+1093,30839,Indiana,Place found,40.0,-86.0
+1095,30842,Wisconsin,Place found,45.0,-90.0
+1097,30843,United States of America,Place found,38.0,-98.0
+1101,30844,Illinois,Place found,40.0,-89.0
+1102,30846,Ouachita River,Place found,34.68,-94.32
+1107,30847,Ouachita River,Place found,34.68,-94.32
+1112,30848,Arkansas,Place found,35.0,-93.0
+1115,30849,Ouachita River,Place found,34.68,-94.32
+1120,30850,Arkansas,Place found,35.0,-93.0
+1123,30851,Ouachita River,Place found,34.68,-94.32
+1128,30852,Ouachita River,Place found,34.68,-94.32
+1133,30853,Ouachita River,Place found,34.68,-94.32
+1138,30854,Arkansas,Place found,35.0,-93.0
+1142,30855,Ouachita River,Place found,34.68,-94.32
+1147,30859,Arkansas,Place found,35.0,-93.0
+1150,30862,Arkansas,Place found,35.0,-93.0
+1153,30863,Arkansas,Place found,35.0,-93.0
+1156,30865,Ouachita River,Place found,34.68,-94.32
+1161,30871,Arkansas,Place found,35.0,-93.0
+1164,30874,Ouachita River,Place found,34.68,-94.32
+1169,30876,Ouachita River,Place found,34.68,-94.32
+1174,30878,Arkansas,Place found,35.0,-93.0
+1178,30882,Ouachita River,Place found,34.68,-94.32
+1183,30884,Ouachita River,Place found,34.68,-94.32
+1188,30885,Ouachita River,Place found,34.68,-94.32
+1193,30886,Ouachita River,Place found,34.68,-94.32
+1198,30887,Ouachita River,Place found,34.68,-94.32
+1203,30889,Ouachita River,Place found,34.68,-94.32
+1208,30891,Ouachita River,Place found,34.68,-94.32
+1213,30892,Ouachita River,Place found,34.68,-94.32
+1218,30893,Arkansas,Place found,35.0,-93.0
+1221,30894,Ouachita River,Place found,34.68,-94.32
+1226,30895,Ouachita River,Place found,34.68,-94.32
+1231,30897,Ouachita River,Place found,34.68,-94.32
+1236,30898,Ouachita River,Place found,34.68,-94.32
+1241,30899,Ouachita River,Place found,34.68,-94.32
+1246,30901,Ouachita River,Place found,34.68,-94.32
+1251,30902,Alaska,Place found,65.0,-153.0
+1253,30905,Illinois,Place found,40.0,-89.0
+1255,30906,Missouri,Place found,38.0,-98.0
+1257,30907,Ouachita River,Place found,34.68,-94.32
+1262,30908,Ouachita River,Place found,34.68,-94.32
+1267,30909,Illinois,Place found,40.0,-89.0
+1269,30911,Illinois,Place found,40.0,-89.0
+1271,30917,Ohio,Place found,40.0,-80.83
+1273,30919,Christian,Place found,36.97,-93.18
+1275,30922,Indiana,Place found,40.0,-86.0
+1277,30924,Kentucky,Place found,37.0,-85.0
+1279,30925,Kentucky,Place found,37.0,-85.0
+1281,30926,Illinois,Place found,40.0,-89.0
+1283,30927,Illinois,Place found,40.0,-89.0
+1285,30944,Christian,Place found,36.97,-93.18
+1287,30952,Indiana,Place found,40.0,-86.0
+1289,30953,Indiana,Place found,40.0,-86.0
+1291,30954,Indiana,Place found,40.0,-86.0
+1293,30955,Ohio,Place found,40.0,-80.83
+1294,30957,Indiana,Place found,40.0,-86.0
+1296,30958,Missouri,Place found,38.0,-98.0
+1298,30961,Illinois,Place found,40.0,-89.0
+1300,30965,Ohio,Place found,40.0,-80.83
+1302,30967,Kentucky,Place found,37.0,-85.0
+1304,30968,Illinois,Place found,40.0,-89.0
+1306,30969,Ohio,Place found,40.0,-80.83
+1307,30979,Missouri,Place found,38.0,-98.0
+1309,30980,Ohio,Place found,40.0,-80.83
+1311,30983,Illinois,Place found,40.0,-89.0
+1314,30984,Illinois,Place found,40.0,-89.0
+1316,30985,Missouri,Place found,38.0,-98.0
+1319,30988,Kentucky,Place found,37.0,-85.0
+1321,30991,Kentucky,Place found,37.0,-85.0
+1322,30992,Illinois,Place found,40.0,-89.0
+1323,30994,Illinois,Place found,40.0,-89.0
+1325,30998,Illinois,Place found,40.0,-89.0
+1327,30999,Missouri,Place found,38.0,-98.0
+1329,31000,Illinois,Place found,40.0,-89.0
+1331,31001,Illinois,Place found,40.0,-89.0
+1333,31002,Illinois,Place found,40.0,-89.0
+1336,31003,Ohio,Place found,40.0,-80.83
+1337,31005,Indiana,Place found,40.0,-86.0
+1339,31007,Indiana,Place found,40.0,-86.0
+1340,31008,Ohio,Place found,40.0,-80.83
+1342,31010,Missouri,Place found,38.0,-98.0
+1344,31011,Missouri,Place found,38.0,-98.0
+1345,31016,Oklahoma,Place found,35.0,-98.0
+1348,31018,Minford,Place found,38.85,-82.85
+1350,31020,Illinois,Place found,40.0,-89.0
+1352,31022,Missouri,Place found,38.0,-98.0
+1355,31024,Ohio,Place found,40.0,-80.83
+1357,31026,Ohio,Place found,40.0,-80.83
+1360,31029,Illinois,Place found,40.0,-89.0
+1362,31031,Illinois,Place found,40.0,-89.0
+1364,31032,Illinois,Place found,40.0,-89.0
+1366,31034,Illinois,Place found,40.0,-89.0
+1367,31038,Illinois,Place found,40.0,-89.0
+1369,31043,Missouri,Place found,38.0,-98.0
+1372,31044,Illinois,Place found,40.0,-89.0
+1374,31045,Illinois,Place found,40.0,-89.0
+1376,31046,Illinois,Place found,40.0,-89.0
+1378,31047,Ohio,Place found,40.0,-80.83
+1380,31048,Wisconsin,Place found,45.0,-90.0
+1382,31056,Ouachita River,Place found,34.68,-94.32
+1387,31057,Ohio,Place found,40.0,-80.83
+1390,31060,Ohio,Place found,40.0,-80.83
+1392,31061,Illinois,Place found,40.0,-89.0
+1394,31063,Ohio,Place found,40.0,-80.83
+1396,31064,Illinois,Place found,40.0,-89.0
+1398,31065,Illinois,Place found,40.0,-89.0
+1400,31066,Illinois,Place found,40.0,-89.0
+1402,31067,Illinois,Place found,40.0,-89.0
+1404,31068,Tennessee,Place found,35.5,-85.0
+1407,31069,Ouachita River,Place found,34.68,-94.32
+1412,31070,Michigan,Place found,44.0,-85.0
+1414,31071,Ohio,Place found,40.0,-80.83
+1416,31072,Ouachita River,Place found,34.68,-94.32
+1421,31073,Illinois,Place found,40.0,-89.0
+1423,31075,Missouri,Place found,38.0,-98.0
+1425,31077,Illinois,Place found,40.0,-89.0
+1427,31078,Illinois,Place found,40.0,-89.0
+1429,31080,Illinois,Place found,40.0,-89.0
+1431,31083,Illinois,Place found,40.0,-89.0
+1433,31085,Illinois,Place found,40.0,-89.0
+1435,31090,Ouachita River,Place found,34.68,-94.32
+1440,31094,Missouri,Place found,38.0,-98.0
+1443,31095,Ouachita River,Place found,34.68,-94.32
+1447,31099,Illinois,Place found,40.0,-89.0
+1449,31103,Missouri,Place found,38.0,-98.0
+1450,31104,Illinois,Place found,40.0,-89.0
+1452,31106,Ouachita River,Place found,34.68,-94.32
+1457,31109,Ouachita River,Place found,34.68,-94.32
+1462,31111,Illinois,Place found,40.0,-89.0
+1464,31113,Missouri,Place found,38.0,-98.0
+1466,31115,Missouri,Place found,38.0,-98.0
+1468,31120,Missouri,Place found,38.0,-98.0
+1470,31122,Arkansas,Place found,35.0,-93.0
+1473,31123,Illinois,Place found,40.0,-89.0
+1475,31126,Arkansas,Place found,35.0,-93.0
+1478,31127,Ouachita River,Place found,34.68,-94.32
+1483,31128,Arkansas,Place found,35.0,-93.0
+1486,31130,Ouachita River,Place found,34.68,-94.32
+1491,31131,Ouachita River,Place found,34.68,-94.32
+1496,31132,Ouachita River,Place found,34.68,-94.32
+1501,31133,Arkansas,Place found,35.0,-93.0
+1505,31134,Ouachita River,Place found,34.68,-94.32
+1510,31135,Ouachita River,Place found,34.68,-94.32
+1515,31136,Arkansas,Place found,35.0,-93.0
+1519,31137,Arkansas,Place found,35.0,-93.0
+1522,31138,Ouachita River,Place found,34.68,-94.32
+1527,31139,Ouachita River,Place found,34.68,-94.32
+1532,31140,Ouachita River,Place found,34.68,-94.32
+1537,31141,Ouachita River,Place found,34.68,-94.32
+1542,31144,Arkansas,Place found,35.0,-93.0
+1545,31145,Arkansas,Place found,35.0,-93.0
+1548,31146,Ouachita River,Place found,34.68,-94.32
+1553,31148,Ouachita River,Place found,34.68,-94.32
+1558,31149,Arkansas,Place found,35.0,-93.0
+1561,31151,Arkansas,Place found,35.0,-93.0
+1565,31153,Ouachita River,Place found,34.68,-94.32
+1570,31154,Ouachita River,Place found,34.68,-94.32
+1575,31155,Ouachita River,Place found,34.68,-94.32
+1580,31158,Arkansas,Place found,35.0,-93.0
+1583,31159,Ouachita River,Place found,34.68,-94.32
+1588,31160,Arkansas,Place found,35.0,-93.0
+1591,31161,Arkansas,Place found,35.0,-93.0
+1595,31162,Ouachita River,Place found,34.68,-94.32
+1600,31163,Ouachita River,Place found,34.68,-94.32
+1605,31164,Missouri,Place found,38.0,-98.0
+1607,31165,Illinois,Place found,40.0,-89.0
+1609,31166,Illinois,Place found,40.0,-89.0
+1611,31170,Illinois,Place found,40.0,-89.0
+1613,31171,Illinois,Place found,40.0,-89.0
+1615,31172,Illinois,Place found,40.0,-89.0
+1617,31174,Illinois,Place found,40.0,-89.0
+1618,31175,Illinois,Place found,40.0,-89.0
+1619,31176,Illinois,Place found,40.0,-89.0
+1620,31177,Missouri,Place found,38.0,-98.0
+1622,31178,Illinois,Place found,40.0,-89.0
+1624,31179,Illinois,Place found,40.0,-89.0
+1626,31180,Illinois,Place found,40.0,-89.0
+1628,31182,Illinois,Place found,40.0,-89.0
+1630,31183,Illinois,Place found,40.0,-89.0
+1632,31184,Illinois,Place found,40.0,-89.0
+1634,31186,Missouri,Place found,38.0,-98.0
+1636,31188,Illinois,Place found,40.0,-89.0
+1638,31189,Illinois,Place found,40.0,-89.0
+1640,31190,Illinois,Place found,40.0,-89.0
+1642,31191,Illinois,Place found,40.0,-89.0
+1645,31192,Missouri,Place found,38.0,-98.0
+1647,31194,Illinois,Place found,40.0,-89.0
+1648,31197,Illinois,Place found,40.0,-89.0
+1649,31198,Illinois,Place found,40.0,-89.0
+1650,31199,Illinois,Place found,40.0,-89.0
+1653,31200,Missouri,Place found,38.0,-98.0
+1655,31201,Illinois,Place found,40.0,-89.0
+1657,31202,Illinois,Place found,40.0,-89.0
+1658,31203,Illinois,Place found,40.0,-89.0
+1659,31204,Illinois,Place found,40.0,-89.0
+1662,31206,Illinois,Place found,40.0,-89.0
+1664,31207,Illinois,Place found,40.0,-89.0
+1666,31210,Illinois,Place found,40.0,-89.0
+1668,31211,Ohio,Place found,40.0,-80.83
+1670,31212,Illinois,Place found,40.0,-89.0
+1672,31213,Illinois,Place found,40.0,-89.0
+1675,31215,Illinois,Place found,40.0,-89.0
+1677,31216,Illinois,Place found,40.0,-89.0
+1679,31217,Missouri,Place found,38.0,-98.0
+1681,31218,Missouri,Place found,38.0,-98.0
+1684,31219,Tennessee,Place found,35.5,-85.0
+1685,31221,Ohio,Place found,40.0,-80.83
+1687,31222,Illinois,Place found,40.0,-89.0
+1689,31224,Missouri,Place found,38.0,-98.0
+1691,31226,Illinois,Place found,40.0,-89.0
+1693,31227,Illinois,Place found,40.0,-89.0
+1695,31228,Illinois,Place found,40.0,-89.0
+1697,31229,Illinois,Place found,40.0,-89.0
+1699,31230,Missouri,Place found,38.0,-98.0
+1701,31232,Illinois,Place found,40.0,-89.0
+1703,31235,Illinois,Place found,40.0,-89.0
+1705,31236,Illinois,Place found,40.0,-89.0
+1707,31237,Ohio,Place found,40.0,-80.83
+1709,31238,Missouri,Place found,38.0,-98.0
+1711,31239,Missouri,Place found,38.0,-98.0
+1713,31240,Missouri,Place found,38.0,-98.0
+1715,31241,county,Place found,,
+1717,31242,Illinois,Place found,40.0,-89.0
+1719,31243,Illinois,Place found,40.0,-89.0
+1721,31244,Ohio,Place found,40.0,-80.83
+1723,31252,Ohio,Place found,40.0,-80.83
+1725,31253,Ohio,Place found,40.0,-80.83
+1728,31254,Ohio,Place found,40.0,-80.83
+1730,31255,Ohio,Place found,40.0,-80.83
+1732,31256,Ohio,Place found,40.0,-80.83
+1734,31264,Illinois,Place found,40.0,-89.0
+1736,31265,Ohio,Place found,40.0,-80.83
+1738,31269,Ohio,Place found,40.0,-80.83
+1740,31270,Ohio,Place found,40.0,-80.83
+1742,31272,Indiana,Place found,40.0,-86.0
+1744,31274,Ohio,Place found,40.0,-80.83
+1745,31276,Illinois,Place found,40.0,-89.0
+1747,31278,Ohio,Place found,40.0,-80.83
+1749,31279,Ohio,Place found,40.0,-80.83
+1751,31280,Missouri,Place found,38.0,-98.0
+1754,31282,Ohio,Place found,40.0,-80.83
+1756,31283,Illinois,Place found,40.0,-89.0
+1758,31287,Ohio,Place found,40.0,-80.83
+1760,31288,Ohio,Place found,40.0,-80.83
+1762,31290,Ohio,Place found,40.0,-80.83
+1764,31291,Illinois,Place found,40.0,-89.0
+1766,31292,Ohio,Place found,40.0,-80.83
+1768,31293,Illinois,Place found,40.0,-89.0
+1770,31296,Missouri,Place found,38.0,-98.0
+1772,31297,Illinois,Place found,40.0,-89.0
+1774,31298,Arizona,Place found,34.0,-112.0
+1775,31299,Ohio,Place found,40.0,-80.83
+1777,31300,Illinois,Place found,40.0,-89.0
+1780,31301,Illinois,Place found,40.0,-89.0
+1783,31302,Illinois,Place found,40.0,-89.0
+1785,31303,Missouri,Place found,38.0,-98.0
+1788,31305,Ohio,Place found,40.0,-80.83
+1790,31306,Ohio,Place found,40.0,-80.83
+1792,31307,Ohio,Place found,40.0,-80.83
+1793,31308,Ohio,Place found,40.0,-80.83
+1794,31309,Ohio,Place found,40.0,-80.83
+1796,31310,Illinois,Place found,40.0,-89.0
+1798,31311,Ohio,Place found,40.0,-80.83
+1800,31314,Illinois,Place found,40.0,-89.0
+1802,31315,Illinois,Place found,40.0,-89.0
+1804,31317,Ohio,Place found,40.0,-80.83
+1805,31318,Illinois,Place found,40.0,-89.0
+1807,31320,Ohio,Place found,40.0,-80.83
+1808,31321,Ohio,Place found,40.0,-80.83
+1810,31322,Illinois,Place found,40.0,-89.0
+1812,31324,Illinois,Place found,40.0,-89.0
+1814,31325,Illinois,Place found,40.0,-89.0
+1816,31326,Ouachita River,Place found,34.68,-94.32
+1821,31327,Arkansas,Place found,35.0,-93.0
+1824,31328,Kentucky,Place found,37.0,-85.0
+1826,31330,Kentucky,Place found,37.0,-85.0
+1827,31331,Michigan,Place found,44.0,-85.0
+1828,31334,Arkansas,Place found,35.0,-93.0
+1832,31335,Tennessee,Place found,35.5,-85.0
+1834,31336,Illinois,Place found,40.0,-89.0
+1835,31337,Ohio,Place found,40.0,-80.83
+1837,31338,Ohio,Place found,40.0,-80.83
+1838,31339,Ohio,Place found,40.0,-80.83
+1839,31342,Kentucky,Place found,37.0,-85.0
+1841,31344,Kentucky,Place found,37.0,-85.0
+1843,31346,Kentucky,Place found,37.0,-85.0
+1845,31348,Missouri,Place found,38.0,-98.0
+1847,31350,Kentucky,Place found,37.0,-85.0
+1850,31351,Illinois,Place found,40.0,-89.0
+1852,31352,Illinois,Place found,40.0,-89.0
+1855,31353,Ohio,Place found,40.0,-80.83
+1857,31354,Ohio,Place found,40.0,-80.83
+1859,31355,Ohio,Place found,40.0,-80.83
+1861,31356,Illinois,Place found,40.0,-89.0
+1863,31357,Mississippi,Place found,83.0,-90.0
+1865,31358,Ohio,Place found,40.0,-80.83
+1867,31359,Missouri,Place found,38.0,-98.0
+1869,31361,Arkansas,Place found,35.0,-93.0
+1870,31362,Ouachita River,Place found,34.68,-94.32
+1875,31363,Ouachita River,Place found,34.68,-94.32
+1880,31364,Ouachita River,Place found,34.68,-94.32
+1885,31366,Ouachita River,Place found,34.68,-94.32
+1890,31367,Ouachita River,Place found,34.68,-94.32
+1895,31368,Arkansas,Place found,35.0,-93.0
+1896,31371,Ohio,Place found,40.0,-80.83
+1898,31372,Ohio,Place found,40.0,-80.83
+1900,31373,Illinois,Place found,40.0,-89.0
+1902,31374,Ouachita River,Place found,34.68,-94.32
+1907,31376,Illinois,Place found,40.0,-89.0
+1909,31378,Ohio,Place found,40.0,-80.83
+1911,31379,Tennessee,Place found,35.5,-85.0
+1913,31380,Illinois,Place found,40.0,-89.0
+1915,31382,Ouachita River,Place found,34.68,-94.32
+1920,31384,Ohio,Place found,40.0,-80.83
+1922,31385,Ouachita River,Place found,34.68,-94.32
+1927,31387,Ouachita River,Place found,34.68,-94.32
+1932,31388,Illinois,Place found,40.0,-89.0
+1933,31390,Arkansas,Place found,35.0,-93.0
+1936,31391,Missouri,Place found,38.0,-98.0
+1939,31392,Illinois,Place found,40.0,-89.0
+1942,31395,Illinois,Place found,40.0,-89.0
+1944,31398,Ouachita River,Place found,34.68,-94.32
+1949,31401,Ohio,Place found,40.0,-80.83
+1952,31403,Missouri,Place found,38.0,-98.0
+1953,31405,Ouachita River,Place found,34.68,-94.32
+1958,31406,Illinois,Place found,40.0,-89.0
+1960,31407,Missouri,Place found,38.0,-98.0
+1962,31409,Ouachita River,Place found,34.68,-94.32
+1967,31411,Illinois,Place found,40.0,-89.0
+1969,31412,Ouachita River,Place found,34.68,-94.32
+1974,31413,Ouachita River,Place found,34.68,-94.32
+1979,31416,Ouachita River,Place found,34.68,-94.32
+1984,31418,Arkansas,Place found,35.0,-93.0
+1985,31420,Ohio,Place found,40.0,-80.83
+1986,31421,Illinois,Place found,40.0,-89.0
+1989,31422,Illinois,Place found,40.0,-89.0
+1991,31423,Illinois,Place found,40.0,-89.0
+1993,31424,Ouachita River,Place found,34.68,-94.32
+1998,31425,Illinois,Place found,40.0,-89.0
+1999,31429,Ouachita River,Place found,34.68,-94.32
+2004,31430,Arkansas,Place found,35.0,-93.0
+2007,31431,Ouachita River,Place found,34.68,-94.32
+2012,31432,Arkansas,Place found,35.0,-93.0
+2015,31435,Arkansas,Place found,35.0,-93.0
+2018,31436,Ouachita River,Place found,34.68,-94.32
+2023,31437,Illinois,Place found,40.0,-89.0
+2025,31439,Illinois,Place found,40.0,-89.0
+2027,31440,Illinois,Place found,40.0,-89.0
+2029,31442,Alaska,Place found,65.0,-153.0
+2030,31443,Illinois,Place found,40.0,-89.0
+2031,31523,Arkansas,Place found,35.0,-93.0
+2034,31524,Arkansas,Place found,35.0,-93.0
+2037,31525,Arkansas,Place found,35.0,-93.0
+2040,31526,Arkansas,Place found,35.0,-93.0
+2043,31527,Arkansas,Place found,35.0,-93.0
+2046,31528,Arkansas,Place found,35.0,-93.0
+2049,31529,Arkansas,Place found,35.0,-93.0
+2052,31530,Arkansas,Place found,35.0,-93.0
+2055,31531,Arkansas,Place found,35.0,-93.0
+2058,31532,Arkansas,Place found,35.0,-93.0
+2061,31533,Arkansas,Place found,35.0,-93.0
+2064,31534,Arkansas,Place found,35.0,-93.0
+2067,31535,Arkansas,Place found,35.0,-93.0
+2070,31536,Arkansas,Place found,35.0,-93.0
+2073,31537,Arkansas,Place found,35.0,-93.0
+2076,31538,Arkansas,Place found,35.0,-93.0
+2079,31539,Arkansas,Place found,35.0,-93.0
+2082,31540,Arkansas,Place found,35.0,-93.0
+2085,31541,Arkansas,Place found,35.0,-93.0
+2088,31542,Arkansas,Place found,35.0,-93.0
+2091,31543,Arkansas,Place found,35.0,-93.0
+2094,31544,Arkansas,Place found,35.0,-93.0
+2097,31545,Arkansas,Place found,35.0,-93.0
+2100,31546,Arkansas,Place found,35.0,-93.0
+2103,31547,Arkansas,Place found,35.0,-93.0
+2106,31548,Arkansas,Place found,35.0,-93.0
+2109,31549,Arkansas,Place found,35.0,-93.0
+2112,31550,Arkansas,Place found,35.0,-93.0
+2115,31551,Arkansas,Place found,35.0,-93.0
+2118,31552,Arkansas,Place found,35.0,-93.0
+2121,31553,Arkansas,Place found,35.0,-93.0
+2124,31554,Arkansas,Place found,35.0,-93.0
+2127,31555,Arkansas,Place found,35.0,-93.0
+2130,31556,Arkansas,Place found,35.0,-93.0
+2133,31557,Arkansas,Place found,35.0,-93.0
+2136,31558,Arkansas,Place found,35.0,-93.0
+2139,31559,Arkansas,Place found,35.0,-93.0
+2142,31560,Arkansas,Place found,35.0,-93.0
+2145,31561,Arkansas,Place found,35.0,-93.0
+2148,31562,Arkansas,Place found,35.0,-93.0
+2151,31593,Ouachita River,Place found,34.68,-94.32
+2156,31597,Ouachita River,Place found,34.68,-94.32
+2161,31598,Ouachita River,Place found,34.68,-94.32
+2166,31599,Ouachita River,Place found,34.68,-94.32
+2171,31601,Ouachita River,Place found,34.68,-94.32
+2176,31602,Ouachita River,Place found,34.68,-94.32
+2181,31605,Illinois,Place found,40.0,-89.0
+2182,31606,Arkansas,Place found,35.0,-93.0
+2186,31608,Ouachita River,Place found,34.68,-94.32
+2191,31610,Ouachita River,Place found,34.68,-94.32
+2196,31613,Ouachita River,Place found,34.68,-94.32
+2201,31617,Ouachita River,Place found,34.68,-94.32
+2206,31620,Arkansas,Place found,35.0,-93.0
+2210,31621,Ouachita River,Place found,34.68,-94.32
+2215,31622,Ouachita River,Place found,34.68,-94.32
+2220,31623,Arkansas,Place found,35.0,-93.0
+2224,31624,Ouachita River,Place found,34.68,-94.32
+2229,31625,Ouachita River,Place found,34.68,-94.32
+2234,31626,Ouachita River,Place found,34.68,-94.32
+2239,31627,Ouachita River,Place found,34.68,-94.32
+2244,31628,Ouachita River,Place found,34.68,-94.32
+2249,31629,Ouachita River,Place found,34.68,-94.32
+2254,31631,Ouachita River,Place found,34.68,-94.32
+2259,31633,Ouachita River,Place found,34.68,-94.32
+2264,31635,Ouachita River,Place found,34.68,-94.32
+2269,31636,Ouachita River,Place found,34.68,-94.32
+2274,31637,Ouachita River,Place found,34.68,-94.32
+2279,31638,Arkansas,Place found,35.0,-93.0
+2281,31639,Ouachita River,Place found,34.68,-94.32
+2286,31640,Ouachita River,Place found,34.68,-94.32
+2291,31641,Arkansas,Place found,35.0,-93.0
+2295,31642,Arkansas,Place found,35.0,-93.0
+2299,31643,Ouachita River,Place found,34.68,-94.32
+2304,31647,Arkansas,Place found,35.0,-93.0
+2308,31648,Ouachita River,Place found,34.68,-94.32
+2313,31649,Ouachita River,Place found,34.68,-94.32
+2318,31650,Arkansas,Place found,35.0,-93.0
+2322,31651,Ouachita River,Place found,34.68,-94.32
+2327,31652,Ouachita River,Place found,34.68,-94.32
+2332,31653,Ouachita River,Place found,34.68,-94.32
+2337,31654,Ouachita River,Place found,34.68,-94.32
+2342,31655,Ouachita River,Place found,34.68,-94.32
+2347,31656,Ouachita River,Place found,34.68,-94.32
+2352,31657,Ouachita River,Place found,34.68,-94.32
+2357,31658,Ouachita River,Place found,34.68,-94.32
+2362,31659,Ouachita River,Place found,34.68,-94.32
+2367,31660,Ouachita River,Place found,34.68,-94.32
+2372,31661,Ouachita River,Place found,34.68,-94.32
+2377,31662,Ouachita River,Place found,34.68,-94.32
+2382,31663,Ouachita River,Place found,34.68,-94.32
+2387,31664,Ouachita River,Place found,34.68,-94.32
+2392,31665,Ouachita River,Place found,34.68,-94.32
+2397,31666,Ouachita River,Place found,34.68,-94.32
+2402,31667,Ouachita River,Place found,34.68,-94.32
+2407,31668,Ouachita River,Place found,34.68,-94.32
+2412,31669,Ouachita River,Place found,34.68,-94.32
+2417,31670,Ouachita River,Place found,34.68,-94.32
+2422,31671,Ouachita River,Place found,34.68,-94.32
+2427,31672,Ouachita River,Place found,34.68,-94.32
+2432,31673,Ouachita River,Place found,34.68,-94.32
+2437,31674,Ouachita River,Place found,34.68,-94.32
+2442,31675,Ouachita River,Place found,34.68,-94.32
+2447,31676,Ouachita River,Place found,34.68,-94.32
+2452,31677,Ouachita River,Place found,34.68,-94.32
+2457,31678,Ouachita River,Place found,34.68,-94.32
+2462,31679,Ouachita River,Place found,34.68,-94.32
+2467,31680,Ouachita River,Place found,34.68,-94.32
+2472,31682,Ouachita River,Place found,34.68,-94.32
+2477,31684,Ouachita River,Place found,34.68,-94.32
+2482,31685,Ouachita River,Place found,34.68,-94.32
+2487,31686,Arkansas,Place found,35.0,-93.0
+2490,31687,Ouachita River,Place found,34.68,-94.32
+2495,31688,Ouachita River,Place found,34.68,-94.32
+2500,31689,Ouachita River,Place found,34.68,-94.32
+2505,31690,Ouachita River,Place found,34.68,-94.32
+2510,31691,Ouachita River,Place found,34.68,-94.32
+2515,31692,Ouachita River,Place found,34.68,-94.32
+2520,31693,Arkansas,Place found,35.0,-93.0
+2523,31694,Ouachita River,Place found,34.68,-94.32
+2528,31695,Illinois,Place found,40.0,-89.0
+2530,31697,Illinois,Place found,40.0,-89.0
+2532,31698,Illinois,Place found,40.0,-89.0
+2534,31700,Illinois,Place found,40.0,-89.0
+2536,31703,Illinois,Place found,40.0,-89.0
+2538,31704,Illinois,Place found,40.0,-89.0
+2540,31705,Illinois,Place found,40.0,-89.0
+2542,31706,Illinois,Place found,40.0,-89.0
+2544,31707,Illinois,Place found,40.0,-89.0
+2546,31708,Illinois,Place found,40.0,-89.0
+2548,31710,Illinois,Place found,40.0,-89.0
+2550,31711,Illinois,Place found,40.0,-89.0
+2552,31717,Illinois,Place found,40.0,-89.0
+2554,31719,Illinois,Place found,40.0,-89.0
+2556,31720,Illinois,Place found,40.0,-89.0
+2558,31721,Illinois,Place found,40.0,-89.0
+2560,31723,Illinois,Place found,40.0,-89.0
+2562,31727,Illinois,Place found,40.0,-89.0
+2564,31728,Illinois,Place found,40.0,-89.0
+2566,31729,Illinois,Place found,40.0,-89.0
+2568,31731,Ohio,Place found,40.0,-80.83
+2570,31738,Illinois,Place found,40.0,-89.0
+2572,31739,Illinois,Place found,40.0,-89.0
+2574,31742,Illinois,Place found,40.0,-89.0
+2576,31743,Ohio,Place found,40.0,-80.83
+2577,31751,Ohio,Place found,40.0,-80.83
+2579,31759,Ouachita River,Place found,34.68,-94.32
+2584,31761,Ouachita River,Place found,34.68,-94.32
+2589,31762,Illinois,Place found,40.0,-89.0
+2591,31763,Ouachita River,Place found,34.68,-94.32
+2596,31764,Ouachita River,Place found,34.68,-94.32
+2601,31765,Ouachita River,Place found,34.68,-94.32
+2606,31766,Arkansas,Place found,35.0,-93.0
+2609,31767,Ouachita River,Place found,34.68,-94.32
+2614,31768,Arkansas,Place found,35.0,-93.0
+2617,31769,Ouachita River,Place found,34.68,-94.32
+2622,31770,Ouachita River,Place found,34.68,-94.32
+2627,31771,Arkansas,Place found,35.0,-93.0
+2631,31772,Ouachita River,Place found,34.68,-94.32
+2636,31773,Ohio,Place found,40.0,-80.83
+2639,31774,Arkansas,Place found,35.0,-93.0
+2642,31776,Ohio,Place found,40.0,-80.83
+2644,31777,Illinois,Place found,40.0,-89.0
+2647,31778,Ohio,Place found,40.0,-80.83
+2649,31779,Russelville,Place found,0.0,0.0
+2652,31781,Illinois,Place found,40.0,-89.0
+2654,31783,Mesa Verde National Park,Place found,,
+2655,31784,Illinois,Place found,40.0,-89.0
+2657,31786,Illinois,Place found,40.0,-89.0
+2659,31787,Illinois,Place found,40.0,-89.0
+2662,31788,Ohio,Place found,40.0,-80.83
+2663,31790,Ohio,Place found,40.0,-80.83
+2665,31792,Missouri,Place found,38.0,-98.0
+2666,31793,Illinois,Place found,40.0,-89.0
+2668,31794,Tennessee,Place found,35.5,-85.0
+2670,31795,Ohio,Place found,40.0,-80.83
+2671,31796,Tennessee,Place found,35.5,-85.0
+2673,31797,Kentucky,Place found,37.0,-85.0
+2675,31800,Arkansas,Place found,35.0,-93.0
+2678,31804,Arkansas,Place found,35.0,-93.0
+2681,31805,Arkansas,Place found,35.0,-93.0
+2684,31806,Ohio,Place found,40.0,-80.83
+2686,31808,Ouachita River,Place found,34.68,-94.32
+2691,31809,Arkansas,Place found,35.0,-93.0
+2694,31810,Illinois,Place found,40.0,-89.0
+2696,31811,Arkansas,Place found,35.0,-93.0
+2699,31812,Ohio River,Place found,36.98,-89.13
+2701,31813,Ouachita River,Place found,34.68,-94.32
+2706,31814,Ouachita River,Place found,34.68,-94.32
+2711,31816,Illinois,Place found,40.0,-89.0
+2712,31818,Illinois,Place found,40.0,-89.0
+2713,31819,Illinois,Place found,40.0,-89.0
+2715,31820,Arkansas,Place found,35.0,-93.0
+2718,31821,Illinois,Place found,40.0,-89.0
+2720,31822,Ouachita River,Place found,34.68,-94.32
+2724,31824,Arkansas,Place found,35.0,-93.0
+2727,31825,Arkansas,Place found,35.0,-93.0
+2730,31827,Illinois,Place found,40.0,-89.0
+2732,31828,Ouachita River,Place found,34.68,-94.32
+2737,31830,Illinois,Place found,40.0,-89.0
+2739,31831,Illinois,Place found,40.0,-89.0
+2741,31832,Illinois,Place found,40.0,-89.0
+2743,31833,Illinois,Place found,40.0,-89.0
+2745,31834,Illinois,Place found,40.0,-89.0
+2746,31835,Illinois,Place found,40.0,-89.0
+2748,31836,Illinois,Place found,40.0,-89.0
+2750,31837,Missouri,Place found,38.0,-98.0
+2752,31838,Mount Pleasant,Place found,41.45,-81.58
+2753,31839,Mississippi,Place found,83.0,-90.0
+2755,31840,Illinois,Place found,40.0,-89.0
+2757,31841,Missouri,Place found,38.0,-98.0
+2759,31842,Illinois,Place found,40.0,-89.0
+2760,31845,Illinois,Place found,40.0,-89.0
+2762,31846,Illinois,Place found,40.0,-89.0
+2763,31847,Missouri,Place found,38.0,-98.0
+2765,31848,Missouri,Place found,38.0,-98.0
+2767,31849,Arkansas,Place found,35.0,-93.0
+2770,31850,Illinois,Place found,40.0,-89.0
+2772,31851,Arkansas,Place found,35.0,-93.0
+2775,31852,Arkansas,Place found,35.0,-93.0
+2778,31853,Missouri,Place found,38.0,-98.0
+2780,31854,Arkansas,Place found,35.0,-93.0
+2783,31855,Missouri,Place found,38.0,-98.0
+2784,31856,Arkansas,Place found,35.0,-93.0
+2787,31857,Arkansas,Place found,35.0,-93.0
+2790,31858,Illinois,Place found,40.0,-89.0
+2792,31859,Arkansas,Place found,35.0,-93.0
+2795,31860,Illinois,Place found,40.0,-89.0
+2797,31861,Illinois,Place found,40.0,-89.0
+2798,31863,Ohio,Place found,40.0,-80.83
+2800,31864,Ohio,Place found,40.0,-80.83
+2802,31865,Missouri,Place found,38.0,-98.0
+2804,31866,Illinois,Place found,40.0,-89.0
+2806,31867,Ohio,Place found,40.0,-80.83
+2807,31869,Illinois,Place found,40.0,-89.0
+2809,31870,Ouachita River,Place found,34.68,-94.32
+2814,31873,Arkansas,Place found,35.0,-93.0
+2817,31877,Arkansas,Place found,35.0,-93.0
+2820,31878,Ouachita River,Place found,34.68,-94.32
+2825,31879,Ouachita River,Place found,34.68,-94.32
+2830,31880,Ouachita River,Place found,34.68,-94.32
+2835,31881,Ouachita River,Place found,34.68,-94.32
+2840,31887,Ouachita River,Place found,34.68,-94.32
+2845,31888,Ouachita River,Place found,34.68,-94.32
+2850,31889,Ouachita River,Place found,34.68,-94.32
+2855,31891,Ouachita River,Place found,34.68,-94.32
+2860,31892,Ouachita River,Place found,34.68,-94.32
+2865,31893,Ouachita River,Place found,34.68,-94.32
+2870,31894,Arkansas,Place found,35.0,-93.0
+2873,31895,Ouachita River,Place found,34.68,-94.32
+2878,31896,Ouachita River,Place found,34.68,-94.32
+2883,31897,Arkansas,Place found,35.0,-93.0
+2886,31898,Arkansas,Place found,35.0,-93.0
+2890,31899,Arkansas,Place found,35.0,-93.0
+2893,31900,Ouachita River,Place found,34.68,-94.32
+2898,31902,Ouachita River,Place found,34.68,-94.32
+2903,31904,Arkansas,Place found,35.0,-93.0
+2905,31905,Tennessee,Place found,35.5,-85.0
+2906,31906,Ohio,Place found,40.0,-80.83
+2908,31907,Illinois,Place found,40.0,-89.0
+2910,31908,Illinois,Place found,40.0,-89.0
+2912,31909,Missouri,Place found,38.0,-98.0
+2914,31910,Illinois,Place found,40.0,-89.0
+2916,31911,Illinois,Place found,40.0,-89.0
+2918,31914,Illinois,Place found,40.0,-89.0
+2920,31916,Illinois,Place found,40.0,-89.0
+2922,31918,Missouri,Place found,38.0,-98.0
+2924,31919,Illinois,Place found,40.0,-89.0
+2926,31920,Missouri,Place found,38.0,-98.0
+2928,31921,Missouri,Place found,38.0,-98.0
+2931,31922,Illinois,Place found,40.0,-89.0
+2932,31923,Illinois,Place found,40.0,-89.0
+2934,31924,Illinois,Place found,40.0,-89.0
+2936,31925,Illinois,Place found,40.0,-89.0
+2938,31926,Illinois,Place found,40.0,-89.0
+2939,31927,Illinois,Place found,40.0,-89.0
+2941,31928,Missouri,Place found,38.0,-98.0
+2944,31929,Missouri,Place found,38.0,-98.0
+2946,31931,Illinois,Place found,40.0,-89.0
+2948,31932,Illinois,Place found,40.0,-89.0
+2950,31934,Illinois,Place found,40.0,-89.0
+2952,31935,Missouri,Place found,38.0,-98.0
+2955,31936,Missouri,Place found,38.0,-98.0
+2957,31937,Illinois,Place found,40.0,-89.0
+2959,31938,Saint Clair,Place found,38.33,-93.77
+2962,31940,Missouri,Place found,38.0,-98.0
+2964,31941,Missouri,Place found,38.0,-98.0
+2967,31942,Illinois,Place found,40.0,-89.0
+2969,31944,Ohio,Place found,40.0,-80.83
+2971,31945,Kentucky,Place found,37.0,-85.0
+2972,31946,Tennessee,Place found,35.5,-85.0
+2974,31947,Garland county,Place found,34.57,-93.15
+2975,31948,Kentucky,Place found,37.0,-85.0
+2977,31949,Indiana,Place found,40.0,-86.0
+2979,31950,Kentucky,Place found,37.0,-85.0
+2980,31952,Ohio,Place found,40.0,-80.83
+2982,31953,Louisiana,Place found,31.0,-92.0
+2984,31954,Louisiana,Place found,31.0,-92.0
+2986,31955,Louisiana,Place found,31.0,-92.0
+2988,31956,Louisiana,Place found,31.0,-92.0
+2990,31957,Louisiana,Place found,31.0,-92.0
+2992,31958,Louisiana,Place found,31.0,-92.0
+2994,31959,Louisiana,Place found,31.0,-92.0
+2996,31960,Louisiana,Place found,31.0,-92.0
+2998,31961,Louisiana,Place found,31.0,-92.0
+3000,31962,Louisiana,Place found,31.0,-92.0
+3003,31963,Louisiana,Place found,31.0,-92.0
+3005,31964,Louisiana,Place found,31.0,-92.0
+3007,31965,Louisiana,Place found,31.0,-92.0
+3009,31966,Louisiana,Place found,31.0,-92.0
+3011,31967,Louisiana,Place found,31.0,-92.0
+3013,31968,Louisiana,Place found,31.0,-92.0
+3015,31969,Louisiana,Place found,31.0,-92.0
+3017,31970,Louisiana,Place found,31.0,-92.0
+3019,31971,Louisiana,Place found,31.0,-92.0
+3021,31972,Louisiana,Place found,31.0,-92.0
+3023,31973,Louisiana,Place found,31.0,-92.0
+3025,31974,Louisiana,Place found,31.0,-92.0
+3027,31975,Louisiana,Place found,31.0,-92.0
+3029,31976,Louisiana,Place found,31.0,-92.0
+3031,31977,Louisiana,Place found,31.0,-92.0
+3033,31978,Louisiana,Place found,31.0,-92.0
+3035,31979,Louisiana,Place found,31.0,-92.0
+3037,31980,Louisiana,Place found,31.0,-92.0
+3039,31981,Louisiana,Place found,31.0,-92.0
+3041,31982,Louisiana,Place found,31.0,-92.0
+3043,31983,Louisiana,Place found,31.0,-92.0
+3045,31984,Louisiana,Place found,31.0,-92.0
+3047,31985,Louisiana,Place found,31.0,-92.0
+3049,31986,Louisiana,Place found,31.0,-92.0
+3051,31987,Louisiana,Place found,31.0,-92.0
+3053,31988,Illinois,Place found,40.0,-89.0
+3056,31989,Illinois,Place found,40.0,-89.0
+3059,31990,Kentucky,Place found,37.0,-85.0
+3061,31993,Tennessee,Place found,35.5,-85.0
+3063,31994,Tennessee,Place found,35.5,-85.0
+3065,31995,Kentucky,Place found,37.0,-85.0
+3067,31996,Ohio,Place found,40.0,-80.83
+3069,31997,Missouri,Place found,38.0,-98.0
+3071,31998,Illinois,Place found,40.0,-89.0
+3073,32000,Illinois,Place found,40.0,-89.0
+3075,32001,Missouri,Place found,38.0,-98.0
+3077,32002,Ohio,Place found,40.0,-80.83
+3078,32003,Illinois,Place found,40.0,-89.0
+3080,32007,Indiana,Place found,40.0,-86.0
+3082,32011,Ohio,Place found,40.0,-80.83
+3085,32012,Ohio,Place found,40.0,-80.83
+3087,32013,Ohio,Place found,40.0,-80.83
+3089,32014,Missouri,Place found,38.0,-98.0
+3091,32016,Ohio,Place found,40.0,-80.83
+3094,32017,Illinois,Place found,40.0,-89.0
+3096,32018,Missouri,Place found,38.0,-98.0
+3099,32021,Colorado,Place found,39.0,-105.0
+3100,32022,Ouachita River,Place found,34.68,-94.32
+3105,32025,Kentucky,Place found,37.0,-85.0
+3106,32026,Tennessee,Place found,35.5,-85.0
+3107,32056,Ouachita River,Place found,34.68,-94.32
+3112,32057,Ouachita River,Place found,34.68,-94.32
+3117,32058,Ouachita River,Place found,34.68,-94.32
+3122,32059,Ouachita River,Place found,34.68,-94.32
+3127,32060,Ouachita River,Place found,34.68,-94.32
+3132,32061,Ouachita River,Place found,34.68,-94.32
+3137,32062,Arkansas,Place found,35.0,-93.0
+3141,32063,Ouachita River,Place found,34.68,-94.32
+3146,32066,Ouachita River,Place found,34.68,-94.32
+3151,32068,Ouachita River,Place found,34.68,-94.32
+3156,32069,Ouachita River,Place found,34.68,-94.32
+3161,32070,Ouachita River,Place found,34.68,-94.32
+3166,32071,Ouachita River,Place found,34.68,-94.32
+3171,32072,Ouachita River,Place found,34.68,-94.32
+3176,32073,Ouachita River,Place found,34.68,-94.32
+3181,32074,Ouachita River,Place found,34.68,-94.32
+3186,32075,Ouachita River,Place found,34.68,-94.32
+3191,32076,Ouachita River,Place found,34.68,-94.32
+3196,32077,Ouachita River,Place found,34.68,-94.32
+3201,32078,Ouachita River,Place found,34.68,-94.32
+3206,32079,Ouachita River,Place found,34.68,-94.32
+3211,32080,Ouachita River,Place found,34.68,-94.32
+3216,32081,Arkansas,Place found,35.0,-93.0
+3220,32082,Ouachita River,Place found,34.68,-94.32
+3225,32083,Ouachita River,Place found,34.68,-94.32
+3230,32086,Ouachita River,Place found,34.68,-94.32
+3235,32087,Ouachita River,Place found,34.68,-94.32
+3240,32088,Ouachita River,Place found,34.68,-94.32
+3245,32089,Ouachita River,Place found,34.68,-94.32
+3250,32090,Ouachita River,Place found,34.68,-94.32
+3255,32091,Arkansas,Place found,35.0,-93.0
+3258,32092,Ouachita River,Place found,34.68,-94.32
+3263,32093,Arkansas,Place found,35.0,-93.0
+3266,32095,Ouachita River,Place found,34.68,-94.32
+3271,32096,Ouachita River,Place found,34.68,-94.32
+3276,32097,Ohio,Place found,40.0,-80.83
+3279,32098,Ohio,Place found,40.0,-80.83
+3280,32099,Ohio,Place found,40.0,-80.83
+3282,32100,Indiana,Place found,40.0,-86.0
+3284,32101,Ohio,Place found,40.0,-80.83
+3286,32102,Ohio,Place found,40.0,-80.83
+3288,32104,Ouachita River,Place found,34.68,-94.32
+3293,32105,Ohio,Place found,40.0,-80.83
+3295,32108,Michigan,Place found,44.0,-85.0
+3297,32111,Missouri,Place found,38.0,-98.0
+3300,32112,Illinois,Place found,40.0,-89.0
+3302,32114,Illinois,Place found,40.0,-89.0
+3304,32115,Illinois,Place found,40.0,-89.0
+3305,32117,Ohio,Place found,40.0,-80.83
+3307,32118,Jackson,Place found,39.4,-95.83
+3308,32119,Missouri,Place found,38.0,-98.0
+3310,32120,Missouri,Place found,38.0,-98.0
+3312,32122,Iowa,Place found,42.0,-93.0
+3314,32124,Illinois,Place found,40.0,-89.0
+3316,32126,Ohio,Place found,40.0,-80.83
+3318,32135,Ohio,Place found,40.0,-80.83
+3320,32136,Ohio,Place found,40.0,-80.83
+3322,32140,Arkansas,Place found,35.0,-93.0
+3326,32141,Ouachita River,Place found,34.68,-94.32
+3331,32142,Ouachita River,Place found,34.68,-94.32
+3336,32143,Ouachita River,Place found,34.68,-94.32
+3341,32144,Ouachita River,Place found,34.68,-94.32
+3346,32152,Ouachita River,Place found,34.68,-94.32
+3351,32153,Ouachita River,Place found,34.68,-94.32
+3356,32154,Ouachita River,Place found,34.68,-94.32
+3361,32155,Ouachita River,Place found,34.68,-94.32
+3366,32156,Ouachita River,Place found,34.68,-94.32
+3371,32157,Ouachita River,Place found,34.68,-94.32
+3376,32158,Ouachita River,Place found,34.68,-94.32
+3381,32160,Illinois,Place found,40.0,-89.0
+3383,32161,Illinois,Place found,40.0,-89.0
+3385,32163,Ohio,Place found,40.0,-80.83
+3387,32164,Missouri,Place found,38.0,-98.0
+3389,32166,Illinois,Place found,40.0,-89.0
+3392,32167,Illinois,Place found,40.0,-89.0
+3394,32169,Kentucky,Place found,37.0,-85.0
+3396,32170,Illinois,Place found,40.0,-89.0
+3398,32171,Tennessee,Place found,35.5,-85.0
+3400,32172,Illinois,Place found,40.0,-89.0
+3402,32173,Missouri,Place found,38.0,-98.0
+3404,32174,Illinois,Place found,40.0,-89.0
+3406,32175,Missouri,Place found,38.0,-98.0
+3408,32178,Illinois,Place found,40.0,-89.0
+3410,32179,Missouri,Place found,38.0,-98.0
+3413,32180,Illinois,Place found,40.0,-89.0
+3415,32182,Missouri,Place found,38.0,-98.0
+3417,32183,Arkansas,Place found,35.0,-93.0
+3420,32184,Arkansas,Place found,35.0,-93.0
+3424,32187,Arkansas,Place found,35.0,-93.0
+3426,32188,Ouachita River,Place found,34.68,-94.32
+3431,32189,Arkansas,Place found,35.0,-93.0
+3433,32190,Ouachita River,Place found,34.68,-94.32
+3438,32191,Ouachita River,Place found,34.68,-94.32
+3443,32192,Ouachita River,Place found,34.68,-94.32
+3448,32193,Ouachita River,Place found,34.68,-94.32
+3453,32194,Arkansas,Place found,35.0,-93.0
+3457,32195,Arkansas,Place found,35.0,-93.0
+3459,32196,Ouachita River,Place found,34.68,-94.32
+3464,32197,Ouachita River,Place found,34.68,-94.32
+3469,32198,Ouachita River,Place found,34.68,-94.32
+3474,32199,Ouachita River,Place found,34.68,-94.32
+3479,32200,Ouachita River,Place found,34.68,-94.32
+3484,32201,Ouachita River,Place found,34.68,-94.32
+3489,32202,Ouachita River,Place found,34.68,-94.32
+3494,32203,Arkansas,Place found,35.0,-93.0
+3496,32204,Arkansas,Place found,35.0,-93.0
+3500,32205,Ouachita River,Place found,34.68,-94.32
+3505,32206,Arkansas,Place found,35.0,-93.0
+3507,32207,Ouachita River,Place found,34.68,-94.32
+3512,32208,Arkansas,Place found,35.0,-93.0
+3516,32209,Ouachita River,Place found,34.68,-94.32
+3521,32210,Ouachita River,Place found,34.68,-94.32
+3526,32211,Arkansas,Place found,35.0,-93.0
+3528,32212,Ouachita River,Place found,34.68,-94.32
+3533,32213,Ouachita River,Place found,34.68,-94.32
+3538,32214,Ouachita River,Place found,34.68,-94.32
+3543,32215,Ouachita River,Place found,34.68,-94.32
+3548,32216,Ouachita River,Place found,34.68,-94.32
+3553,32217,Ouachita River,Place found,34.68,-94.32
+3558,32218,Ouachita River,Place found,34.68,-94.32
+3563,32219,Arkansas,Place found,35.0,-93.0
+3565,32220,Arkansas,Place found,35.0,-93.0
+3569,32221,Arkansas,Place found,35.0,-93.0
+3571,32222,Ouachita River,Place found,34.68,-94.32
+3576,32223,Ouachita River,Place found,34.68,-94.32
+3581,32224,Arkansas,Place found,35.0,-93.0
+3583,32225,Ouachita River,Place found,34.68,-94.32
+3588,32226,Ouachita River,Place found,34.68,-94.32
+3593,32228,Ouachita River,Place found,34.68,-94.32
+3598,32231,Ouachita River,Place found,34.68,-94.32
+3603,32236,Ouachita River,Place found,34.68,-94.32
+3608,32237,Arkansas,Place found,35.0,-93.0
+3611,32240,Ouachita River,Place found,34.68,-94.32
+3616,32248,Arkansas,Place found,35.0,-93.0
+3619,32253,Ouachita River,Place found,34.68,-94.32
+3624,32255,Ouachita River,Place found,34.68,-94.32
+3629,32256,Ouachita River,Place found,34.68,-94.32
+3634,32258,Arkansas,Place found,35.0,-93.0
+3637,32259,Ouachita River,Place found,34.68,-94.32
+3642,32260,Ouachita River,Place found,34.68,-94.32
+3647,32262,Arkansas,Place found,35.0,-93.0
+3650,32314,Oklahoma,Place found,35.0,-98.0
+3652,32315,Oklahoma,Place found,35.0,-98.0
+3654,32316,Oklahoma,Place found,35.0,-98.0
+3656,32338,Oklahoma,Place found,35.0,-98.0
+3658,32345,Texas,Place found,30.0,-100.0
+3659,32347,Colorado,Place found,39.0,-105.0
+3660,32349,Oklahoma,Place found,35.0,-98.0
+3662,32350,Oklahoma,Place found,35.0,-98.0
+3664,32351,Oklahoma,Place found,35.0,-98.0
+3666,32353,Oklahoma,Place found,35.0,-98.0
+3668,32354,Oklahoma,Place found,35.0,-98.0
+3670,32367,Louisiana,Place found,31.0,-92.0
+3674,32368,Louisiana,Place found,31.0,-92.0
+3678,32369,Louisiana,Place found,31.0,-92.0
+3682,32370,Louisiana,Place found,31.0,-92.0
+3686,32371,Louisiana,Place found,31.0,-92.0
+3690,32372,Louisiana,Place found,31.0,-92.0
+3694,32373,Louisiana,Place found,31.0,-92.0
+3698,32374,Louisiana,Place found,31.0,-92.0
+3702,32375,Louisiana,Place found,31.0,-92.0
+3706,32376,Louisiana,Place found,31.0,-92.0
+3710,32377,Louisiana,Place found,31.0,-92.0
+3714,32378,Louisiana,Place found,31.0,-92.0
+3718,32379,Louisiana,Place found,31.0,-92.0
+3722,32380,Louisiana,Place found,31.0,-92.0
+3726,32381,Louisiana,Place found,31.0,-92.0
+3730,32382,Louisiana,Place found,31.0,-92.0
+3734,32383,Bayou Macon,Place found,33.32,-91.32
+3740,32384,Louisiana,Place found,31.0,-92.0
+3744,32385,Louisiana,Place found,31.0,-92.0
+3748,32386,Louisiana,Place found,31.0,-92.0
+3752,32387,Louisiana,Place found,31.0,-92.0
+3756,32388,Louisiana,Place found,31.0,-92.0
+3760,32389,Louisiana,Place found,31.0,-92.0
+3764,32390,Louisiana,Place found,31.0,-92.0
+3768,32391,Louisiana,Place found,31.0,-92.0
+3772,32392,Missouri,Place found,38.0,-98.0
+3774,32393,Illinois,Place found,40.0,-89.0
+3776,32394,Missouri,Place found,38.0,-98.0
+3778,32395,Lee,Place found,40.65,-91.48
+3779,32396,Arkansas,Place found,35.0,-93.0
+3782,32397,Georgia,Place found,32.0,-84.0
+3784,32398,Ouachita River,Place found,34.68,-94.32
+3789,32399,Nebraska,Place found,41.5,-100.0
+3790,32400,Illinois,Place found,40.0,-89.0
+3792,32403,Oklahoma,Place found,35.0,-98.0
+3794,32409,Oklahoma,Place found,35.0,-98.0
+3796,32410,Oklahoma,Place found,35.0,-98.0
+3798,32411,Oklahoma,Place found,35.0,-98.0
+3800,32420,Arkansas,Place found,35.0,-93.0
+3803,32421,Tennessee,Place found,35.5,-85.0
+3805,32423,Oklahoma,Place found,35.0,-98.0
+3807,32424,Oklahoma,Place found,35.0,-98.0
+3809,32425,Oklahoma,Place found,35.0,-98.0
+3811,32426,Oklahoma,Place found,35.0,-98.0
+3813,32428,Missouri,Place found,38.0,-98.0
+3814,32429,Illinois,Place found,40.0,-89.0
+3816,32430,Missouri,Place found,38.0,-98.0
+3818,32431,Missouri,Place found,38.0,-98.0
+3820,32433,Missouri,Place found,38.0,-98.0
+3822,32434,Ouachita River,Place found,34.68,-94.32
+3827,32436,Illinois,Place found,40.0,-89.0
+3829,32437,Illinois,Place found,40.0,-89.0
+3831,32438,Missouri,Place found,38.0,-98.0
+3833,32439,Missouri,Place found,38.0,-98.0
+3835,32441,Ohio,Place found,40.0,-80.83
+3837,32442,Ohio,Place found,40.0,-80.83
+3839,32444,Missouri,Place found,38.0,-98.0
+3841,32445,Missouri,Place found,38.0,-98.0
+3843,32446,Missouri,Place found,38.0,-98.0
+3846,32447,Indiana,Place found,40.0,-86.0
+3848,32448,Illinois,Place found,40.0,-89.0
+3850,32449,Missouri,Place found,38.0,-98.0
+3852,32450,Missouri,Place found,38.0,-98.0
+3854,32451,Illinois,Place found,40.0,-89.0
+3856,32476,Indiana,Place found,40.0,-86.0
+3857,32481,Tennessee,Place found,35.5,-85.0
+3859,32482,Arkansas,Place found,35.0,-93.0
+3862,32483,Arkansas,Place found,35.0,-93.0
+3865,32484,Texas,Place found,30.0,-100.0
+3867,32485,Illinois,Place found,40.0,-89.0
+3869,32487,Ohio,Place found,40.0,-80.83
+3871,32488,Missouri,Place found,38.0,-98.0
+3872,32489,Arkansas,Place found,35.0,-93.0
+3876,32490,Arkansas,Place found,35.0,-93.0
+3880,32492,Missouri,Place found,38.0,-98.0
+3882,32494,Arkansas,Place found,35.0,-93.0
+3885,32495,Louisiana,Place found,31.0,-92.0
+3887,32496,Arkansas,Place found,35.0,-93.0
+3890,32497,Arkansas,Place found,35.0,-93.0
+3893,32498,Arkansas,Place found,35.0,-93.0
+3896,32499,Arkansas,Place found,35.0,-93.0
+3899,32500,Ouachita River,Place found,34.68,-94.32
+3904,32501,Ouachita River,Place found,34.68,-94.32
+3909,32502,Arkansas,Place found,35.0,-93.0
+3912,32503,Ouachita River,Place found,34.68,-94.32
+3917,32504,Ouachita River,Place found,34.68,-94.32
+3922,32505,Arkansas,Place found,35.0,-93.0
+3926,32506,Ouachita River,Place found,34.68,-94.32
+3931,32507,Arkansas,Place found,35.0,-93.0
+3935,32508,Arkansas,Place found,35.0,-93.0
+3936,32509,Missouri,Place found,38.0,-98.0
+3938,32510,Missouri,Place found,38.0,-98.0
+3940,32511,Missouri,Place found,38.0,-98.0
+3941,32512,Missouri,Place found,38.0,-98.0
+3943,32513,Missouri,Place found,38.0,-98.0
+3945,32514,Ouachita River,Place found,34.68,-94.32
+3950,32518,Ouachita River,Place found,34.68,-94.32
+3955,32521,Ouachita River,Place found,34.68,-94.32
+3960,32522,Arkansas,Place found,35.0,-93.0
+3963,32523,Arkansas,Place found,35.0,-93.0
+3966,32524,Arkansas,Place found,35.0,-93.0
+3969,32525,Arkansas,Place found,35.0,-93.0
+3972,32526,Arkansas,Place found,35.0,-93.0
+3977,32528,Tennessee,Place found,35.5,-85.0
+3978,32530,Tennessee,Place found,35.5,-85.0
+3980,32531,Tennessee,Place found,35.5,-85.0
+3981,32532,Arkansas,Place found,35.0,-93.0
+3984,32533,Arkansas,Place found,35.0,-93.0
+3987,32534,Tennessee,Place found,35.5,-85.0
+3989,32535,Tennessee,Place found,35.5,-85.0
+3990,32536,Tennessee,Place found,35.5,-85.0
+3991,32537,Tennessee,Place found,35.5,-85.0
+3992,32538,Tennessee,Place found,35.5,-85.0
+3994,32539,Tennessee,Place found,35.5,-85.0
+3995,32540,Tennessee,Place found,35.5,-85.0
+3997,32542,Tennessee,Place found,35.5,-85.0
+3998,32543,Tennessee,Place found,35.5,-85.0
+4000,32545,Oklahoma,Place found,35.0,-98.0
+4002,32546,Oklahoma,Place found,35.0,-98.0
+4004,32547,Oklahoma,Place found,35.0,-98.0
+4006,32548,Oklahoma,Place found,35.0,-98.0
+4008,32549,Saint Clair,Place found,38.33,-93.77
+4011,32550,Saint Clair,Place found,38.33,-93.77
+4014,32551,Saint Clair,Place found,38.33,-93.77
+4017,32552,Saint Clair,Place found,38.33,-93.77
+4020,32553,county,Place found,,
+4026,32554,Illinois,Place found,40.0,-89.0
+4030,32555,Illinois,Place found,40.0,-89.0
+4034,32556,Illinois,Place found,40.0,-89.0
+4038,32557,Saint Clair,Place found,38.33,-93.77
+4041,32558,Saint Clair,Place found,38.33,-93.77
+4044,32559,Saint Clair,Place found,38.33,-93.77
+4047,32560,Saint Clair,Place found,38.33,-93.77
+4050,32561,Missouri,Place found,38.0,-98.0
+4052,32562,Mississippi,Place found,83.0,-90.0
+4056,32563,Christian,Place found,36.97,-93.18
+4058,32564,Illinois,Place found,40.0,-89.0
+4060,32568,Missouri,Place found,38.0,-98.0
+4062,32571,Iowa,Place found,42.0,-93.0
+4064,32572,Arkansas,Place found,35.0,-93.0
+4066,32573,Illinois,Place found,40.0,-89.0
+4068,32574,Missouri,Place found,38.0,-98.0
+4071,32579,Illinois,Place found,40.0,-89.0
+4073,32581,Tennessee,Place found,35.5,-85.0
+4075,32582,Missouri,Place found,38.0,-98.0
+4077,32583,Illinois,Place found,40.0,-89.0
+4078,32585,Tennessee,Place found,35.5,-85.0
+4080,32586,Tennessee,Place found,35.5,-85.0
+4082,32588,Lima Lake,Place found,47.97,-90.42
+4086,32589,Illinois,Place found,40.0,-89.0
+4087,32590,Kentucky,Place found,37.0,-85.0
+4089,32592,Missouri,Place found,38.0,-98.0
+4091,32593,Missouri,Place found,38.0,-98.0
+4093,32594,Illinois,Place found,40.0,-89.0
+4095,32595,Tennessee,Place found,35.5,-85.0
+4097,32596,Missouri,Place found,38.0,-98.0
+4100,32597,Illinois,Place found,40.0,-89.0
+4102,32598,Lima Lake,Place found,47.97,-90.42
+4105,32599,Saint Clair,Place found,38.55,-89.92
+4106,32600,Ouachita River,Place found,34.68,-94.32
+4109,32602,Illinois,Place found,40.0,-89.0
+4111,32603,Saint Clair,Place found,38.55,-89.92
+4112,32604,Ohio,Place found,40.0,-80.83
+4114,32605,Ohio,Place found,40.0,-80.83
+4116,32607,Illinois,Place found,40.0,-89.0
+4118,32610,Arkansas,Place found,35.0,-93.0
+4120,32615,Tennessee,Place found,35.5,-85.0
+4123,32620,Jersey,Place found,39.66,-90.35
+4124,32621,Mississippi,Place found,83.0,-90.0
+4128,32622,Jersey,Place found,39.66,-90.35
+4129,32623,Illinois,Place found,40.0,-89.0
+4131,32624,Arkansas,Place found,35.0,-93.0
+4134,32625,Jersey,Place found,39.66,-90.35
+4135,32626,Mississippi,Place found,83.0,-90.0
+4138,32627,Ohio,Place found,40.0,-80.83
+4140,32628,Clay,Place found,36.37,-90.38
+4142,32629,Ouachita River,Place found,34.68,-94.32
+4147,32630,Illinois,Place found,40.0,-89.0
+4149,32632,Louisiana,Place found,31.0,-92.0
+4151,32633,Arkansas,Place found,35.0,-93.0
+4155,32634,Illinois,Place found,40.0,-89.0
+4157,32635,Ouachita River,Place found,34.68,-94.32
+4162,32636,Illinois,Place found,40.0,-89.0
+4164,32639,Illinois,Place found,40.0,-89.0
+4166,32640,Illinois,Place found,40.0,-89.0
+4168,32641,Illinois,Place found,40.0,-89.0
+4171,32642,Ouachita River,Place found,34.68,-94.32
+4176,32644,Tennessee,Place found,35.5,-85.0
+4178,32645,Bayou Macon,Place found,33.32,-91.32
+4183,32646,Ohio,Place found,40.0,-80.83
+4184,32647,Illinois,Place found,40.0,-89.0
+4185,32648,Louisiana,Place found,31.0,-92.0
+4188,32649,Illinois,Place found,40.0,-89.0
+4190,32650,Louisiana,Place found,31.0,-92.0
+4194,32651,Illinois,Place found,40.0,-89.0
+4196,32653,Great Plains,Place found,39.0,-101.0
+4197,32655,Great Plains,Place found,39.0,-101.0
+4198,32656,Great Plains,Place found,39.0,-101.0
+4199,32660,Great Plains,Place found,39.0,-101.0
+4200,32663,Great Plains,Place found,39.0,-101.0
+4201,32664,Arkansas,Place found,35.0,-93.0
+4205,32666,Arkansas,Place found,35.0,-93.0
+4209,32667,Arkansas,Place found,35.0,-93.0
+4213,32668,Arkansas,Place found,35.0,-93.0
+4215,32669,Arkansas,Place found,35.0,-93.0
+4219,32670,Arkansas,Place found,35.0,-93.0
+4223,32671,Arkansas,Place found,35.0,-93.0
+4227,32672,Arkansas,Place found,35.0,-93.0
+4229,32674,Arkansas,Place found,35.0,-93.0
+4231,32676,Arkansas,Place found,35.0,-93.0
+4234,32677,Arkansas,Place found,35.0,-93.0
+4238,32678,Arkansas,Place found,35.0,-93.0
+4241,32679,Arkansas,Place found,35.0,-93.0
+4244,32681,Great Plains,Place found,39.42,-101.28
+4245,32682,United States of America,Place found,38.0,-98.0
+4247,32684,Great Plains,Place found,39.42,-101.28
+4248,32686,Southwest,Place found,0.0,0.0
+4249,32687,Great Plains,Place found,39.42,-101.28
+4250,32688,Southwest,Place found,0.0,0.0
+4251,32689,United States of America,Place found,38.0,-98.0
+4253,32690,Great Plains,Place found,39.42,-101.28
+4254,32692,Southwest,Place found,0.0,0.0
+4255,32693,Southwest,Place found,0.0,0.0
+4256,32696,Great Plains,Place found,39.0,-101.0
+4257,32698,Great Plains,Place found,39.0,-101.0
+4258,32703,Great Plains,Place found,39.0,-101.0
+4259,32704,Great Plains,Place found,39.0,-101.0
+4260,32705,Great Plains,Place found,39.0,-101.0
+4261,32706,Illinois,Place found,40.0,-89.0
+4264,32707,Illinois,Place found,40.0,-89.0
+4267,32711,Illinois,Place found,40.0,-89.0
+4270,32712,Illinois,Place found,40.0,-89.0
+4273,32713,Illinois,Place found,40.0,-89.0
+4276,32714,Illinois,Place found,40.0,-89.0
+4279,32715,Illinois,Place found,40.0,-89.0
+4282,32716,Illinois,Place found,40.0,-89.0
+4285,32717,Kentucky,Place found,37.0,-85.0
+4287,32718,Indiana,Place found,40.0,-86.0
+4289,32719,Southwest,Place found,0.0,0.0
+4290,32720,Northwest,Place found,,
+4291,32732,New Mexico,Place found,35.0,-105.0
+4293,32733,Laguna Pueblo,Place found,,
+4294,32734,Arizona,Place found,34.0,-112.0
+4296,32743,Laguna Pueblo,Place found,,
+4297,32749,Jemez Pueblo,Place found,35.6,-106.72
+4298,32753,New Mexico,Place found,35.0,-105.0
+4300,32755,New Mexico,Place found,35.0,-105.0
+4302,32757,New Mexico,Place found,35.0,-105.0
+4304,32758,Laguna Pueblo,Place found,,
+4305,32762,New Mexico,Place found,35.0,-105.0
+4307,32763,Southwest,Place found,0.0,0.0
+4308,32764,Southwest,Place found,0.0,0.0
+4309,32767,Southwest,Place found,0.0,0.0
+4310,32773,New Mexico,Place found,35.0,-105.0
+4311,32774,Arizona,Place found,34.0,-112.0
+4313,32776,Southwest,Place found,0.0,0.0
+4314,32777,Southwest,Place found,0.0,0.0
+4315,32778,Southwest,Place found,0.0,0.0
+4316,32782,Isleta,Place found,34.9,-106.68
+4317,32801,Southwest,Place found,0.0,0.0
+4318,32802,Southwest,Place found,0.0,0.0
+4319,32805,Southwest,Place found,0.0,0.0
+4320,32815,Southwest,Place found,0.0,0.0
+4321,32816,United States of America,Place found,38.0,-98.0
+4323,32817,United States of America,Place found,38.0,-98.0
+4325,32818,United States of America,Place found,38.0,-98.0
+4327,32819,United States of America,Place found,38.0,-98.0
+4329,32820,United States of America,Place found,38.0,-98.0
+4331,32822,United States of America,Place found,38.0,-98.0
+4333,32823,United States of America,Place found,38.0,-98.0
+4335,32824,United States of America,Place found,38.0,-98.0
+4337,32825,United States of America,Place found,38.0,-98.0
+4339,32826,United States of America,Place found,38.0,-98.0
+4343,32827,United States of America,Place found,38.0,-98.0
+4345,32828,United States of America,Place found,38.0,-98.0
+4347,32829,United States of America,Place found,38.0,-98.0
+4349,32830,United States of America,Place found,38.0,-98.0
+4351,32831,Southwest,Place found,0.0,0.0
+4352,32836,United States of America,Place found,38.0,-98.0
+4354,32841,Africa,Place found,0.0,0.0
+4356,32850,Minnesota,Place found,46.0,-94.0
+4357,32853,United States of America,Place found,38.0,-98.0
+4359,32854,United States of America,Place found,38.0,-98.0
+4361,32857,United States of America,Place found,38.0,-98.0
+4363,32858,United States of America,Place found,38.0,-98.0
+4365,32859,United States of America,Place found,38.0,-98.0
+4367,32860,United States of America,Place found,38.0,-98.0
+4369,32861,United States of America,Place found,38.0,-98.0
+4371,32862,United States of America,Place found,38.0,-98.0
+4373,32864,Oklahoma,Place found,35.0,-98.0
+4376,32865,Oklahoma,Place found,35.0,-98.0
+4379,32866,United States of America,Place found,38.0,-98.0
+4381,32867,United States of America,Place found,38.0,-98.0
+4383,32868,United States of America,Place found,38.0,-98.0
+4385,32869,United States of America,Place found,38.0,-98.0
+4387,32870,United States of America,Place found,38.0,-98.0
+4389,32871,United States of America,Place found,38.0,-98.0
+4391,32872,United States of America,Place found,38.0,-98.0
+4393,32874,United States of America,Place found,38.0,-98.0
+4395,32875,United States of America,Place found,38.0,-98.0
+4397,32876,United States of America,Place found,38.0,-98.0
+4399,32877,United States of America,Place found,38.0,-98.0
+4401,32878,United States of America,Place found,38.0,-98.0
+4403,32879,United States of America,Place found,38.0,-98.0
+4405,32880,United States of America,Place found,38.0,-98.0
+4407,32882,United States of America,Place found,38.0,-98.0
+4409,32883,United States of America,Place found,38.0,-98.0
+4411,32884,United States of America,Place found,38.0,-98.0
+4413,32885,United States of America,Place found,38.0,-98.0
+4415,32887,United States of America,Place found,38.0,-98.0
+4418,32888,United States of America,Place found,38.0,-98.0
+4420,32889,United States of America,Place found,38.0,-98.0
+4422,32890,United States of America,Place found,38.0,-98.0
+4426,32891,United States of America,Place found,38.0,-98.0
+4428,32892,United States of America,Place found,38.0,-98.0
+4430,32893,United States of America,Place found,38.0,-98.0
+4432,32894,United States of America,Place found,38.0,-98.0
+4434,32895,United States of America,Place found,38.0,-98.0
+4436,32896,United States of America,Place found,38.0,-98.0
+4438,32897,United States of America,Place found,38.0,-98.0
+4440,32898,United States of America,Place found,38.0,-98.0
+4442,32899,United States of America,Place found,38.0,-98.0
+4445,32900,United States of America,Place found,38.0,-98.0
+4447,32901,United States of America,Place found,38.0,-98.0
+4449,32902,United States of America,Place found,38.0,-98.0
+4451,32903,United States of America,Place found,38.0,-98.0
+4453,32904,United States of America,Place found,38.0,-98.0
+4455,32905,United States of America,Place found,38.0,-98.0
+4457,32906,United States of America,Place found,38.0,-98.0
+4459,32907,United States of America,Place found,38.0,-98.0
+4461,32908,United States of America,Place found,38.0,-98.0
+4463,32909,United States of America,Place found,38.0,-98.0
+4465,32910,United States of America,Place found,38.0,-98.0
+4467,32935,United States of America,Place found,38.0,-98.0
+4470,32953,Great Plains,Place found,39.42,-101.28
+4471,32957,United States of America,Place found,38.0,-98.0
+4473,32958,United States of America,Place found,38.0,-98.0
+4477,32959,United States of America,Place found,38.0,-98.0
+4479,32961,United States of America,Place found,38.0,-98.0
+4481,32962,United States of America,Place found,38.0,-98.0
+4483,32963,United States of America,Place found,38.0,-98.0
+4487,32964,United States of America,Place found,38.0,-98.0
+4488,32966,United States of America,Place found,38.0,-98.0
+4490,32968,United States of America,Place found,38.0,-98.0
+4492,32969,United States of America,Place found,38.0,-98.0
+4494,32970,United States of America,Place found,38.0,-98.0
+4496,32971,United States of America,Place found,38.0,-98.0
+4498,32972,United States of America,Place found,38.0,-98.0
+4500,32973,United States of America,Place found,38.0,-98.0
+4502,32975,United States of America,Place found,38.0,-98.0
+4504,32976,United States of America,Place found,38.0,-98.0
+4507,32977,United States of America,Place found,38.0,-98.0
+4509,32978,United States of America,Place found,38.0,-98.0
+4511,32979,United States of America,Place found,38.0,-98.0
+4513,32981,United States of America,Place found,38.0,-98.0
+4515,32982,United States of America,Place found,38.0,-98.0
+4517,32983,United States of America,Place found,38.0,-98.0
+4521,32984,United States of America,Place found,38.0,-98.0
+4523,32988,United States of America,Place found,38.0,-98.0
+4525,32989,United States of America,Place found,38.0,-98.0
+4527,32990,United States of America,Place found,38.0,-98.0
+4529,32992,United States of America,Place found,38.0,-98.0
+4531,32993,United States of America,Place found,38.0,-98.0
+4533,32994,United States of America,Place found,38.0,-98.0
+4535,32995,United States,Place found,38.0,-98.0
+4537,32996,United States of America,Place found,38.0,-98.0
+4539,32997,United States of America,Place found,38.0,-98.0
+4541,32998,United States of America,Place found,38.0,-98.0
+4542,33000,United States of America,Place found,38.0,-98.0
+4544,33001,United States of America,Place found,38.0,-98.0
+4546,33004,United States of America,Place found,38.0,-98.0
+4548,33005,United States of America,Place found,38.0,-98.0
+4550,33006,United States of America,Place found,38.0,-98.0
+4552,33007,United States of America,Place found,38.0,-98.0
+4554,33008,United States of America,Place found,38.0,-98.0
+4556,33009,United States of America,Place found,38.0,-98.0
+4558,33011,United States of America,Place found,38.0,-98.0
+4561,33012,United States of America,Place found,38.0,-98.0
+4564,33014,United States of America,Place found,38.0,-98.0
+4567,33015,United States of America,Place found,38.0,-98.0
+4569,33016,United States of America,Place found,38.0,-98.0
+4571,33017,United States of America,Place found,38.0,-98.0
+4573,33022,United States of America,Place found,38.0,-98.0
+4575,33025,United States of America,Place found,38.0,-98.0
+4579,33030,United States of America,Place found,38.0,-98.0
+4581,33032,United States of America,Place found,38.0,-98.0
+4585,33033,United States of America,Place found,38.0,-98.0
+4587,33035,United States of America,Place found,38.0,-98.0
+4589,33037,United States,Place found,38.0,-98.0
+4591,33038,United States of America,Place found,38.0,-98.0
+4593,33043,United States of America,Place found,38.0,-98.0
+4595,33044,United States of America,Place found,38.0,-98.0
+4597,33046,United States of America,Place found,38.0,-98.0
+4599,33047,United States of America,Place found,38.0,-98.0
+4601,33051,Alaska,Place found,65.0,-153.0
+4603,33053,United States of America,Place found,38.0,-98.0
+4605,33054,United States of America,Place found,38.0,-98.0
+4607,33059,United States of America,Place found,38.0,-98.0
+4609,33064,United States of America,Place found,38.0,-98.0
+4611,33065,United States of America,Place found,38.0,-98.0
+4613,33066,United States of America,Place found,38.0,-98.0
+4615,33067,United States of America,Place found,38.0,-98.0
+4617,33068,United States of America,Place found,38.0,-98.0
+4619,33070,United States of America,Place found,38.0,-98.0
+4621,33072,United States of America,Place found,38.0,-98.0
+4623,33073,United States of America,Place found,38.0,-98.0
+4625,33076,United States of America,Place found,38.0,-98.0
+4627,33077,Arkansas,Place found,35.0,-93.0
+4630,33078,Arkansas,Place found,35.0,-93.0
+4633,33082,Wisconsin,Place found,45.0,-90.0
+4635,33084,Arkansas,Place found,35.0,-93.0
+4638,33085,Arkansas,Place found,35.0,-93.0
+4641,33086,Ouachita River,Place found,34.68,-94.32
+4646,33088,Arkansas,Place found,35.0,-93.0
+4649,33089,Arkansas,Place found,35.0,-93.0
+4652,33090,Arkansas,Place found,35.0,-93.0
+4656,33091,United States of America,Place found,38.0,-98.0
+4659,33092,United States of America,Place found,38.0,-98.0
+4663,33093,United States of America,Place found,38.0,-98.0
+4665,33095,United States of America,Place found,38.0,-98.0
+4667,33096,Oklahoma,Place found,35.0,-98.0
+4669,33097,United States of America,Place found,38.0,-98.0
+4673,33098,United States of America,Place found,38.0,-98.0
+4677,33107,Zuni,Place found,35.66,-108.83
+4679,33110,Zuni,Place found,35.66,-108.83
+4681,33115,United States of America,Place found,38.0,-98.0
+4683,33117,United States of America,Place found,38.0,-98.0
+4685,33120,United States of America,Place found,38.0,-98.0
+4687,33121,United States of America,Place found,38.0,-98.0
+4689,33123,United States of America,Place found,38.0,-98.0
+4693,33124,United States of America,Place found,38.0,-98.0
+4695,33126,United States of America,Place found,38.0,-98.0
+4697,33128,United States of America,Place found,38.0,-98.0
+4699,33129,United States of America,Place found,38.0,-98.0
+4701,33130,United States of America,Place found,38.0,-98.0
+4703,33131,United States of America,Place found,38.0,-98.0
+4705,33132,United States of America,Place found,38.0,-98.0
+4707,33133,United States of America,Place found,38.0,-98.0
+4709,33135,United States of America,Place found,38.0,-98.0
+4711,33136,United States of America,Place found,38.0,-98.0
+4713,33139,United States of America,Place found,38.0,-98.0
+4716,33142,United States of America,Place found,38.0,-98.0
+4718,33143,United States of America,Place found,38.0,-98.0
+4720,33144,United States of America,Place found,38.0,-98.0
+4722,33147,Arkansas,Place found,35.0,-93.0
+4725,33148,Arkansas,Place found,35.0,-93.0
+4728,33153,Oklahoma,Place found,35.0,-98.0
+4731,33154,Oklahoma,Place found,35.0,-98.0
+4734,33157,Oklahoma,Place found,35.0,-98.0
+4737,33163,United States of America,Place found,38.0,-98.0
+4739,33164,United States of America,Place found,38.0,-98.0
+4741,33165,United States of America,Place found,38.0,-98.0
+4743,33166,United States of America,Place found,38.0,-98.0
+4745,33167,United States of America,Place found,38.0,-98.0
+4747,33168,United States of America,Place found,38.0,-98.0
+4749,33169,Arizona,Place found,34.0,-112.0
+4751,33170,Oklahoma,Place found,35.0,-98.0
+4753,33172,Oklahoma,Place found,35.0,-98.0
+4755,33175,Oklahoma,Place found,35.0,-98.0
+4757,33176,Arizona,Place found,34.0,-112.0
+4760,33177,Arizona,Place found,34.0,-112.0
+4762,33178,Arizona,Place found,34.0,-112.0
+4764,33179,Wisconsin,Place found,45.0,-90.0
+4765,33180,Wisconsin,Place found,45.0,-90.0
+4766,33181,Wisconsin,Place found,45.0,-90.0
+4767,33182,Wisconsin,Place found,45.0,-90.0
+4768,33183,Wisconsin,Place found,45.0,-90.0
+4769,33184,Wisconsin,Place found,45.0,-90.0
+4770,33185,Wisconsin,Place found,45.0,-90.0
+4771,33186,Wisconsin,Place found,45.0,-90.0
+4772,33187,Michigan,Place found,44.0,-85.0
+4773,33188,Michigan,Place found,44.0,-85.0
+4775,33189,Michigan,Place found,44.0,-85.0
+4777,33190,Michigan,Place found,44.0,-85.0
+4779,33191,Michigan,Place found,44.0,-85.0
+4780,33192,Wisconsin,Place found,45.0,-90.0
+4781,33193,Illinois,Place found,40.0,-89.0
+4785,33194,Illinois,Place found,40.0,-89.0
+4789,33195,Missouri,Place found,38.0,-98.0
+4791,33196,Illinois,Place found,40.0,-89.0
+4794,33197,Illinois,Place found,40.0,-89.0
+4797,33198,Illinois,Place found,40.0,-89.0
+4800,33199,Wisconsin,Place found,45.0,-90.0
+4801,33200,Illinois,Place found,40.0,-89.0
+4804,33202,Illinois,Place found,40.0,-89.0
+4808,33203,Illinois,Place found,40.0,-89.0
+4810,33204,Illinois,Place found,40.0,-89.0
+4814,33206,Ohio,Place found,40.0,-80.83
+4816,33207,Illinois,Place found,40.0,-89.0
+4817,33209,Wisconsin,Place found,45.0,-90.0
+4818,33211,Michigan,Place found,44.0,-85.0
+4820,33214,Michigan,Place found,44.0,-85.0
+4821,33215,Illinois,Place found,40.0,-89.0
+4823,33216,Ohio,Place found,40.0,-80.83
+4827,33221,Michigan,Place found,44.0,-85.0
+4829,33222,Arkansas,Place found,35.0,-93.0
+4832,33224,Arkansas River,Place found,35.67,-92.73
+4835,33226,Arkansas,Place found,35.0,-93.0
+4838,33229,Arkansas,Place found,35.0,-93.0
+4842,33230,Oklahoma,Place found,35.0,-98.0
+4845,33231,Arkansas,Place found,35.0,-93.0
+4848,33232,Oklahoma,Place found,35.0,-98.0
+4851,33233,Oklahoma,Place found,35.0,-98.0
+4854,33234,Oklahoma,Place found,35.0,-98.0
+4857,33235,Oklahoma,Place found,35.0,-98.0
+4860,33237,Oklahoma,Place found,35.0,-98.0
+4863,33240,Arkansas,Place found,35.0,-93.0
+4866,33241,Arkansas,Place found,35.0,-93.0
+4868,33242,Oklahoma,Place found,35.0,-98.0
+4871,33243,Oklahoma,Place found,35.0,-98.0
+4874,33244,Oklahoma,Place found,35.0,-98.0
+4877,33245,Oklahoma,Place found,35.0,-98.0
+4880,33248,Oklahoma,Place found,35.0,-98.0
+4883,33249,Oklahoma,Place found,35.0,-98.0
+4886,33250,Oklahoma,Place found,35.0,-98.0
+4888,33251,Oklahoma,Place found,35.0,-98.0
+4891,33252,Oklahoma,Place found,35.0,-98.0
+4894,33253,Oklahoma,Place found,35.0,-98.0
+4897,33254,Oklahoma,Place found,35.0,-98.0
+4900,33255,Oklahoma,Place found,35.0,-98.0
+4902,33256,Oklahoma,Place found,35.0,-98.0
+4904,33257,Oklahoma,Place found,35.0,-98.0
+4907,33259,Wisconsin,Place found,45.0,-90.0
+4909,33260,Arkansas,Place found,35.0,-93.0
+4913,33261,Arkansas,Place found,35.0,-93.0
+4916,33262,Illinois,Place found,40.0,-89.0
+4917,33263,Arkansas,Place found,35.0,-93.0
+4920,33264,Tennessee,Place found,35.5,-85.0
+4922,33267,Arkansas,Place found,35.0,-93.0
+4926,33268,Arkansas,Place found,35.0,-93.0
+4930,33273,Arkansas,Place found,35.0,-93.0
+4932,33274,Tennessee,Place found,35.5,-85.0
+4933,33277,Leflore,Place found,33.52,-90.22
+4938,33279,Leflore county,Place found,33.52,-90.22
+4944,33280,Leflore county,Place found,33.52,-90.22
+4950,33281,Oklahoma,Place found,35.0,-98.0
+4953,33282,Oklahoma,Place found,35.0,-98.0
+4956,33286,Oklahoma,Place found,35.0,-98.0
+4958,33288,Oklahoma,Place found,35.0,-98.0
+4961,33291,Alaska,Place found,65.0,-153.0
+4962,33292,Oklahoma,Place found,35.0,-98.0
+4965,33294,Alaska,Place found,65.0,-153.0
+4967,33295,MÃ©xico,Place found,23.0,-102.0
+4968,33304,Illinois,Place found,40.0,-89.0
+4971,33307,Leflore county,Place found,33.52,-90.22
+4977,33308,Leflore county,Place found,33.52,-90.22
+4983,33310,Leflore county,Place found,33.52,-90.22
+4989,33311,Leflore county,Place found,33.52,-90.22
+4995,33312,Arkansas,Place found,35.0,-93.0
+4996,33313,Arkansas,Place found,35.0,-93.0
+4997,33314,Leflore county,Place found,33.52,-90.22
+5003,33315,Leflore county,Place found,33.52,-90.22
+5009,33316,Saint Lawrence Island,Place found,63.5,-170.43
+5010,33317,Saint Lawrence Island,Place found,63.5,-170.43
+5011,33318,Leflore county,Place found,33.52,-90.22
+5017,33319,Leflore county,Place found,33.52,-90.22
+5023,33320,Saint Lawrence Island,Place found,63.5,-170.43
+5024,33321,Leflore county,Place found,33.52,-90.22
+5030,33322,Leflore county,Place found,33.52,-90.22
+5036,33324,Oklahoma,Place found,35.0,-98.0
+5038,33325,Leflore county,Place found,33.52,-90.22
+5044,33328,Leflore county,Place found,33.52,-90.22
+5050,33329,Leflore county,Place found,33.52,-90.22
+5056,33330,Alaska,Place found,65.0,-153.0
+5058,33331,Leflore county,Place found,33.52,-90.22
+5064,33332,Leflore county,Place found,33.52,-90.22
+5070,33334,Leflore county,Place found,33.52,-90.22
+5076,33335,Leflore county,Place found,33.52,-90.22
+5082,33337,Leflore county,Place found,33.52,-90.22
+5088,33338,Leflore county,Place found,33.52,-90.22
+5094,33339,Saint Lawrence Island,Place found,63.5,-170.43
+5095,33341,Leflore county,Place found,33.52,-90.22
+5101,33342,Saint Lawrence Island,Place found,63.5,-170.43
+5102,33343,Leflore county,Place found,33.52,-90.22
+5108,33344,Leflore county,Place found,33.52,-90.22
+5114,33345,Shishmaref Inlet,Place found,66.27,-165.88
+5115,33346,Leflore county,Place found,33.52,-90.22
+5121,33347,Leflore county,Place found,33.52,-90.22
+5127,33350,Leflore county,Place found,33.52,-90.22
+5133,33351,Saint Lawrence Island,Place found,63.5,-170.43
+5134,33352,Saint Lawrence Island,Place found,63.5,-170.43
+5135,33353,Leflore county,Place found,33.52,-90.22
+5141,33354,Leflore county,Place found,33.52,-90.22
+5147,33355,Alaska,Place found,65.0,-153.0
+5149,33356,Leflore county,Place found,33.52,-90.22
+5155,33364,Leflore county,Place found,33.52,-90.22
+5161,33367,Arkansas,Place found,35.0,-93.0
+5166,33369,Illinois,Place found,40.0,-89.0
+5168,33371,Arkansas,Place found,35.0,-93.0
+5170,33373,Mississippi,Place found,35.77,-90.5
+5172,33374,Ohio,Place found,40.0,-80.83
+5174,33376,Ohio,Place found,40.0,-80.83
+5176,33377,Ouachita River,Place found,34.68,-94.32
+5181,33378,Tennessee,Place found,35.5,-85.0
+5183,33381,Tennessee,Place found,35.5,-85.0
+5184,33382,Tennessee,Place found,35.5,-85.0
+5186,33383,Georgia,Place found,32.0,-84.0
+5187,33390,Saint Lawrence Island,Place found,63.5,-170.43
+5188,33393,Saint Lawrence Island,Place found,63.5,-170.43
+5189,33395,Diomede Islands,Place found,65.8,-169.0
+5190,33396,Alaska,Place found,65.0,-153.0
+5192,33397,Alaska,Place found,65.0,-153.0
+5194,33400,Cape Prince of Wales,Place found,65.58,-168.83
+5195,33401,Saint Lawrence Island,Place found,63.5,-170.43
+5196,33402,Saint Lawrence Island,Place found,63.5,-170.43
+5197,33403,Saint Lawrence Island,Place found,63.5,-170.43
+5198,33404,Saint Lawrence Island,Place found,63.5,-170.43
+5199,33405,Saint Lawrence Island,Place found,63.5,-170.43
+5200,33406,Saint Lawrence Island,Place found,63.5,-170.43
+5201,33408,Cape Prince of Wales,Place found,65.58,-168.83
+5202,33409,Saint Lawrence Island,Place found,63.5,-170.43
+5203,33410,Saint Lawrence Island,Place found,63.5,-170.43
+5204,33411,Saint Lawrence Island,Place found,63.5,-170.43
+5205,33412,Cape Prince of Wales,Place found,65.58,-168.83
+5206,33413,Saint Lawrence Island,Place found,63.5,-170.43
+5207,33414,Saint Lawrence Island,Place found,63.5,-170.43
+5208,33416,Alaska,Place found,65.0,-153.0
+5210,33418,Alaska,Place found,65.0,-153.0
+5212,33419,Alaska,Place found,65.0,-153.0
+5214,33420,Alaska,Place found,65.0,-153.0
+5216,33421,United States of America,Place found,38.0,-98.0
+5219,33422,Alaska,Place found,65.0,-153.0
+5221,33423,Alaska,Place found,65.0,-153.0
+5223,33424,Alaska,Place found,65.0,-153.0
+5226,33425,Alaska,Place found,65.0,-153.0
+5228,33427,Alaska,Place found,65.0,-153.0
+5230,33429,Alaska,Place found,65.0,-153.0
+5232,33430,Alaska,Place found,65.0,-153.0
+5235,33431,Alaska,Place found,65.0,-153.0
+5237,33433,Alaska,Place found,65.0,-153.0
+5239,33434,Alaska,Place found,65.0,-153.0
+5240,33435,Alaska,Place found,65.0,-153.0
+5242,33437,Alaska,Place found,65.0,-153.0
+5245,33438,Alaska,Place found,65.0,-153.0
+5247,33439,Alaska,Place found,65.0,-153.0
+5249,33441,Alaska,Place found,65.0,-153.0
+5251,33442,Alaska,Place found,65.0,-153.0
+5253,33443,Alaska,Place found,65.0,-153.0
+5255,33445,Alaska,Place found,65.0,-153.0
+5257,33446,Alaska,Place found,65.0,-153.0
+5259,33447,Alaska,Place found,65.0,-153.0
+5261,33448,Cape Deceit,Place found,66.83,-162.73
+5262,33449,Alaska,Place found,65.0,-153.0
+5264,33450,Alaska,Place found,65.0,-153.0
+5266,33451,Alaska,Place found,65.0,-153.0
+5268,33453,Alaska,Place found,65.0,-153.0
+5270,33454,Alaska,Place found,65.0,-153.0
+5272,33455,Alaska,Place found,65.0,-153.0
+5274,33456,Alaska,Place found,65.0,-153.0
+5276,33457,Alaska,Place found,65.0,-153.0
+5278,33458,Alaska,Place found,65.0,-153.0
+5280,33459,Alaska,Place found,65.0,-153.0
+5282,33460,Cape Prince of Wales,Place found,65.58,-168.83
+5283,33461,Alaska,Place found,65.0,-153.0
+5285,33462,Alaska,Place found,65.0,-153.0
+5287,33463,Alaska,Place found,65.0,-153.0
+5289,33465,Alaska,Place found,65.0,-153.0
+5291,33466,Alaska,Place found,65.0,-153.0
+5293,33467,Alaska,Place found,65.0,-153.0
+5295,33468,Alaska,Place found,65.0,-153.0
+5297,33469,Alaska,Place found,65.0,-153.0
+5299,33470,Alaska,Place found,65.0,-153.0
+5300,33471,Alaska,Place found,65.0,-153.0
+5302,33472,Alaska,Place found,65.0,-153.0
+5303,33473,Alaska,Place found,65.0,-153.0
+5305,33474,Alaska,Place found,65.0,-153.0
+5307,33477,Alaska,Place found,65.0,-153.0
+5310,33478,Alaska,Place found,65.0,-153.0
+5312,33479,Alaska,Place found,65.0,-153.0
+5314,33480,Alaska,Place found,65.0,-153.0
+5316,33481,Alaska,Place found,65.0,-153.0
+5318,33482,Alaska,Place found,65.0,-153.0
+5319,33483,Alaska,Place found,65.0,-153.0
+5320,33484,Alaska,Place found,65.0,-153.0
+5322,33485,Alaska,Place found,65.0,-153.0
+5324,33486,Kotzebue Sound,Place found,66.53,-162.73
+5325,33487,Alaska,Place found,65.0,-153.0
+5327,33488,Alaska,Place found,65.0,-153.0
+5330,33489,Nelson Island,Place found,60.63,-164.75
+5331,33490,Point Hope,Place found,68.33,-166.8
+5332,33491,Alaska,Place found,65.0,-153.0
+5334,33492,Alaska,Place found,65.0,-153.0
+5337,33493,Alaska,Place found,65.0,-153.0
+5339,33494,Alaska,Place found,65.0,-153.0
+5341,33495,Cape Prince of Wales,Place found,65.58,-168.83
+5342,33496,Alaska,Place found,65.0,-153.0
+5344,33497,Alaska,Place found,65.0,-153.0
+5345,33498,Alaska,Place found,65.0,-153.0
+5346,33499,Kotzebue Sound,Place found,66.53,-162.73
+5347,33500,Alaska,Place found,65.0,-153.0
+5349,33501,Alaska,Place found,65.0,-153.0
+5351,33502,tundra,Place found,,
+5353,33503,Coronation Gulf,Place found,68.42,-110.0
+5355,33504,Alaska,Place found,65.0,-153.0
+5356,33505,Alaska,Place found,65.0,-153.0
+5358,33506,Alaska,Place found,65.0,-153.0
+5359,33507,Alaska,Place found,65.0,-153.0
+5362,33508,Alaska,Place found,65.0,-153.0
+5363,33509,Alaska,Place found,65.0,-153.0
+5365,33510,Alaska,Place found,65.0,-153.0
+5367,33511,Alaska,Place found,65.0,-153.0
+5369,33512,Alaska,Place found,65.0,-153.0
+5371,33513,Alaska,Place found,65.0,-153.0
+5373,33514,Alaska,Place found,65.0,-153.0
+5375,33515,Alaska,Place found,65.0,-153.0
+5377,33516,Alaska,Place found,65.0,-153.0
+5379,33517,Alaska,Place found,65.0,-153.0
+5381,33518,Alaska,Place found,65.0,-153.0
+5383,33519,Alaska,Place found,65.0,-153.0
+5385,33520,Alaska,Place found,65.0,-153.0
+5387,33521,Alaska,Place found,65.0,-153.0
+5389,33522,Alaska,Place found,65.0,-153.0
+5391,33523,Alaska,Place found,65.0,-153.0
+5393,33524,Alaska,Place found,65.0,-153.0
+5395,33525,Alaska,Place found,65.0,-153.0
+5397,33526,Alaska,Place found,65.0,-153.0
+5400,33528,Kaltag,Place found,64.32,-158.72
+5402,33529,Alaska,Place found,65.0,-153.0
+5404,33530,Alaska,Place found,65.0,-153.0
+5406,33531,Cape Krusenstern,Place found,67.12,-163.73
+5407,33532,Alaska,Place found,65.0,-153.0
+5409,33533,Alaska,Place found,65.0,-153.0
+5411,33534,Alaska,Place found,65.0,-153.0
+5413,33535,Alaska,Place found,65.0,-153.0
+5415,33536,Arctic Coast,Place found,,
+5416,33537,Alaska,Place found,65.0,-153.0
+5418,33538,Alaska,Place found,65.0,-153.0
+5420,33539,Saint Lawrence Island,Place found,63.5,-170.43
+5421,33540,Alaska,Place found,65.0,-153.0
+5423,33541,Alaska,Place found,65.0,-153.0
+5425,33544,Alaska,Place found,65.0,-153.0
+5427,33545,Alaska,Place found,65.0,-153.0
+5429,33546,Alaska,Place found,65.0,-153.0
+5431,33547,Alaska,Place found,65.0,-153.0
+5433,33548,Alaska,Place found,65.0,-153.0
+5435,33549,Alaska,Place found,65.0,-153.0
+5437,33550,Alaska,Place found,65.0,-153.0
+5439,33551,Alaska,Place found,65.0,-153.0
+5441,33552,Alaska,Place found,65.0,-153.0
+5443,33553,United States of America,Place found,38.0,-98.0
+5446,33554,Alaska,Place found,65.0,-153.0
+5448,33557,Alaska,Place found,65.0,-153.0
+5449,33558,Alaska,Place found,65.0,-153.0
+5451,33560,Alaska,Place found,65.0,-153.0
+5452,33561,Bristol Bay,Place found,57.32,-159.8
+5453,33562,Alaska,Place found,65.0,-153.0
+5455,33563,Alaska,Place found,65.0,-153.0
+5457,33564,Alaska,Place found,65.0,-153.0
+5459,33565,Alaska,Place found,65.0,-153.0
+5461,33566,Alaska,Place found,65.0,-153.0
+5463,33567,Saint Lawrence Island,Place found,63.5,-170.43
+5464,33568,United States of America,Place found,38.0,-98.0
+5467,33569,United States of America,Place found,38.0,-98.0
+5469,33570,United States of America,Place found,38.0,-98.0
+5472,33571,Alaska,Place found,65.0,-153.0
+5474,33572,Alaska,Place found,65.0,-153.0
+5476,33573,Alaska,Place found,65.0,-153.0
+5478,33574,Alaska,Place found,65.0,-153.0
+5480,33575,Alaska,Place found,65.0,-153.0
+5482,33576,Alaska,Place found,65.0,-153.0
+5484,33577,United States of America,Place found,38.0,-98.0
+5488,33578,United States of America,Place found,38.0,-98.0
+5491,33579,Alaska,Place found,65.0,-153.0
+5493,33581,Alaska,Place found,65.0,-153.0
+5494,33583,Alaska,Place found,65.0,-153.0
+5495,33584,Alaska,Place found,65.0,-153.0
+5497,33585,Alaska,Place found,65.0,-153.0
+5499,33586,MÃ©xico,Place found,23.0,-102.0
+5501,33587,MÃ©xico,Place found,23.0,-102.0
+5503,33588,MÃ©xico,Place found,23.0,-102.0
+5505,33590,MÃ©xico,Place found,23.0,-102.0
+5507,33591,MÃ©xico,Place found,23.0,-102.0
+5509,33592,MÃ©xico,Place found,23.0,-102.0
+5511,33593,MÃ©xico,Place found,23.0,-102.0
+5513,33594,MÃ©xico,Place found,23.0,-102.0
+5515,33595,MÃ©xico,Place found,23.0,-102.0
+5517,33596,Georgia,Place found,32.0,-84.0
+5519,33597,MÃ©xico,Place found,23.0,-102.0
+5521,33598,MÃ©xico,Place found,23.0,-102.0
+5523,33599,MÃ©xico,Place found,23.0,-102.0
+5525,33600,Illinois,Place found,40.0,-89.0
+5529,33601,MÃ©xico,Place found,23.0,-102.0
+5531,33602,MÃ©xico,Place found,23.0,-102.0
+5533,33603,MÃ©xico,Place found,23.0,-102.0
+5536,33604,Illinois,Place found,40.0,-89.0
+5540,33605,MÃ©xico,Place found,23.0,-102.0
+5542,33606,MÃ©xico,Place found,23.0,-102.0
+5544,33607,MÃ©xico,Place found,23.0,-102.0
+5546,33608,MÃ©xico,Place found,23.0,-102.0
+5547,33609,MÃ©xico,Place found,23.0,-102.0
+5549,33610,MÃ©xico,Place found,23.0,-102.0
+5551,33611,MÃ©xico,Place found,23.0,-102.0
+5553,33612,Illinois,Place found,40.0,-89.0
+5557,33613,MÃ©xico,Place found,23.0,-102.0
+5559,33614,MÃ©xico,Place found,23.0,-102.0
+5561,33615,MÃ©xico,Place found,23.0,-102.0
+5563,33616,MÃ©xico,Place found,23.0,-102.0
+5565,33617,MÃ©xico,Place found,23.0,-102.0
+5567,33618,MÃ©xico,Place found,23.0,-102.0
+5569,33619,MÃ©xico,Place found,23.0,-102.0
+5571,33620,MÃ©xico,Place found,23.0,-102.0
+5573,33621,MÃ©xico,Place found,23.0,-102.0
+5575,33622,MÃ©xico,Place found,23.0,-102.0
+5577,33623,MÃ©xico,Place found,23.0,-102.0
+5579,33624,MÃ©xico,Place found,23.0,-102.0
+5581,33625,MÃ©xico,Place found,23.0,-102.0
+5582,33627,MÃ©xico,Place found,23.0,-102.0
+5583,33628,MÃ©xico,Place found,23.0,-102.0
+5584,33631,MÃ©xico,Place found,23.0,-102.0
+5585,33633,MÃ©xico,Place found,23.0,-102.0
+5586,33634,MÃ©xico,Place found,23.0,-102.0
+5587,33635,MÃ©xico,Place found,23.0,-102.0
+5588,33636,MÃ©xico,Place found,23.0,-102.0
+5589,33637,MÃ©xico,Place found,23.0,-102.0
+5590,33638,MÃ©xico,Place found,23.0,-102.0
+5591,33639,MÃ©xico,Place found,23.0,-102.0
+5592,33640,MÃ©xico,Place found,23.0,-102.0
+5593,33641,MÃ©xico,Place found,23.0,-102.0
+5594,33642,MÃ©xico,Place found,23.0,-102.0
+5595,33643,MÃ©xico,Place found,23.0,-102.0
+5596,33644,MÃ©xico,Place found,23.0,-102.0
+5599,33645,MÃ©xico,Place found,23.0,-102.0
+5602,33646,MÃ©xico,Place found,23.0,-102.0
+5604,33647,MÃ©xico,Place found,23.0,-102.0
+5606,33648,MÃ©xico,Place found,23.0,-102.0
+5608,33649,MÃ©xico,Place found,23.0,-102.0
+5610,33650,MÃ©xico,Place found,23.0,-102.0
+5612,33651,MÃ©xico,Place found,23.0,-102.0
+5614,33652,MÃ©xico,Place found,23.0,-102.0
+5617,33653,MÃ©xico,Place found,23.0,-102.0
+5619,33654,MÃ©xico,Place found,23.0,-102.0
+5621,33655,MÃ©xico,Place found,23.0,-102.0
+5623,33656,MÃ©xico,Place found,23.0,-102.0
+5625,33657,MÃ©xico,Place found,23.0,-102.0
+5627,33658,MÃ©xico,Place found,23.0,-102.0
+5629,33659,MÃ©xico,Place found,23.0,-102.0
+5632,33660,MÃ©xico,Place found,23.0,-102.0
+5634,33661,MÃ©xico,Place found,23.0,-102.0
+5636,33662,MÃ©xico,Place found,23.0,-102.0
+5639,33663,MÃ©xico,Place found,23.0,-102.0
+5641,33664,MÃ©xico,Place found,23.0,-102.0
+5643,33665,MÃ©xico,Place found,23.0,-102.0
+5645,33666,MÃ©xico,Place found,23.0,-102.0
+5647,33667,MÃ©xico,Place found,23.0,-102.0
+5649,33668,MÃ©xico,Place found,23.0,-102.0
+5651,33669,MÃ©xico,Place found,23.0,-102.0
+5653,33670,MÃ©xico,Place found,23.0,-102.0
+5655,33671,MÃ©xico,Place found,23.0,-102.0
+5657,33672,MÃ©xico,Place found,23.0,-102.0
+5659,33673,MÃ©xico,Place found,23.0,-102.0
+5661,33674,MÃ©xico,Place found,23.0,-102.0
+5663,33675,MÃ©xico,Place found,23.0,-102.0
+5664,33676,MÃ©xico,Place found,23.0,-102.0
+5667,33678,MÃ©xico,Place found,23.0,-102.0
+5668,33680,MÃ©xico,Place found,23.0,-102.0
+5670,33681,MÃ©xico,Place found,23.0,-102.0
+5672,33685,MÃ©xico,Place found,23.0,-102.0
+5674,33686,MÃ©xico,Place found,23.0,-102.0
+5676,33687,MÃ©xico,Place found,23.0,-102.0
+5678,33688,MÃ©xico,Place found,23.0,-102.0
+5680,33689,MÃ©xico,Place found,23.0,-102.0
+5682,33690,MÃ©xico,Place found,23.0,-102.0
+5684,33691,MÃ©xico,Place found,23.0,-102.0
+5686,33692,MÃ©xico,Place found,23.0,-102.0
+5688,33693,MÃ©xico,Place found,23.0,-102.0
+5690,33694,Mexico,Place found,23.0,-102.0
+5693,33695,MÃ©xico,Place found,23.0,-102.0
+5695,33696,MÃ©xico,Place found,23.0,-102.0
+5697,33697,MÃ©xico,Place found,23.0,-102.0
+5699,33698,MÃ©xico,Place found,23.0,-102.0
+5701,33699,MÃ©xico,Place found,23.0,-102.0
+5703,33700,MÃ©xico,Place found,23.0,-102.0
+5705,33701,MÃ©xico,Place found,23.0,-102.0
+5707,33702,MÃ©xico,Place found,23.0,-102.0
+5709,33703,MÃ©xico,Place found,23.0,-102.0
+5711,33704,MÃ©xico,Place found,23.0,-102.0
+5713,33705,MÃ©xico,Place found,23.0,-102.0
+5715,33706,MÃ©xico,Place found,23.0,-102.0
+5717,33707,MÃ©xico,Place found,23.0,-102.0
+5719,33708,MÃ©xico,Place found,23.0,-102.0
+5721,33709,MÃ©xico,Place found,23.0,-102.0
+5723,33710,MÃ©xico,Place found,23.0,-102.0
+5725,33711,MÃ©xico,Place found,23.0,-102.0
+5729,33713,MÃ©xico,Place found,23.0,-102.0
+5731,33714,MÃ©xico,Place found,23.0,-102.0
+5733,33715,MÃ©xico,Place found,23.0,-102.0
+5735,33716,MÃ©xico,Place found,23.0,-102.0
+5737,33717,MÃ©xico,Place found,23.0,-102.0
+5739,33718,MÃ©xico,Place found,23.0,-102.0
+5741,33719,MÃ©xico,Place found,23.0,-102.0
+5743,33720,MÃ©xico,Place found,23.0,-102.0
+5745,33721,Mexico,Place found,23.0,-102.0
+5747,33722,MÃ©xico,Place found,23.0,-102.0
+5748,33723,MÃ©xico,Place found,23.0,-102.0
+5750,33724,MÃ©xico,Place found,23.0,-102.0
+5753,33725,MÃ©xico,Place found,23.0,-102.0
+5755,33726,MÃ©xico,Place found,23.0,-102.0
+5757,33728,MÃ©xico,Place found,23.0,-102.0
+5758,33729,Mexico,Place found,23.0,-102.0
+5761,33731,MÃ©xico,Place found,23.0,-102.0
+5762,33732,MÃ©xico,Place found,23.0,-102.0
+5763,33733,MÃ©xico,Place found,23.0,-102.0
+5765,33737,MÃ©xico,Place found,23.0,-102.0
+5767,33739,MÃ©xico,Place found,23.0,-102.0
+5769,33741,MÃ©xico,Place found,23.0,-102.0
+5772,33742,MÃ©xico,Place found,23.0,-102.0
+5773,33743,MÃ©xico,Place found,23.0,-102.0
+5774,33744,MÃ©xico,Place found,23.0,-102.0
+5775,33745,MÃ©xico,Place found,23.0,-102.0
+5777,33746,MÃ©xico,Place found,23.0,-102.0
+5778,33747,MÃ©xico,Place found,23.0,-102.0
+5780,33748,MÃ©xico,Place found,23.0,-102.0
+5781,33749,MÃ©xico,Place found,23.0,-102.0
+5783,33750,MÃ©xico,Place found,23.0,-102.0
+5785,33751,MÃ©xico,Place found,23.0,-102.0
+5786,33752,MÃ©xico,Place found,23.0,-102.0
+5787,33753,MÃ©xico,Place found,23.0,-102.0
+5788,33754,MÃ©xico,Place found,23.0,-102.0
+5789,33755,MÃ©xico,Place found,23.0,-102.0
+5790,33756,MÃ©xico,Place found,23.0,-102.0
+5791,33757,MÃ©xico,Place found,23.0,-102.0
+5792,33758,MÃ©xico,Place found,23.0,-102.0
+5793,33759,MÃ©xico,Place found,23.0,-102.0
+5796,33760,MÃ©xico,Place found,23.0,-102.0
+5799,33761,MÃ©xico,Place found,23.0,-102.0
+5801,33762,MÃ©xico,Place found,23.0,-102.0
+5803,33763,MÃ©xico,Place found,23.0,-102.0
+5807,33764,MÃ©xico,Place found,23.0,-102.0
+5810,33765,MÃ©xico,Place found,23.0,-102.0
+5812,33766,MÃ©xico,Place found,23.0,-102.0
+5814,33767,MÃ©xico,Place found,23.0,-102.0
+5818,33768,MÃ©xico,Place found,23.0,-102.0
+5820,33769,MÃ©xico,Place found,23.0,-102.0
+5822,33770,MÃ©xico,Place found,23.0,-102.0
+5825,33771,MÃ©xico,Place found,23.0,-102.0
+5827,33772,MÃ©xico,Place found,23.0,-102.0
+5829,33773,MÃ©xico,Place found,23.0,-102.0
+5831,33774,MÃ©xico,Place found,23.0,-102.0
+5833,33775,MÃ©xico,Place found,23.0,-102.0
+5835,33776,United States of America,Place found,38.0,-98.0
+5837,33777,MÃ©xico,Place found,23.0,-102.0
+5839,33778,MÃ©xico,Place found,23.0,-102.0
+5841,33779,MÃ©xico,Place found,23.0,-102.0
+5844,33780,MÃ©xico,Place found,23.0,-102.0
+5846,33787,MÃ©xico,Place found,23.0,-102.0
+5848,33789,MÃ©xico,Place found,23.0,-102.0
+5850,33790,MÃ©xico,Place found,23.0,-102.0
+5852,33792,MÃ©xico,Place found,23.0,-102.0
+5854,33793,MÃ©xico,Place found,23.0,-102.0
+5856,33794,MÃ©xico,Place found,23.0,-102.0
+5858,33795,MÃ©xico,Place found,23.0,-102.0
+5860,33796,MÃ©xico,Place found,23.0,-102.0
+5862,33797,MÃ©xico,Place found,23.0,-102.0
+5864,33798,MÃ©xico,Place found,23.0,-102.0
+5868,33799,MÃ©xico,Place found,23.0,-102.0
+5871,33800,MÃ©xico,Place found,23.0,-102.0
+5873,33801,MÃ©xico,Place found,23.0,-102.0
+5875,33802,MÃ©xico,Place found,23.0,-102.0
+5877,33803,MÃ©xico,Place found,23.0,-102.0
+5879,33804,MÃ©xico,Place found,23.0,-102.0
+5882,33805,MÃ©xico,Place found,23.0,-102.0
+5884,33806,MÃ©xico,Place found,23.0,-102.0
+5887,33807,MÃ©xico,Place found,23.0,-102.0
+5889,33808,MÃ©xico,Place found,23.0,-102.0
+5891,33810,MÃ©xico,Place found,23.0,-102.0
+5893,33811,MÃ©xico,Place found,23.0,-102.0
+5896,33813,MÃ©xico,Place found,23.0,-102.0
+5898,33814,MÃ©xico,Place found,23.0,-102.0
+5900,33815,MÃ©xico,Place found,23.0,-102.0
+5902,33817,MÃ©xico,Place found,23.0,-102.0
+5904,33818,MÃ©xico,Place found,23.0,-102.0
+5906,33820,MÃ©xico,Place found,23.0,-102.0
+5908,33821,MÃ©xico,Place found,23.0,-102.0
+5910,33822,MÃ©xico,Place found,23.0,-102.0
+5913,33823,MÃ©xico,Place found,23.0,-102.0
+5915,33826,Arkansas,Place found,35.0,-93.0
+5918,33828,Missouri,Place found,38.0,-98.0
+5921,33831,Missouri,Place found,38.0,-98.0
+5923,33833,Arkansas,Place found,39.66,-78.72
+5925,33834,Illinois,Place found,40.0,-89.0
+5926,33835,Illinois,Place found,40.0,-89.0
+5929,33836,Arkansas,Place found,35.0,-93.0
+5933,33839,Arkansas,Place found,35.0,-93.0
+5936,33840,Arkansas,Place found,35.0,-93.0
+5939,33842,Missouri,Place found,38.0,-98.0
+5942,33843,Arkansas,Place found,35.0,-93.0
+5945,33845,Tennessee,Place found,35.5,-85.0
+5948,33847,Missouri,Place found,38.0,-98.0
+5951,33848,Missouri,Place found,38.0,-98.0
+5954,33850,Missouri,Place found,38.0,-98.0
+5957,33852,Arkansas,Place found,35.0,-93.0
+5959,33853,Arkansas,Place found,35.0,-93.0
+5962,33859,Arkansas,Place found,35.0,-93.0
+5965,33861,Arkansas,Place found,35.0,-93.0
+5969,33862,Arkansas,Place found,35.0,-93.0
+5973,33863,Arkansas,Place found,35.0,-93.0
+5977,33865,Arkansas,Place found,35.0,-93.0
+5981,33867,Arkansas,Place found,35.0,-93.0
+5983,33869,Arkansas,Place found,35.0,-93.0
+5985,33873,Arkansas,Place found,35.0,-93.0
+5989,33874,Arkansas,Place found,35.0,-93.0
+5993,33875,Arkansas,Place found,35.0,-93.0
+5998,33878,Arkansas,Place found,35.0,-93.0
+6002,33879,Arkansas,Place found,35.0,-93.0
+6006,33884,Arkansas,Place found,35.0,-93.0
+6009,33885,Arkansas,Place found,35.0,-93.0
+6011,33886,Arkansas,Place found,35.0,-93.0
+6015,33887,Arkansas,Place found,35.0,-93.0
+6017,33888,Arkansas,Place found,35.0,-93.0
+6021,33891,Arkansas,Place found,35.0,-93.0
+6025,33892,Arkansas,Place found,35.0,-93.0
+6029,33894,Arkansas,Place found,35.0,-93.0
+6032,33896,Arkansas,Place found,35.0,-93.0
+6036,33898,Arkansas,Place found,35.0,-93.0
+6040,33899,Arkansas,Place found,35.0,-93.0
+6043,33900,Arkansas,Place found,35.0,-93.0
+6047,33901,Arkansas,Place found,35.0,-93.0
+6050,33902,Arkansas,Place found,35.0,-93.0
+6052,33903,Arkansas,Place found,35.0,-93.0
+6057,33904,Arkansas,Place found,35.0,-93.0
+6061,33905,Arkansas,Place found,35.0,-93.0
+6064,33906,Arkansas,Place found,35.0,-93.0
+6068,33908,Arkansas,Place found,35.0,-93.0
+6071,33909,Arkansas,Place found,35.0,-93.0
+6073,33911,Arkansas,Place found,35.0,-93.0
+6077,33912,Arkansas,Place found,35.0,-93.0
+6079,33913,Arkansas,Place found,35.0,-93.0
+6083,33914,Arkansas,Place found,35.0,-93.0
+6087,33915,Arkansas,Place found,35.0,-93.0
+6092,33917,Arkansas,Place found,35.0,-93.0
+6096,33918,Arkansas,Place found,35.0,-93.0
+6100,33919,Arkansas,Place found,35.0,-93.0
+6104,33921,Arkansas,Place found,35.0,-93.0
+6108,33924,Arkansas,Place found,35.0,-93.0
+6111,33925,Arkansas,Place found,35.0,-93.0
+6113,33926,Arkansas,Place found,35.0,-93.0
+6116,33928,Arkansas,Place found,35.0,-93.0
+6121,33929,Arkansas,Place found,35.0,-93.0
+6124,33930,Arkansas,Place found,35.0,-93.0
+6128,33936,Arkansas,Place found,35.0,-93.0
+6132,33938,Arkansas,Place found,35.0,-93.0
+6136,33939,Arkansas,Place found,35.0,-93.0
+6140,33941,Arkansas,Place found,35.0,-93.0
+6144,33942,MÃ©xico,Place found,23.0,-102.0
+6146,33943,MÃ©xico,Place found,23.0,-102.0
+6148,33944,MÃ©xico,Place found,23.0,-102.0
+6150,33945,MÃ©xico,Place found,23.0,-102.0
+6152,33946,MÃ©xico,Place found,23.0,-102.0
+6154,33947,MÃ©xico,Place found,23.0,-102.0
+6156,33948,MÃ©xico,Place found,23.0,-102.0
+6158,33949,MÃ©xico,Place found,23.0,-102.0
+6160,33950,MÃ©xico,Place found,23.0,-102.0
+6163,33951,MÃ©xico,Place found,23.0,-102.0
+6165,33952,MÃ©xico,Place found,23.0,-102.0
+6168,33953,MÃ©xico,Place found,23.0,-102.0
+6171,33954,MÃ©xico,Place found,23.0,-102.0
+6173,33955,MÃ©xico,Place found,23.0,-102.0
+6176,33956,MÃ©xico,Place found,23.0,-102.0
+6179,33957,MÃ©xico,Place found,23.0,-102.0
+6181,33958,MÃ©xico,Place found,23.0,-102.0
+6183,33959,MÃ©xico,Place found,23.0,-102.0
+6186,33962,Mexico,Place found,23.0,-102.0
+6189,33964,MÃ©xico,Place found,23.0,-102.0
+6193,33965,MÃ©xico,Place found,23.0,-102.0
+6197,33966,Yucatan Peninsula,Place found,19.5,-89.0
+6198,33967,MÃ©xico,Place found,23.0,-102.0
+6202,33968,MÃ©xico,Place found,23.0,-102.0
+6206,33969,MÃ©xico,Place found,23.0,-102.0
+6208,33970,MÃ©xico,Place found,23.0,-102.0
+6210,33971,Yucatan Peninsula,Place found,19.5,-89.0
+6211,33972,Yucatan Peninsula,Place found,19.5,-89.0
+6212,33973,Panama,Place found,9.0,-80.0
+6213,33974,Panama,Place found,9.0,-80.0
+6214,33975,Panama,Place found,9.0,-80.0
+6215,33976,Panama,Place found,9.0,-80.0
+6216,33977,Panama,Place found,9.0,-80.0
+6217,33978,Panama,Place found,9.0,-80.0
+6218,33979,MÃ©xico,Place found,23.0,-102.0
+6220,33980,Central Mexico,Place found,,
+6222,33981,Central Mexico,Place found,,
+6224,33982,MÃ©xico,Place found,23.0,-102.0
+6226,33983,Jaina Island,Place found,,
+6227,33984,Central Mexico,Place found,,
+6229,33985,MÃ©xico,Place found,23.0,-102.0
+6231,33986,MÃ©xico,Place found,23.0,-102.0
+6233,33987,MÃ©xico,Place found,23.0,-102.0
+6235,33988,MÃ©xico,Place found,23.0,-102.0
+6237,33989,MÃ©xico,Place found,23.0,-102.0
+6239,33990,MÃ©xico,Place found,23.0,-102.0
+6241,33991,MÃ©xico,Place found,23.0,-102.0
+6243,33992,MÃ©xico,Place found,23.0,-102.0
+6245,33993,MÃ©xico,Place found,23.0,-102.0
+6247,33994,MÃ©xico,Place found,23.0,-102.0
+6248,33995,MÃ©xico,Place found,23.0,-102.0
+6250,33996,MÃ©xico,Place found,23.0,-102.0
+6252,33997,MÃ©xico,Place found,23.0,-102.0
+6254,33998,MÃ©xico,Place found,23.0,-102.0
+6256,33999,MÃ©xico,Place found,23.0,-102.0
+6258,34000,MÃ©xico,Place found,23.0,-102.0
+6260,34001,MÃ©xico,Place found,23.0,-102.0
+6262,34002,MÃ©xico,Place found,23.0,-102.0
+6264,34003,Central Mexico,Place found,,
+6266,34004,MÃ©xico,Place found,23.0,-102.0
+6267,34005,MÃ©xico,Place found,23.0,-102.0
+6269,34006,Yucatan Peninsula,Place found,19.5,-89.0
+6270,34007,MÃ©xico,Place found,23.0,-102.0
+6271,34008,MÃ©xico,Place found,23.0,-102.0
+6272,34009,MÃ©xico,Place found,23.0,-102.0
+6274,34010,Yucatan Peninsula,Place found,19.5,-89.0
+6275,34011,MÃ©xico,Place found,23.0,-102.0
+6276,34012,MÃ©xico,Place found,23.0,-102.0
+6277,34013,MÃ©xico,Place found,23.0,-102.0
+6279,34014,MÃ©xico,Place found,23.0,-102.0
+6281,34015,MÃ©xico,Place found,23.0,-102.0
+6282,34017,MÃ©xico,Place found,23.0,-102.0
+6283,34018,Teotihuacan,Place found,0.0,0.0
+6284,34019,MÃ©xico,Place found,23.0,-102.0
+6285,34020,MÃ©xico,Place found,23.0,-102.0
+6287,34021,MÃ©xico,Place found,23.0,-102.0
+6289,34022,Yucatan Peninsula,Place found,19.5,-89.0
+6290,34023,Mexico,Place found,23.0,-102.0
+6292,34024,MÃ©xico,Place found,23.0,-102.0
+6294,34025,MÃ©xico,Place found,23.0,-102.0
+6296,34026,MÃ©xico,Place found,23.0,-102.0
+6297,34027,MÃ©xico,Place found,23.0,-102.0
+6299,34028,MÃ©xico,Place found,23.0,-102.0
+6301,34029,MÃ©xico,Place found,23.0,-102.0
+6304,34030,MÃ©xico,Place found,23.0,-102.0
+6307,34031,MÃ©xico,Place found,23.0,-102.0
+6310,34032,MÃ©xico,Place found,23.0,-102.0
+6313,34033,MÃ©xico,Place found,23.0,-102.0
+6315,34034,MÃ©xico,Place found,23.0,-102.0
+6318,34035,MÃ©xico,Place found,23.0,-102.0
+6321,34036,MÃ©xico,Place found,23.0,-102.0
+6325,34037,MÃ©xico,Place found,23.0,-102.0
+6327,34038,MÃ©xico,Place found,23.0,-102.0
+6329,34039,MÃ©xico,Place found,23.0,-102.0
+6331,34040,MÃ©xico,Place found,23.0,-102.0
+6333,34041,MÃ©xico,Place found,23.0,-102.0
+6335,34042,MÃ©xico,Place found,23.0,-102.0
+6337,34043,MÃ©xico,Place found,23.0,-102.0
+6339,34044,MÃ©xico,Place found,23.0,-102.0
+6341,34045,MÃ©xico,Place found,23.0,-102.0
+6343,34046,Alaska,Place found,65.0,-153.0
+6345,34047,MÃ©xico,Place found,23.0,-102.0
+6347,34048,MÃ©xico,Place found,23.0,-102.0
+6349,34049,MÃ©xico,Place found,23.0,-102.0
+6351,34050,MÃ©xico,Place found,23.0,-102.0
+6353,34051,MÃ©xico,Place found,23.0,-102.0
+6355,34052,MÃ©xico,Place found,23.0,-102.0
+6357,34054,MÃ©xico,Place found,23.0,-102.0
+6359,34055,MÃ©xico,Place found,23.0,-102.0
+6361,34056,MÃ©xico,Place found,23.0,-102.0
+6363,34058,MÃ©xico,Place found,23.0,-102.0
+6365,34059,MÃ©xico,Place found,23.0,-102.0
+6367,34060,Alaska,Place found,65.0,-153.0
+6368,34061,MÃ©xico,Place found,23.0,-102.0
+6369,34062,MÃ©xico,Place found,23.0,-102.0
+6370,34063,MÃ©xico,Place found,23.0,-102.0
+6371,34064,MÃ©xico,Place found,23.0,-102.0
+6372,34065,MÃ©xico,Place found,23.0,-102.0
+6373,34066,MÃ©xico,Place found,23.0,-102.0
+6374,34067,MÃ©xico,Place found,23.0,-102.0
+6375,34068,MÃ©xico,Place found,23.0,-102.0
+6376,34069,MÃ©xico,Place found,23.0,-102.0
+6377,34070,MÃ©xico,Place found,23.0,-102.0
+6379,34071,MÃ©xico,Place found,23.0,-102.0
+6380,34072,MÃ©xico,Place found,23.0,-102.0
+6381,34073,MÃ©xico,Place found,23.0,-102.0
+6382,34074,MÃ©xico,Place found,23.0,-102.0
+6383,34075,MÃ©xico,Place found,23.0,-102.0
+6384,34076,MÃ©xico,Place found,23.0,-102.0
+6386,34077,MÃ©xico,Place found,23.0,-102.0
+6387,34078,MÃ©xico,Place found,23.0,-102.0
+6388,34079,MÃ©xico,Place found,23.0,-102.0
+6390,34080,MÃ©xico,Place found,23.0,-102.0
+6391,34081,MÃ©xico,Place found,23.0,-102.0
+6393,34082,MÃ©xico,Place found,23.0,-102.0
+6394,34083,MÃ©xico,Place found,23.0,-102.0
+6395,34084,MÃ©xico,Place found,23.0,-102.0
+6396,34085,MÃ©xico,Place found,23.0,-102.0
+6397,34086,MÃ©xico,Place found,23.0,-102.0
+6398,34087,MÃ©xico,Place found,23.0,-102.0
+6400,34088,MÃ©xico,Place found,23.0,-102.0
+6402,34089,MÃ©xico,Place found,23.0,-102.0
+6404,34090,MÃ©xico,Place found,23.0,-102.0
+6406,34091,MÃ©xico,Place found,23.0,-102.0
+6408,34092,MÃ©xico,Place found,23.0,-102.0
+6410,34093,MÃ©xico,Place found,23.0,-102.0
+6411,34094,MÃ©xico,Place found,23.0,-102.0
+6412,34095,MÃ©xico,Place found,23.0,-102.0
+6414,34096,Mexico,Place found,23.0,-102.0
+6417,34097,MÃ©xico,Place found,23.0,-102.0
+6419,34098,MÃ©xico,Place found,23.0,-102.0
+6421,34099,MÃ©xico,Place found,23.0,-102.0
+6422,34100,MÃ©xico,Place found,23.0,-102.0
+6423,34101,MÃ©xico,Place found,23.0,-102.0
+6424,34102,MÃ©xico,Place found,23.0,-102.0
+6426,34103,MÃ©xico,Place found,23.0,-102.0
+6427,34104,MÃ©xico,Place found,23.0,-102.0
+6428,34105,MÃ©xico,Place found,23.0,-102.0
+6429,34106,MÃ©xico,Place found,23.0,-102.0
+6431,34107,MÃ©xico,Place found,23.0,-102.0
+6433,34108,MÃ©xico,Place found,23.0,-102.0
+6436,34109,MÃ©xico,Place found,23.0,-102.0
+6439,34110,MÃ©xico,Place found,23.0,-102.0
+6440,34111,MÃ©xico,Place found,23.0,-102.0
+6442,34112,Guatemala,Place found,15.5,-90.25
+6444,34113,MÃ©xico,Place found,23.0,-102.0
+6446,34114,MÃ©xico,Place found,23.0,-102.0
+6448,34115,MÃ©xico,Place found,23.0,-102.0
+6449,34118,MÃ©xico,Place found,23.0,-102.0
+6451,34119,MÃ©xico,Place found,23.0,-102.0
+6453,34120,MÃ©xico,Place found,23.0,-102.0
+6455,34123,MÃ©xico,Place found,23.0,-102.0
+6457,34124,MÃ©xico,Place found,23.0,-102.0
+6459,34125,MÃ©xico,Place found,23.0,-102.0
+6461,34126,MÃ©xico,Place found,23.0,-102.0
+6463,34127,MÃ©xico,Place found,23.0,-102.0
+6465,34128,MÃ©xico,Place found,23.0,-102.0
+6467,34129,MÃ©xico,Place found,23.0,-102.0
+6469,34130,MÃ©xico,Place found,23.0,-102.0
+6471,34131,MÃ©xico,Place found,23.0,-102.0
+6473,34132,MÃ©xico,Place found,23.0,-102.0
+6475,34133,MÃ©xico,Place found,23.0,-102.0
+6476,34134,MÃ©xico,Place found,23.0,-102.0
+6478,34135,MÃ©xico,Place found,23.0,-102.0
+6480,34138,MÃ©xico,Place found,23.0,-102.0
+6482,34139,MÃ©xico,Place found,23.0,-102.0
+6484,34140,MÃ©xico,Place found,23.0,-102.0
+6486,34141,MÃ©xico,Place found,23.0,-102.0
+6488,34142,MÃ©xico,Place found,23.0,-102.0
+6490,34143,MÃ©xico,Place found,23.0,-102.0
+6492,34144,MÃ©xico,Place found,23.0,-102.0
+6494,34145,MÃ©xico,Place found,23.0,-102.0
+6496,34146,MÃ©xico,Place found,23.0,-102.0
+6499,34147,MÃ©xico,Place found,23.0,-102.0
+6501,34148,MÃ©xico,Place found,23.0,-102.0
+6503,34149,MÃ©xico,Place found,23.0,-102.0
+6505,34150,MÃ©xico,Place found,23.0,-102.0
+6507,34151,MÃ©xico,Place found,23.0,-102.0
+6509,34152,MÃ©xico,Place found,23.0,-102.0
+6511,34153,Costa Rica,Place found,10.0,-84.0
+6512,34154,MÃ©xico,Place found,23.0,-102.0
+6514,34155,Costa Rica,Place found,10.0,-84.0
+6517,34156,MÃ©xico,Place found,23.0,-102.0
+6518,34159,MÃ©xico,Place found,23.0,-102.0
+6520,34160,Costa Rica,Place found,10.0,-84.0
+6523,34161,Mexico,Place found,23.0,-102.0
+6525,34162,MÃ©xico,Place found,23.0,-102.0
+6527,34163,MÃ©xico,Place found,23.0,-102.0
+6529,34164,MÃ©xico,Place found,23.0,-102.0
+6531,34165,MÃ©xico,Place found,23.0,-102.0
+6532,34166,MÃ©xico,Place found,23.0,-102.0
+6534,34167,MÃ©xico,Place found,23.0,-102.0
+6536,34168,MÃ©xico,Place found,23.0,-102.0
+6537,34169,MÃ©xico,Place found,23.0,-102.0
+6538,34170,MÃ©xico,Place found,23.0,-102.0
+6540,34171,MÃ©xico,Place found,23.0,-102.0
+6541,34172,MÃ©xico,Place found,23.0,-102.0
+6542,34173,MÃ©xico,Place found,23.0,-102.0
+6543,34174,MÃ©xico,Place found,23.0,-102.0
+6544,34175,MÃ©xico,Place found,23.0,-102.0
+6545,34176,MÃ©xico,Place found,23.0,-102.0
+6546,34177,MÃ©xico,Place found,23.0,-102.0
+6547,34178,MÃ©xico,Place found,23.0,-102.0
+6548,34179,MÃ©xico,Place found,23.0,-102.0
+6549,34180,MÃ©xico,Place found,23.0,-102.0
+6550,34181,MÃ©xico,Place found,23.0,-102.0
+6551,34182,United States of America,Place found,38.0,-98.0
+6553,34183,MÃ©xico,Place found,23.0,-102.0
+6554,34184,Panama,Place found,9.0,-80.0
+6555,34185,Panama,Place found,9.0,-80.0
+6556,34186,Panama,Place found,9.0,-80.0
+6557,34187,Panama,Place found,9.0,-80.0
+6558,34188,Panama,Place found,9.0,-80.0
+6559,34189,Panama,Place found,9.0,-80.0
+6560,34190,Panama,Place found,9.0,-80.0
+6561,34191,Panama,Place found,9.0,-80.0
+6562,34192,Panama,Place found,9.0,-80.0
+6563,34193,Panama,Place found,9.0,-80.0
+6564,34194,Panama,Place found,9.0,-80.0
+6565,34195,Panama,Place found,9.0,-80.0
+6566,34196,Panama,Place found,9.0,-80.0
+6567,34197,Panama,Place found,9.0,-80.0
+6568,34198,Panama,Place found,9.0,-80.0
+6569,34199,Panama,Place found,9.0,-80.0
+6570,34200,Panama,Place found,9.0,-80.0
+6571,34201,Panama,Place found,9.0,-80.0
+6572,34202,Panama,Place found,9.0,-80.0
+6573,34203,Panama,Place found,9.0,-80.0
+6574,34204,Panama,Place found,9.0,-80.0
+6575,34205,MÃ©xico,Place found,23.0,-102.0
+6578,34206,Panama,Place found,9.0,-80.0
+6579,34207,Panama,Place found,9.0,-80.0
+6580,34208,England,Place Made,53.0,-2.0
+6581,34209,Panama,Place found,9.0,-80.0
+6582,34210,Panama,Place found,9.0,-80.0
+6583,34211,Alaska,Place found,65.0,-153.0
+6586,34212,Alaska,Place found,65.0,-153.0
+6588,34213,Alaska,Place found,65.0,-153.0
+6590,34214,Alaska,Place found,65.0,-153.0
+6592,34215,Alaska,Place found,65.0,-153.0
+6594,34216,France,Place Made,46.0,2.0
+6595,34217,United States of America,Place Made,38.0,-98.0
+6596,34218,United States of America,Place Made,38.0,-98.0
+6597,34219,United States of America,Place Made,38.0,-98.0
+6598,34220,United States of America,Place Made,38.0,-98.0
+6599,34221,United States of America,Place Made,38.0,-98.0
+6600,34222,United States of America,Place Made,38.0,-98.0
+6601,34223,United States of America,Place Made,38.0,-98.0
+6602,34224,England,Place Made,53.0,-2.0
+6603,34225,United States of America,Place Made,38.0,-98.0
+6604,34226,United States of America,Place Made,38.0,-98.0
+6605,34227,United States of America,Place Made,38.0,-98.0
+6606,34228,United States of America,Place Made,38.0,-98.0
+6607,34229,United States of America,Place Made,38.0,-98.0
+6608,34230,England,Place Made,53.0,-2.0
+6609,34231,England,Place Made,53.0,-2.0
+6610,34232,England,Place Made,53.0,-2.0
+6611,34233,United States of America,Place Made,38.0,-98.0
+6612,34234,United States of America,Place Made,38.0,-98.0
+6613,34235,United States of America,Place Made,38.0,-98.0
+6614,34236,United States of America,Place Made,38.0,-98.0
+6615,34237,United States of America,Place Made,38.0,-98.0
+6616,34238,United States of America,Place Made,38.0,-98.0
+6617,34239,United States of America,Place Made,38.0,-98.0
+6618,34240,United States of America,Place Made,38.0,-98.0
+6619,34241,United States of America,Place Made,38.0,-98.0
+6620,34242,England,Place Made,53.0,-2.0
+6621,34244,England,Place Made,53.0,-2.0
+6622,34245,England,Place Made,53.0,-2.0
+6623,34246,Mesa Verde,Place found,0.0,0.0
+6624,34248,Mesa Verde,Place found,0.0,0.0
+6625,34249,Mesa Verde,Place found,0.0,0.0
+6626,34251,Mesa Verde,Place found,0.0,0.0
+6627,34252,Arizona,Place found,34.0,-112.0
+6629,34253,Mesa Verde,Place found,0.0,0.0
+6630,34254,Black Mesa,Place found,36.98,-103.13
+6631,34256,Mesa Verde,Place found,0.0,0.0
+6632,34257,Mesa Verde,Place found,0.0,0.0
+6633,34258,Arizona,Place found,34.0,-112.0
+6635,34259,Kayenta,Place found,36.72,-110.25
+6636,34261,Mesa Verde,Place found,0.0,0.0
+6637,34262,Mesa Verde,Place found,0.0,0.0
+6638,34263,Mesa Verde,Place found,0.0,0.0
+6639,34264,Mesa Verde,Place found,0.0,0.0
+6640,34265,Mesa Verde,Place found,0.0,0.0
+6641,34268,Mesa Verde,Place found,0.0,0.0
+6642,34269,Kayenta,Place found,36.72,-110.25
+6643,34270,Arizona,Place found,34.0,-112.0
+6644,34271,Kayenta,Place found,36.72,-110.25
+6645,34272,Mesa Verde,Place found,0.0,0.0
+6646,34273,Arizona,Place found,34.0,-112.0
+6647,34274,Mesa Verde,Place found,0.0,0.0
+6648,34275,Arizona,Place found,34.0,-112.0
+6651,34276,Mesa Verde,Place found,0.0,0.0
+6652,34280,New Mexico,Place found,35.0,-105.0
+6654,34281,New Mexico,Place found,35.0,-105.0
+6656,34282,New Mexico,Place found,35.0,-105.0
+6658,34283,New Mexico,Place found,35.0,-105.0
+6660,34285,Mesa Verde,Place found,0.0,0.0
+6661,34286,Mesa Verde,Place found,0.0,0.0
+6662,34287,Arizona,Place found,34.0,-112.0
+6664,34288,Mesa Verde,Place found,0.0,0.0
+6665,34289,Mesa Verde,Place found,0.0,0.0
+6666,34290,Arizona,Place found,34.0,-112.0
+6668,34291,Arizona,Place found,34.0,-112.0
+6670,34292,Arizona,Place found,34.0,-112.0
+6672,34293,Arizona,Place found,34.0,-112.0
+6674,34294,New Mexico,Place found,35.0,-105.0
+6676,34295,New Mexico,Place found,35.0,-105.0
+6678,34296,New Mexico,Place found,35.0,-105.0
+6680,34297,New Mexico,Place found,35.0,-105.0
+6682,34298,Arizona,Place found,34.0,-112.0
+6685,34299,New Mexico,Place found,35.0,-105.0
+6687,34300,Arizona,Place found,34.0,-112.0
+6689,34301,New Mexico,Place found,35.0,-105.0
+6691,34302,New Mexico,Place found,35.0,-105.0
+6693,34303,New Mexico,Place found,35.0,-105.0
+6695,34304,New Mexico,Place found,35.0,-105.0
+6697,34306,New Mexico,Place found,35.0,-105.0
+6699,34307,New Mexico,Place found,35.0,-105.0
+6701,34308,New Mexico,Place found,35.0,-105.0
+6703,34310,Arizona,Place found,34.0,-112.0
+6704,34311,Arizona,Place found,34.0,-112.0
+6707,34312,Arizona,Place found,34.0,-112.0
+6709,34313,Arizona,Place found,34.0,-112.0
+6711,34314,Arizona,Place found,34.0,-112.0
+6713,34317,Arizona,Place found,34.0,-112.0
+6715,34318,New Mexico,Place found,35.0,-105.0
+6717,34319,New Mexico,Place found,35.0,-105.0
+6719,34321,New Mexico,Place found,35.0,-105.0
+6721,34322,New Mexico,Place found,35.0,-105.0
+6723,34324,Alaska,Place found,65.0,-153.0
+6725,34325,New Mexico,Place found,35.0,-105.0
+6727,34326,New Mexico,Place found,35.0,-105.0
+6729,34328,New Mexico,Place found,35.0,-105.0
+6731,34329,New Mexico,Place found,35.0,-105.0
+6733,34330,New Mexico,Place found,35.0,-105.0
+6735,34332,New Mexico,Place found,35.0,-105.0
+6737,34333,New Mexico,Place found,35.0,-105.0
+6739,34334,New Mexico,Place found,35.0,-105.0
+6741,34335,New Mexico,Place found,35.0,-105.0
+6743,34336,Arizona,Place found,34.0,-112.0
+6746,34338,MÃ©xico,Place found,23.0,-102.0
+6749,34340,MÃ©xico,Place found,23.0,-102.0
+6752,34341,MÃ©xico,Place found,23.0,-102.0
+6755,34352,United States of America,Place found,38.0,-98.0
+6757,34354,United States,Place found,38.0,-98.0
+6760,34355,United States of America,Place found,38.0,-98.0
+6762,34356,United States of America,Place found,38.0,-98.0
+6765,34360,United States of America,Place found,38.0,-98.0
+6768,34361,United States of America,Place found,38.0,-98.0
+6771,34368,Mesa Verde,Place found,0.0,0.0
+6772,34369,New Mexico,Place found,35.0,-105.0
+6774,34370,New Mexico,Place found,35.0,-105.0
+6776,34371,New Mexico,Place found,35.0,-105.0
+6778,34372,New Mexico,Place found,35.0,-105.0
+6780,34373,New Mexico,Place found,35.0,-105.0
+6782,34374,New Mexico,Place found,35.0,-105.0
+6784,34375,New Mexico,Place found,35.0,-105.0
+6786,34376,New Mexico,Place found,35.0,-105.0
+6788,34377,New Mexico,Place found,35.0,-105.0
+6790,34378,New Mexico,Place found,35.0,-105.0
+6792,34379,New Mexico,Place found,35.0,-105.0
+6794,34380,New Mexico,Place found,35.0,-105.0
+6796,34381,New Mexico,Place found,35.0,-105.0
+6798,34382,New Mexico,Place found,35.0,-105.0
+6800,34383,Arizona,Place found,34.0,-112.0
+6803,34384,New Mexico,Place found,35.0,-105.0
+6805,34386,Michigan,Place found,44.0,-85.0
+6807,34389,Illinois,Place found,40.0,-89.0
+6809,34390,Illinois,Place found,40.0,-89.0
+6811,34391,Illinois,Place found,40.0,-89.0
+6813,34392,Illinois,Place found,40.0,-89.0
+6815,34393,Illinois,Place found,40.0,-89.0
+6817,34395,Illinois,Place found,40.0,-89.0
+6819,34396,Ohio,Place found,40.0,-80.83
+6821,34397,Virginia,Place found,37.0,-80.0
+6822,34398,Tennessee,Place found,35.5,-85.0
+6824,34399,Tennessee,Place found,35.5,-85.0
+6825,34402,United States of America,Place found,38.0,-98.0
+6827,34405,Mesa Verde,Place found,0.0,0.0
+6828,34407,United States of America,Place found,38.0,-98.0
+6830,34409,United States of America,Place found,38.0,-98.0
+6832,34410,United States of America,Place found,38.0,-98.0
+6834,34411,Baffin Island,Place found,0.0,0.0
+6837,34412,United States of America,Place found,38.0,-98.0
+6839,34413,Arkansas,Place found,35.0,-93.0
+6842,34414,Arkansas,Place found,35.0,-93.0
+6847,34415,Arizona,Place found,34.0,-112.0
+6850,34418,Arizona,Place found,34.0,-112.0
+6852,34419,United States of America,Place found,38.0,-98.0
+6855,34420,United States of America,Place found,38.0,-98.0
+6857,34421,Southwest,Place found,0.0,0.0
+6858,34422,Southwest,Place found,0.0,0.0
+6859,34423,Southwest,Place found,0.0,0.0
+6860,34424,Southwest,Place found,0.0,0.0
+6861,34425,United States of America,Place found,38.0,-98.0
+6863,34428,United States of America,Place found,38.0,-98.0
+6866,34429,Tennessee,Place found,35.5,-85.0
+6867,34430,Tennessee,Place found,35.5,-85.0
+6869,34431,Tennessee,Place found,35.5,-85.0
+6870,34432,Tennessee,Place found,35.5,-85.0
+6871,34433,MÃ©xico,Place found,23.0,-102.0
+6872,34434,MÃ©xico,Place found,23.0,-102.0
+6876,34435,MÃ©xico,Place found,23.0,-102.0
+6879,34437,MÃ©xico,Place found,23.0,-102.0
+6880,34438,MÃ©xico,Place found,23.0,-102.0
+6881,34439,MÃ©xico,Place found,23.0,-102.0
+6884,34440,MÃ©xico,Place found,23.0,-102.0
+6887,34441,MÃ©xico,Place found,23.0,-102.0
+6889,34442,MÃ©xico,Place found,23.0,-102.0
+6891,34443,MÃ©xico,Place found,23.0,-102.0
+6894,34444,Costa Rica,Place found,10.0,-84.0
+6896,34445,MÃ©xico,Place found,23.0,-102.0
+6898,34446,MÃ©xico,Place found,23.0,-102.0
+6901,34447,MÃ©xico,Place found,23.0,-102.0
+6903,34448,MÃ©xico,Place found,23.0,-102.0
+6904,34449,Panama,Place found,9.0,-80.0
+6905,34450,MÃ©xico,Place found,23.0,-102.0
+6907,34451,MÃ©xico,Place found,23.0,-102.0
+6909,34455,Panama,Place found,9.0,-80.0
+6910,34456,MÃ©xico,Place found,23.0,-102.0
+6913,34457,MÃ©xico,Place found,23.0,-102.0
+6914,34458,MÃ©xico,Place found,23.0,-102.0
+6916,34459,MÃ©xico,Place found,23.0,-102.0
+6917,34460,MÃ©xico,Place found,23.0,-102.0
+6919,34461,MÃ©xico,Place found,23.0,-102.0
+6921,34462,MÃ©xico,Place found,23.0,-102.0
+6922,34463,New Mexico,Place found,35.0,-105.0
+6924,34464,New Mexico,Place found,35.0,-105.0
+6926,34465,New Mexico,Place found,35.0,-105.0
+6928,34466,New Mexico,Place found,35.0,-105.0
+6930,34467,New Mexico,Place found,35.0,-105.0
+6932,34468,New Mexico,Place found,35.0,-105.0
+6934,34469,New Mexico,Place found,35.0,-105.0
+6936,34472,Oklahoma,Place found,35.0,-98.0
+6939,34474,Illinois,Place found,40.0,-89.0
+6941,34476,Ohio,Place found,40.0,-80.83
+6943,34477,Great Plains,Place found,39.0,-101.0
+6945,34478,Nelson Island,Place found,60.63,-164.75
+6946,34481,Arizona,Place found,34.0,-112.0
+6947,34482,Arizona,Place found,34.0,-112.0
+6949,34483,Mexico,Place found,23.0,-102.0
+6952,34484,East of Rockies,Place found,,
+6953,34485,Oklahoma,Place found,35.0,-98.0
+6956,34486,Oklahoma,Place found,35.0,-98.0
+6959,34487,Ohio,Place found,40.0,-80.83
+6961,34488,Arkansas,Place found,35.0,-93.0
+6964,34491,Tennessee,Place found,35.5,-85.0
+6967,34494,Alaska,Place found,65.0,-153.0
+6968,34495,Alaska,Place found,65.0,-153.0
+6969,34497,Alaska,Place found,65.0,-153.0
+6970,34498,Canada,Place found,60.0,-96.0
+6973,34499,Alaska,Place found,65.0,-153.0
+6975,34500,Alaska,Place found,65.0,-153.0
+6977,34501,Alaska,Place found,65.0,-153.0
+6979,34502,Alaska,Place found,65.0,-153.0
+6980,34503,United States of America,Place found,38.0,-98.0
+6982,34506,United States of America,Place found,38.0,-98.0
+6984,35863,United States,Place found,38.0,-98.0
+6986,35913,United States of America,Place found,38.0,-98.0
+6988,36207,United States of America,Place found,38.0,-98.0
+6990,36563,MÃ©xico,Place found,23.0,-102.0
+6992,36564,MÃ©xico,Place found,23.0,-102.0
+6994,36578,MÃ©xico,Place found,23.0,-102.0
+6996,36669,Pasadena,Place Made,0.0,0.0
+6997,36670,Pasadena,Place Made,0.0,0.0
+6998,36677,Great Falls,Place Made,47.5,-111.3
+6999,36680,Pasadena,Place Made,0.0,0.0
+7000,36681,Pasadena,Place Made,0.0,0.0
+7001,36682,Pasadena,Place Made,0.0,0.0
+7002,36686,Pasadena,Place Made,0.0,0.0
+7003,36687,Pasadena,Place Made,0.0,0.0
+7004,36688,Pasadena,Place Made,0.0,0.0
+7005,36695,Apgar,Place Made,48.52,-113.98
+7006,36704,Great Falls,Place Made,47.5,-111.3
+7007,36707,Pasadena,Place Made,0.0,0.0
+7008,36708,Pasadena,Place Made,0.0,0.0
+7009,36709,Pasadena,Place Made,0.0,0.0
+7010,36715,Apgar,Place Made,48.52,-113.98
+7011,36717,Saint Paul,Place Made,44.93,-93.83
+7012,36723,Pasadena,Place Made,0.0,0.0
+7013,36724,Trail's End,Place Made,,
+7014,36726,Pasadena,Place Made,0.0,0.0
+7015,36729,Pasadena,Place Made,0.0,0.0
+7016,36731,Apgar,Place Made,48.52,-113.98
+7017,36745,Pasadena,Place Made,0.0,0.0
+7018,36746,Pasadena,Place Made,0.0,0.0
+7019,36747,Pasadena,Place Made,0.0,0.0
+7020,36748,Pasadena,Place Made,0.0,0.0
+7021,36752,Trail's End,Place Made,,
+7022,36753,Trail's End,Place Made,,
+7023,36757,Trail's End,Place Made,,
+7024,36758,Trail's End,Place Made,,
+7025,36759,Pasadena,Place Made,0.0,0.0
+7026,36762,Pasadena,Place Made,0.0,0.0
+7027,36763,Trail's End,Place Made,,
+7028,36774,Trail's End,Place Made,,
+7029,36794,Trail's End,Place Made,,
+7030,36795,Trail's End,Place Made,,
+7031,36796,Trail's End,Place Made,,
+7032,36798,Pasadena,Place Made,0.0,0.0
+7033,36799,Pasadena,Place Made,0.0,0.0
+7034,36800,Pasadena,Place Made,0.0,0.0
+7035,36801,Trail's End,Place Made,,
+7036,36802,Pasadena,Place Made,0.0,0.0
+7037,36805,Apgar,Place Made,48.52,-113.98
+7038,36822,Hollywood,Place Made,34.83,-118.32
+7039,36823,Hollywood,Place Made,34.83,-118.32
+7040,36824,Hollywood,Place Made,34.83,-118.32
+7041,36830,Pasadena,Place Made,0.0,0.0
+7042,36845,Apgar,Place Made,48.52,-113.98
+7043,36883,Arizona,Place found,34.0,-112.0
+7045,36884,Arizona,Place found,34.0,-112.0
+7047,36888,Washington,Place found,47.0,-120.0
+7048,36889,Thompson River,Place found,41.35,-94.42
+7049,36890,Canada,Place found,60.0,-96.0
+7053,36891,Oklahoma,Place found,35.0,-98.0
+7054,36896,Connecticut,Place found,41.83,-72.83
+7055,36897,Wisconsin,Place found,45.0,-90.0
+7056,36898,Mississippi,Place found,83.0,-90.0
+7058,36899,Oklahoma,Place found,35.0,-98.0
+7059,36900,United States of America,Place found,38.0,-98.0
+7061,36901,United States of America,Place found,38.0,-98.0
+7063,36902,United States of America,Place found,38.0,-98.0
+7066,36903,United States of America,Place found,38.0,-98.0
+7069,36904,Arizona,Place found,34.0,-112.0
+7070,36911,United States of America,Place found,38.0,-98.0
+7072,36912,Arizona,Place found,34.0,-112.0
+7073,36914,United States of America,Place found,38.0,-98.0
+7075,36916,Bering Sea,Place found,60.0,-175.0
+7076,36948,Saint Louis City,Place Made,0.0,0.0
+7077,36949,Apgar,Place Made,48.52,-113.98
+7078,36950,Pasadena,Place Made,0.0,0.0
+7079,36951,Pasadena,Place Made,0.0,0.0
+7080,36952,Pasadena,Place Made,0.0,0.0
+7081,36956,Trail's End,Place Made,,
+7082,36962,Bull Head Lodge,Place Made,,
+7083,36965,Apgar,Place Made,48.52,-113.98
+7084,36970,Pasadena,Place Made,0.0,0.0
+7085,36988,Trail's End,Place Made,,
+7086,36992,Trail's End,Place Made,,
+7087,37005,Great Falls,Place Made,47.5,-111.3
+7088,37006,Montana,Place Made,47.0,-110.0
+7089,37018,New York,Place Made,43.0,-75.0
+7090,37019,New York,Place Made,43.0,-75.0
+7091,37021,New York,Place Made,43.0,-75.0
+7092,37022,Trail's End,Place Made,,
+7093,37024,New York,Place Made,43.0,-75.0
+7094,37025,Great Falls,Place Made,47.5,-111.3
+7095,37029,New York,Place Made,43.0,-75.0
+7096,37030,New York,Place Made,43.0,-75.0
+7097,37032,Lewistown,Place Made,47.5,-109.42
+7098,37033,Guernsey,Place Made,42.27,-104.73
+7099,37035,Guernsey,Place Made,42.27,-104.73
+7100,37037,Guernsey,Place Made,42.27,-104.73
+7102,37038,Denver,Place Made,39.73,-104.98
+7103,37040,New York,Place Made,43.0,-75.0
+7104,37043,Pasadena,Place Made,0.0,0.0
+7105,37045,Pasadena,Place Made,0.0,0.0
+7106,37046,Calgary,Place Made,51.83,-114.83
+7107,37049,Helena,Place Made,46.58,-112.33
+7108,37052,Woolaroc,Place Made,36.65,-96.1
+7109,37053,Kalispell,Place Made,48.18,-114.3
+7110,37055,New York,Place Made,43.0,-75.0
+7111,37056,Pasadena,Place Made,0.0,0.0
+7112,37057,Pasadena,Place Made,0.0,0.0
+7113,37063,Pasadena,Place Made,0.0,0.0
+7114,37067,Pasadena,Place Made,0.0,0.0
+7115,37068,Pasadena,Place Made,0.0,0.0
+7116,37069,Pasadena,Place Made,0.0,0.0
+7117,37070,Los Angeles,Place Made,34.5,-118.23
+7118,37071,Pasadena,Place Made,0.0,0.0
+7119,37072,Los Angeles,Place Made,34.5,-118.23
+7120,37075,Davenport,Place Made,41.52,-90.57
+7121,37076,Davenport,Place Made,41.52,-90.57
+7122,37078,Davenport,Place Made,41.52,-90.57
+7123,37079,Davenport,Place Made,41.52,-90.57
+7124,37080,New York,Place Made,43.0,-75.0
+7125,37081,New York,Place Made,43.0,-75.0
+7126,37082,New York,Place Made,43.0,-75.0
+7127,37083,New York,Place Made,43.0,-75.0
+7128,37084,La Jolla,Place Made,32.83,-117.27
+7129,37085,New York,Place Made,43.0,-75.0
+7130,37086,New York,Place Made,43.0,-75.0
+7131,37087,New York,Place Made,43.0,-75.0
+7132,37088,New York,Place Made,43.0,-75.0
+7133,37089,Great Falls,Place Made,47.5,-111.3
+7134,37090,Apgar,Place Made,48.52,-113.98
+7135,37092,New York,Place Made,43.0,-75.0
+7136,37093,Phoenix,Place Made,33.43,-112.66
+7137,37113,New York,Place Made,43.0,-75.0
+7138,37114,Pasadena,Place Made,0.0,0.0
+7139,37115,New York,Place Made,43.0,-75.0
+7140,37116,New York,Place Made,43.0,-75.0
+7141,37119,Great Falls,Place Made,47.5,-111.3
+7142,37120,Pasadena,Place Made,0.0,0.0
+7143,37121,Great Falls,Place Made,47.5,-111.3
+7144,37122,Great Falls,Place Made,47.5,-111.3
+7145,37123,Pasadena,Place Made,0.0,0.0
+7146,37124,Great Falls,Place Made,47.5,-111.3
+7147,37125,Great Falls,Place Made,47.5,-111.3
+7148,37126,Great Falls,Place Made,47.5,-111.3
+7149,37127,Great Falls,Place Made,47.5,-111.3
+7150,37128,Pasadena,Place Made,0.0,0.0
+7151,37129,Great Falls,Place Made,47.5,-111.3
+7152,37130,Great Falls,Place Made,47.5,-111.3
+7153,37131,Pasadena,Place Made,0.0,0.0
+7154,37132,Great Falls,Place Made,47.5,-111.3
+7155,37133,Great Falls,Place Made,47.5,-111.3
+7156,37134,Pasadena,Place Made,0.0,0.0
+7157,37138,Pasadena,Place Made,0.0,0.0
+7158,37139,Great Falls,Place Made,47.5,-111.3
+7159,37140,Pasadena,Place Made,0.0,0.0
+7160,37141,Helena,Place Made,46.58,-112.33
+7161,37142,Great Falls,Place Made,47.5,-111.3
+7162,37143,Pasadena,Place Made,0.0,0.0
+7163,37145,Trail's End,Place Made,,
+7164,37146,Pasadena,Place Made,0.0,0.0
+7165,37148,Pasadena,Place Made,0.0,0.0
+7166,37151,Great Falls,Place Made,47.5,-111.3
+7167,37153,Great Falls,Place Made,47.5,-111.3
+7168,37154,Great Falls,Place Made,47.5,-111.3
+7169,37156,Great Falls,Place Made,47.5,-111.3
+7170,37158,Great Falls,Place Made,47.5,-111.3
+7171,37165,Long Beach,Place Made,33.77,-118.18
+7172,37167,Missoula,Place Made,46.87,-113.98
+7173,37168,New York,Place Made,43.0,-75.0
+7174,37169,New York,Place Made,43.0,-75.0
+7175,37170,New York,Place Made,43.0,-75.0
+7176,37172,Boston,Place Made,42.35,-71.5
+7177,37173,Pasadena,Place Made,0.0,0.0
+7178,37174,Calgary,Place Made,51.83,-114.83
+7179,37176,Calgary,Place Made,51.83,-114.83
+7180,37177,Pasadena,Place Made,0.0,0.0
+7181,37178,Davenport,Place Made,41.52,-90.57
+7182,37179,Banff,Place Made,51.17,-115.57
+7183,37181,East Glacier Park,Place Made,48.43,-113.22
+7185,37182,East Glacier Park,Place Made,48.43,-113.22
+7187,37183,Santa Maria,Place Made,34.95,-120.43
+7188,37185,East Glacier Park,Place Made,48.43,-113.22
+7190,37186,Santa Barbara,Place Made,34.42,-119.68
+7191,37190,Trail's End,Place Made,,
+7192,37193,Pasadena,Place Made,0.0,0.0
+7193,37194,Pasadena,Place Made,0.0,0.0
+7194,37195,Pasadena,Place Made,0.0,0.0
+7195,37196,Pasadena,Place Made,0.0,0.0
+7196,37197,Pasadena,Place Made,0.0,0.0
+7197,37198,Pasadena,Place Made,0.0,0.0
+7198,37199,Pasadena,Place Made,0.0,0.0
+7199,37200,Pasadena,Place Made,0.0,0.0
+7200,37201,Pasadena,Place Made,0.0,0.0
+7201,37202,Pasadena,Place Made,0.0,0.0
+7202,37203,Pasadena,Place Made,0.0,0.0
+7203,37204,Pasadena,Place Made,0.0,0.0
+7204,37205,Pasadena,Place Made,0.0,0.0
+7205,37207,Pasadena,Place Made,0.0,0.0
+7206,37208,San Francisco,Place Made,37.77,-122.42
+7207,37211,Pasadena,Place Made,0.0,0.0
+7208,37213,Pasadena,Place Made,0.0,0.0
+7209,37214,Pasadena,Place Made,0.0,0.0
+7210,37216,Woodland,Place Made,42.87,-76.35
+7211,37217,Pasadena,Place Made,0.0,0.0
+7212,37219,Woodland,Place Made,42.87,-76.35
+7213,37220,Pasadena,Place Made,0.0,0.0
+7214,37222,Beverly Hills,Place Made,34.66,-118.38
+7215,37224,Pasadena,Place Made,0.0,0.0
+7216,37225,Pasadena,Place Made,0.0,0.0
+7217,37227,Pasadena,Place Made,0.0,0.0
+7218,37230,Pasadena,Place Made,0.0,0.0
+7219,37232,Great Falls,Place Made,47.5,-111.3
+7220,37233,Pasadena,Place Made,0.0,0.0
+7221,37234,Great Falls,Place Made,47.5,-111.3
+7222,37235,Great Falls,Place Made,47.5,-111.3
+7223,37237,Pasadena,Place Made,0.0,0.0
+7224,37238,Los Angeles,Place Made,34.5,-118.23
+7225,37239,Pasadena,Place Made,0.0,0.0
+7226,37240,Great Falls,Place Made,47.5,-111.3
+7227,37241,Great Falls,Place Made,47.5,-111.3
+7228,37242,Washington,Place Made,38.88,-77.33
+7229,37243,Pasadena,Place Made,0.0,0.0
+7230,37244,Pasadena,Place Made,0.0,0.0
+7231,37245,Pasadena,Place Made,0.0,0.0
+7232,37246,Great Falls,Place Made,47.5,-111.3
+7233,37248,Great Falls,Place Made,47.5,-111.3
+7234,37249,Great Falls,Place Made,47.5,-111.3
+7235,37250,Great Falls,Place Made,47.5,-111.3
+7236,37251,Great Falls,Place Made,47.5,-111.3
+7237,37252,Great Falls,Place Made,47.5,-111.3
+7238,37254,Great Falls,Place Made,47.5,-111.3
+7239,37257,New York,Place Made,43.0,-75.0
+7240,37264,Great Falls,Place Made,47.5,-111.3
+7241,37267,Great Falls,Place Made,47.5,-111.3
+7242,37269,Trail's End,Place Made,,
+7243,37270,Great Falls,Place Made,47.5,-111.3
+7244,37272,Great Falls,Place Made,47.5,-111.3
+7245,37274,Saint Paul,Place Made,44.93,-93.83
+7246,37275,Saint Paul,Place Made,44.93,-93.83
+7247,37276,Saint Paul,Place Made,44.93,-93.83
+7248,37277,Saint Paul,Place Made,44.93,-93.83
+7249,37278,Saint Paul,Place Made,44.93,-93.83
+7250,37279,Great Falls,Place Made,47.5,-111.3
+7251,37282,Great Falls,Place Made,47.5,-111.3
+7252,37283,Great Falls,Place Made,47.5,-111.3
+7253,37287,District of Columbia,Place Made,38.83,-77.0
+7254,37288,District of Columbia,Place Made,38.83,-77.0
+7255,37289,District of Columbia,Place Made,38.83,-77.0
+7256,37290,Seward,Place Made,60.1,-149.43
+7257,37291,Seward,Place Made,60.1,-149.43
+7258,37292,New York,Place Made,43.0,-75.0
+7259,37294,New York,Place Made,43.0,-75.0
+7260,37295,New York,Place Made,43.0,-75.0
+7261,37297,New York,Place Made,43.0,-75.0
+7262,37298,New York,Place Made,43.0,-75.0
+7263,37299,New York,Place Made,43.0,-75.0
+7264,37301,Seward,Place Made,60.1,-149.43
+7265,37302,Altadena,Place Made,34.18,-118.12
+7266,37304,Hollywood,Place Made,34.83,-118.32
+7267,37305,Highland Park,Place Made,42.17,-87.8
+7268,37306,Washington,Place Made,38.88,-77.33
+7269,37307,Minneapolis,Place Made,44.97,-93.25
+7270,37308,Pasadena,Place Made,0.0,0.0
+7271,37309,Minneapolis,Place Made,44.97,-93.25
+7272,37310,Trail's End,Place Made,,
+7273,37311,Pasadena,Place Made,0.0,0.0
+7274,37312,Great Falls,Place Made,47.5,-111.3
+7275,37313,Lewistown,Place Made,47.5,-109.42
+7276,37315,Deer Lodge,Place Made,46.38,-112.72
+7277,37316,Pasadena,Place Made,0.0,0.0
+7278,37320,Pasadena,Place Made,0.0,0.0
+7279,37321,Kalispell,Place Made,48.18,-114.3
+7280,37328,Gilroy,Place Made,37.0,-121.57
+7281,37333,Hollywood,Place Made,34.83,-118.32
+7282,37340,Trail's End,Place Made,,
+7283,37342,Scarsdale,Place Made,41.0,-73.78
+7284,37343,Pasadena,Place Made,0.0,0.0
+7285,37344,Saint Paul,Place Made,44.93,-93.83
+7286,37352,Kalispell,Place Made,48.18,-114.3
+7287,37353,Seward,Place Made,60.1,-149.43
+7288,37354,Pasadena,Place Made,0.0,0.0
+7289,37355,Seward,Place Made,60.1,-149.43
+7290,37357,Pasadena,Place Made,0.0,0.0
+7291,37359,Great Falls,Place Made,47.5,-111.3
+7292,37360,Reno,Place Made,39.52,-119.8
+7293,37366,Pasadena,Place Made,0.0,0.0
+7294,37368,Pasadena,Place Made,0.0,0.0
+7295,37370,New York,Place Made,43.0,-75.0
+7296,37372,New York,Place Made,43.0,-75.0
+7297,37374,New York,Place Made,43.0,-75.0
+7298,37376,Sheridan,Place Made,44.78,-106.95
+7299,37377,Pasadena,Place Made,0.0,0.0
+7300,37378,San Diego,Place Made,32.7,-117.15
+7301,37379,Pasadena,Place Made,0.0,0.0
+7302,37380,New York,Place Made,43.0,-75.0
+7303,37383,Banff,Place Made,51.17,-115.57
+7304,37385,Banff,Place Made,51.17,-115.57
+7305,37386,Banff,Place Made,51.17,-115.57
+7306,37387,Banff,Place Made,51.17,-115.57
+7307,37388,Banff,Place Made,51.17,-115.57
+7308,37389,Banff,Place Made,51.17,-115.57
+7309,37390,District of Columbia,Place Made,38.83,-77.0
+7310,37391,Los Angeles,Place Made,34.5,-118.23
+7311,37404,United States of America,Place found,38.0,-98.0
+7313,37405,Pasadena,Place Made,0.0,0.0
+7314,37406,Alaska,Place found,65.0,-153.0
+7316,37408,Alaska,Place found,65.0,-153.0
+7317,37411,United States of America,Place found,38.0,-98.0
+7319,37414,Pasadena,Place Made,0.0,0.0
+7320,37416,Great Falls,Place Made,47.5,-111.3
+7321,37417,Hollywood,Place Made,34.83,-118.32
+7322,37418,Hollywood,Place Made,34.83,-118.32
+7323,37419,Hollywood,Place Made,34.83,-118.32
+7324,37420,Hollywood,Place Made,34.83,-118.32
+7325,37421,Pasadena,Place Made,0.0,0.0
+7326,37425,Great Plains,Place found,39.0,-101.0
+7327,37426,United States of America,Place found,38.0,-98.0
+7330,37427,United States of America,Place found,38.0,-98.0
+7333,37429,United States of America,Place found,38.0,-98.0
+7334,37430,United States of America,Place found,38.0,-98.0
+7336,37431,Eastern Oklahoma,Place found,,
+7338,37433,United States of America,Place found,38.0,-98.0
+7339,37434,United States of America,Place found,38.0,-98.0
+7340,37435,United States of America,Place found,38.0,-98.0
+7341,37437,United States of America,Place found,38.0,-98.0
+7343,37439,United States of America,Place found,38.0,-98.0
+7347,37440,United States of America,Place found,38.0,-98.0
+7350,37443,United States of America,Place found,38.0,-98.0
+7352,37444,United States of America,Place found,38.0,-98.0
+7353,37448,Pasadena,Place Made,0.0,0.0
+7354,37449,Pasadena,Place Made,0.0,0.0
+7355,37450,Pasadena,Place Made,0.0,0.0
+7356,37457,Pasadena,Place Made,0.0,0.0
+7357,37459,Pasadena,Place Made,0.0,0.0
+7358,37460,Pasadena,Place Made,0.0,0.0
+7359,37461,Pasadena,Place Made,0.0,0.0
+7360,37463,Pasadena,Place Made,0.0,0.0
+7361,37464,Pasadena,Place Made,0.0,0.0
+7362,37465,Pasadena,Place Made,0.0,0.0
+7363,37466,Pasadena,Place Made,0.0,0.0
+7364,37467,Pasadena,Place Made,0.0,0.0
+7365,37468,Pasadena,Place Made,0.0,0.0
+7366,37470,Pasadena,Place Made,0.0,0.0
+7367,37471,Apgar,Place Made,48.52,-113.98
+7368,37472,Trail's End,Place Made,,
+7369,37473,Trail's End,Place Made,,
+7370,37474,Trail's End,Place Made,,
+7371,37478,Pasadena,Place Made,0.0,0.0
+7372,37480,New York,Place Made,43.0,-75.0
+7373,37491,Butte,Place Made,46.0,-112.53
+7374,37492,Great Falls,Place Made,47.5,-111.3
+7375,37493,Montana,Place Made,47.0,-110.0
+7376,37495,Highland Park,Place Made,42.17,-87.8
+7377,37496,Highland Park,Place Made,42.17,-87.8
+7378,37497,Highland Park,Place Made,42.17,-87.8
+7379,37502,Kalispell,Place Made,48.18,-114.3
+7380,37503,Kalispell,Place Made,48.18,-114.3
+7381,37504,Kalispell,Place Made,48.18,-114.3
+7382,37505,Helena,Place Made,46.58,-112.33
+7383,37507,New York,Place Made,43.0,-75.0
+7384,37508,New York,Place Made,43.0,-75.0
+7385,37509,New York,Place Made,43.0,-75.0
+7386,37510,Great Falls,Place Made,47.5,-111.3
+7387,37514,Spokane,Place Made,47.65,-117.42
+7388,37515,Pasadena,Place Made,0.0,0.0
+7389,37516,Fort Worth,Place Made,32.72,-97.32
+7390,37517,Pasadena,Place Made,0.0,0.0
+7391,37518,Fort Worth,Place Made,32.72,-97.32
+7392,37519,Los Angeles,Place Made,34.5,-118.23
+7393,37520,Los Angeles,Place Made,34.5,-118.23
+7394,37522,Boston,Place Made,42.35,-71.5
+7395,37523,Lewistown,Place Made,47.5,-109.42
+7396,37527,Lewistown,Place Made,47.5,-109.42
+7397,37530,Lewistown,Place Made,47.5,-109.42
+7398,37532,Lewistown,Place Made,47.5,-109.42
+7399,37533,Lewistown,Place Made,47.5,-109.42
+7400,37534,Saint Louis City,Place Made,0.0,0.0
+7401,37535,Saint Louis City,Place Made,0.0,0.0
+7402,37541,New York,Place Made,43.0,-75.0
+7403,37542,Helena,Place Made,46.58,-112.33
+7404,37543,New York,Place Made,43.0,-75.0
+7405,37544,Pryor,Place Made,45.42,-108.52
+7406,37545,Saint Paul,Place Made,44.93,-93.83
+7407,37546,Newhall,Place Made,34.38,-118.52
+7408,37547,Saint Paul,Place Made,44.93,-93.83
+7409,37548,Newhall,Place Made,34.38,-118.52
+7410,37549,Helena,Place Made,46.58,-112.33
+7411,37550,Hollywood,Place Made,34.83,-118.32
+7412,37551,Helena,Place Made,46.58,-112.33
+7413,37552,Deer Lodge,Place Made,46.38,-112.72
+7414,37554,Deer Lodge,Place Made,46.38,-112.72
+7415,37557,Davenport,Place Made,41.52,-90.57
+7416,37559,Davenport,Place Made,41.52,-90.57
+7417,37561,Davenport,Place Made,41.52,-90.57
+7418,37562,Helena,Place Made,46.58,-112.33
+7419,37563,New Jersey,Place Made,40.0,-75.0
+7420,37565,Great Falls,Place Made,47.5,-111.3
+7421,37566,Saint Louis City,Place Made,0.0,0.0
+7422,37567,Scotch Plains,Place Made,40.65,-74.38
+7423,37569,Scotch Plains,Place Made,40.65,-74.38
+7424,37571,Saint Louis City,Place Made,0.0,0.0
+7425,37572,Sheridan,Place Made,44.78,-106.95
+7426,37574,Newhall,Place Made,34.38,-118.52
+7427,37575,Los Angeles,Place Made,34.37,-118.2
+7429,37576,Fort Benton,Place Made,0.0,0.0
+7430,37577,Los Angeles,Place Made,34.5,-118.23
+7431,37579,Corona,Place Made,33.87,-117.55
+7432,37580,New York,Place Made,43.0,-75.0
+7433,37581,Kalispell,Place Made,48.18,-114.3
+7434,37583,New York,Place Made,43.0,-75.0
+7435,37584,Montana,Place Made,47.0,-110.0
+7436,37585,New York,Place Made,43.0,-75.0
+7437,37587,New York,Place Made,43.0,-75.0
+7438,37588,Montana,Place Made,47.0,-110.0
+7439,37589,Montana,Place Made,47.0,-110.0
+7440,37590,Montana,Place Made,47.0,-110.0
+7441,37591,Montana,Place Made,47.0,-110.0
+7442,37592,Montana,Place Made,47.0,-110.0
+7443,37594,Southern Pines,Place Made,34.98,-81.83
+7444,37597,San Francisco,Place Made,37.77,-122.42
+7445,37599,Pacific Beach,Place Made,32.78,-117.23
+7446,37600,Pasadena,Place Made,0.0,0.0
+7447,37601,Great Falls,Place Made,47.5,-111.3
+7448,37602,Helena,Place Made,46.58,-112.33
+7449,37603,Helena,Place Made,46.58,-112.33
+7450,37604,Cleveland,Place Made,41.48,-81.68
+7452,37605,Cleveland,Place Made,41.48,-81.68
+7454,37606,Los Angeles,Place Made,34.5,-118.23
+7455,37607,Cleveland,Place Made,41.48,-81.68
+7457,37608,Cleveland,Place Made,41.48,-81.68
+7459,37609,New York,Place Made,43.0,-75.0
+7460,37610,Great Falls,Place Made,47.5,-111.3
+7461,37611,Alberta,Place Made,54.0,113.0
+7462,37613,New York,Place Made,43.0,-75.0
+7463,37615,New York,Place Made,43.0,-75.0
+7464,37617,New Jersey,Place Made,40.0,-75.0
+7465,37621,New Jersey,Place Made,40.0,-75.0
+7466,37640,Pasadena,Place Made,0.0,0.0
+7467,37641,Montana,Place Made,47.0,-110.0
+7468,37642,Montana,Place Made,47.0,-110.0
+7469,37643,Pasadena,Place Made,0.0,0.0
+7470,37645,Great Falls,Place Made,47.5,-111.3
+7471,37646,New York,Place Made,43.0,-75.0
+7472,37647,Great Falls,Place Made,47.5,-111.3
+7473,37650,Montana,Place Made,47.0,-110.0
+7474,37651,Montana,Place Made,47.0,-110.0
+7475,37652,Montana,Place Made,47.0,-110.0
+7476,37653,Santa Barbara,Place Made,34.42,-119.68
+7477,37656,Long Beach,Place Made,33.77,-118.18
+7478,37657,Newhall,Place Made,34.38,-118.52
+7479,37658,Pasadena,Place Made,0.0,0.0
+7480,37659,Los Angeles,Place Made,34.5,-118.23
+7481,37661,Long Beach,Place Made,33.77,-118.18
+7482,37662,Pasadena,Place Made,0.0,0.0
+7483,37663,Newhall,Place Made,34.38,-118.52
+7484,37664,Belt,Place Made,47.38,-110.92
+7485,37665,Newhall,Place Made,34.38,-118.52
+7486,37666,Montana,Place Made,47.0,-110.0
+7487,37668,Great Falls,Place Made,47.5,-111.3
+7488,37671,Tacoma,Place Made,47.25,-122.43
+7489,37673,Great Falls,Place Made,47.5,-111.3
+7490,37674,Great Falls,Place Made,47.5,-111.3
+7491,37675,Great Falls,Place Made,47.5,-111.3
+7492,37676,Great Falls,Place Made,47.5,-111.3
+7493,37677,Pasadena,Place Made,0.0,0.0
+7494,37678,Carrollton,Place Made,39.35,-93.48
+7495,37679,Great Falls,Place Made,47.5,-111.3
+7496,37683,New York,Place Made,43.0,-75.0
+7497,37684,Belt,Place Made,47.38,-110.92
+7498,37685,Great Falls,Place Made,47.5,-111.3
+7499,37686,New York,Place Made,43.0,-75.0
+7500,37688,New York,Place Made,43.0,-75.0
+7501,37693,New York,Place Made,43.0,-75.0
+7502,37694,New York,Place Made,43.0,-75.0
+7503,37697,Los Angeles,Place Made,34.5,-118.23
+7504,37700,Los Angeles,Place Made,34.5,-118.23
+7505,37703,New York,Place Made,43.0,-75.0
+7506,37704,New York,Place Made,43.0,-75.0
+7507,37706,New York,Place Made,43.0,-75.0
+7508,37708,Tenafly,Place Made,40.92,-73.95
+7509,37709,New York,Place Made,43.0,-75.0
+7510,37710,New Jersey,Place Made,40.0,-75.0
+7511,37711,Tenafly,Place Made,40.92,-73.95
+7512,37712,New York,Place Made,43.0,-75.0
+7513,37713,New York,Place Made,43.0,-75.0
+7514,37714,New Jersey,Place Made,40.0,-75.0
+7515,37716,Virginia,Place Made,37.0,-80.0
+7516,37717,Tenafly,Place Made,40.92,-73.95
+7517,37718,Tenafly,Place Made,40.92,-73.95
+7518,37719,Tenafly,Place Made,40.92,-73.95
+7519,37720,New York,Place Made,43.0,-75.0
+7520,37721,Los Angeles,Place Made,34.5,-118.23
+7521,37727,Los Angeles,Place Made,34.5,-118.23
+7522,37730,New York,Place Made,43.0,-75.0
+7523,37731,New York,Place Made,43.0,-75.0
+7524,37735,Pasadena,Place Made,0.0,0.0
+7525,37737,Butte,Place Made,46.0,-112.53
+7526,37738,Fort Benton,Place Made,0.0,0.0
+7527,37740,New York,Place Made,43.0,-75.0
+7528,37741,Santa Barbara,Place Made,34.42,-119.68
+7529,37744,New York,Place Made,43.0,-75.0
+7530,37745,New York,Place Made,43.0,-75.0
+7531,37749,New York,Place Made,43.0,-75.0
+7532,37750,New York,Place Made,43.0,-75.0
+7533,37751,New York,Place Made,43.0,-75.0
+7534,37754,New York,Place Made,43.0,-75.0
+7535,37755,New York,Place Made,43.0,-75.0
+7536,37756,New York,Place Made,43.0,-75.0
+7537,37757,New York,Place Made,43.0,-75.0
+7538,37759,New York,Place Made,43.0,-75.0
+7539,37760,New York,Place Made,43.0,-75.0
+7540,37761,New York,Place Made,43.0,-75.0
+7541,37762,New York,Place Made,43.0,-75.0
+7542,37763,New York,Place Made,43.0,-75.0
+7543,37764,Pasadena,Place Made,0.0,0.0
+7544,37765,New York,Place Made,43.0,-75.0
+7545,37766,Lewistown,Place Made,47.5,-109.42
+7546,37768,New York,Place Made,43.0,-75.0
+7547,37769,Lewistown,Place Made,47.5,-109.42
+7548,37770,Belt,Place Made,47.38,-110.92
+7549,37771,Montana,Place Made,47.0,-110.0
+7550,37772,New York,Place Made,43.0,-75.0
+7551,37773,New York,Place Made,43.0,-75.0
+7552,37774,New York,Place Made,43.0,-75.0
+7553,37776,New York,Place Made,43.0,-75.0
+7554,37777,New York,Place Made,43.0,-75.0
+7555,37778,Boston,Place Made,42.35,-71.5
+7556,37781,New York,Place Made,43.0,-75.0
+7557,37782,New York,Place Made,43.0,-75.0
+7558,37783,New York,Place Made,43.0,-75.0
+7559,37784,New York,Place Made,43.0,-75.0
+7560,37786,New York,Place Made,43.0,-75.0
+7561,37787,Los Angeles,Place Made,34.5,-118.23
+7562,37789,New York,Place Made,43.0,-75.0
+7563,37791,New York,Place Made,43.0,-75.0
+7564,37796,Lewistown,Place Made,47.5,-109.42
+7565,37798,Lewistown,Place Made,47.5,-109.42
+7566,37799,Lewistown,Place Made,47.5,-109.42
+7567,37800,San Francisco,Place Made,37.77,-122.42
+7568,37818,New York,Place Made,43.0,-75.0
+7569,37819,New York,Place Made,43.0,-75.0
+7570,37820,New York,Place Made,43.0,-75.0
+7571,37821,New York,Place Made,43.0,-75.0
+7572,37824,New York,Place Made,43.0,-75.0
+7573,37825,New York,Place Made,43.0,-75.0
+7574,37826,New York,Place Made,43.0,-75.0
+7575,37827,New York,Place Made,43.0,-75.0
+7576,37828,New York,Place Made,43.0,-75.0
+7577,37833,New York,Place Made,43.0,-75.0
+7578,37837,New York,Place Made,43.0,-75.0
+7579,37890,Philadelphia,Place Made,39.95,-75.15
+7580,37891,New York,Place Made,43.0,-75.0
+7581,37895,New York,Place Made,43.0,-75.0
+7582,37897,New York,Place Made,43.0,-75.0
+7583,37905,Hollywood,Place Made,34.83,-118.32
+7584,37907,Davenport,Place Made,41.52,-90.57
+7585,37909,Los Angeles,Place Made,34.5,-118.23
+7586,37910,Boston,Place Made,42.35,-71.5
+7587,37912,Davenport,Place Made,41.52,-90.57
+7588,37916,Montana,Place Made,47.0,-110.0
+7589,37917,Toronto,Place Made,43.7,-79.42
+7590,37918,Toronto,Place Made,43.7,-79.42
+7591,37982,New York,Place Made,43.0,-75.0
+7592,38007,Scottsdale,Place Made,33.5,-111.88
+7593,38008,Los Angeles,Place Made,34.5,-118.23
+7594,38010,Montana,Place Made,47.0,-110.0
+7595,38040,Saint Paul,Place Made,44.93,-93.83
+7596,38042,Davenport,Place Made,41.52,-90.57
+7597,38043,Davenport,Place Made,41.52,-90.57
+7598,38044,Davenport,Place Made,41.52,-90.57
+7599,38045,Davenport,Place Made,37.45,-94.66
+7600,38046,Davenport,Place Made,41.52,-90.57
+7601,38047,Giltedge,Place Made,47.12,-109.2
+7602,38048,Great Falls,Place Made,47.5,-111.3
+7603,38049,Newhall,Place Made,34.38,-118.52
+7604,38088,New York,Place Made,43.0,-75.0
+7605,38089,New York,Place Made,43.0,-75.0
+7606,38090,Pasadena,Place Made,0.0,0.0
+7607,38092,New York,Place Made,43.0,-75.0
+7608,38093,New York,Place Made,43.0,-75.0
+7609,38094,Pasadena,Place Made,0.0,0.0
+7610,38095,New York,Place Made,43.0,-75.0
+7611,38096,Pasadena,Place Made,0.0,0.0
+7612,38098,New York,Place Made,43.0,-75.0
+7613,38100,New York,Place Made,43.0,-75.0
+7614,38101,New York,Place Made,43.0,-75.0
+7615,38103,New York,Place Made,43.0,-75.0
+7616,38104,New York,Place Made,43.0,-75.0
+7617,38106,Pasadena,Place Made,0.0,0.0
+7618,38107,Pasadena,Place Made,0.0,0.0
+7619,38108,New York,Place Made,43.0,-75.0
+7620,38109,New York,Place Made,43.0,-75.0
+7621,38110,New York,Place Made,43.0,-75.0
+7622,38111,New York,Place Made,43.0,-75.0
+7623,38112,Pasadena,Place Made,0.0,0.0
+7624,38113,New York,Place Made,43.0,-75.0
+7625,38114,Pasadena,Place Made,0.0,0.0
+7626,38115,New York,Place Made,43.0,-75.0
+7627,38116,Pasadena,Place Made,0.0,0.0
+7628,38117,New York,Place Made,43.0,-75.0
+7629,38119,Pasadena,Place Made,0.0,0.0
+7630,38120,New York,Place Made,43.0,-75.0
+7631,38122,New York,Place Made,43.0,-75.0
+7632,38123,Montana,Place Made,47.0,-110.0
+7633,38124,New York,Place Made,43.0,-75.0
+7634,38125,Pasadena,Place Made,0.0,0.0
+7635,38126,New York,Place Made,43.0,-75.0
+7636,38127,New York,Place Made,43.0,-75.0
+7637,38129,New York,Place Made,43.0,-75.0
+7638,38130,New York,Place Made,43.0,-75.0
+7639,38131,Pasadena,Place Made,0.0,0.0
+7640,38133,New York,Place Made,43.0,-75.0
+7641,38134,New York,Place Made,43.0,-75.0
+7642,38135,Pasadena,Place Made,0.0,0.0
+7643,38136,New York,Place Made,43.0,-75.0
+7644,38137,New York,Place Made,43.0,-75.0
+7645,38138,Pasadena,Place Made,0.0,0.0
+7646,38139,New York,Place Made,43.0,-75.0
+7647,38140,Pasadena,Place Made,0.0,0.0
+7648,38141,New York,Place Made,43.0,-75.0
+7649,38142,Pasadena,Place Made,0.0,0.0
+7650,38144,New York,Place Made,43.0,-75.0
+7651,38146,Pasadena,Place Made,0.0,0.0
+7652,38147,New York,Place Made,43.0,-75.0
+7653,38148,New York,Place Made,43.0,-75.0
+7654,38149,New York,Place Made,43.0,-75.0
+7655,38150,New York,Place Made,43.0,-75.0
+7656,38153,Pasadena,Place Made,0.0,0.0
+7657,38154,New York,Place Made,43.0,-75.0
+7658,38155,New York,Place Made,43.0,-75.0
+7659,38156,Pasadena,Place Made,0.0,0.0
+7660,38157,New York,Place Made,43.0,-75.0
+7661,38158,New York,Place Made,43.0,-75.0
+7662,38159,New York,Place Made,43.0,-75.0
+7663,38160,Trail's End,Place Made,,
+7664,38162,New York,Place Made,43.0,-75.0
+7665,38163,Trail's End,Place Made,,
+7666,38164,New York,Place Made,43.0,-75.0
+7667,38165,New York,Place Made,43.0,-75.0
+7668,38166,New York,Place Made,43.0,-75.0
+7669,38167,Pasadena,Place Made,0.0,0.0
+7670,38168,New York,Place Made,43.0,-75.0
+7671,38169,New York,Place Made,43.0,-75.0
+7672,38172,New York,Place Made,43.0,-75.0
+7673,38173,Pasadena,Place Made,0.0,0.0
+7674,38174,New York,Place Made,43.0,-75.0
+7675,38175,Pasadena,Place Made,0.0,0.0
+7676,38177,New York,Place Made,43.0,-75.0
+7677,38178,Pasadena,Place Made,0.0,0.0
+7678,38179,Los Angeles,Place Made,34.5,-118.23
+7679,38182,Hollywood,Place Made,34.83,-118.32
+7680,38184,Los Angeles,Place Made,34.5,-118.23
+7681,38185,Apgar,Place Made,48.52,-113.98
+7682,38186,Great Falls,Place Made,47.5,-111.3
+7683,38187,Great Falls,Place Made,47.5,-111.3
+7684,38188,Great Falls,Place Made,47.5,-111.3
+7685,38189,Great Falls,Place Made,47.5,-111.3
+7686,38190,Great Falls,Place Made,47.5,-111.3
+7687,38191,Trail's End,Place Made,,
+7688,38192,Hollywood,Place Made,34.83,-118.32
+7689,38194,Calgary,Place Made,51.83,-114.83
+7690,38195,Spokane,Place Made,47.65,-117.42
+7691,38203,Spokane,Place Made,47.65,-117.42
+7692,38205,Great Falls,Place Made,47.5,-111.3
+7693,38206,New Jersey,Place Made,40.0,-75.0
+7694,38217,La Jolla,Place Made,32.83,-117.27
+7695,38218,Pasadena,Place Made,0.0,0.0
+7696,38219,La Jolla,Place Made,32.83,-117.27
+7697,38220,Pasadena,Place Made,0.0,0.0
+7698,38246,Pasadena,Place Made,0.0,0.0
+7699,38247,Gleichen,Place Made,50.87,-113.33
+7700,38249,Libby,Place Made,48.38,-115.55
+7701,38250,Ferdig,Place Made,48.75,-111.77
+7702,38251,Gleichen,Place Made,50.87,-113.33
+7703,38252,Butte,Place Made,46.0,-112.53
+7704,38253,Montana,Place Made,47.0,-110.0
+7705,38255,Montana,Place Made,47.0,-110.0
+7706,38256,Gleichen,Place Made,50.87,-113.33
+7707,38258,Montana,Place Made,47.0,-110.0
+7708,38259,Montana,Place Made,47.0,-110.0
+7709,38260,Montana,Place Made,47.0,-110.0
+7710,38261,Montana,Place Made,47.0,-110.0
+7711,38262,Beverly Hills,Place Made,34.66,-118.38
+7712,38263,Boston,Place Made,42.35,-71.5
+7713,38264,Beverly Hills,Place Made,34.66,-118.38
+7714,38265,Kansas City,Place Made,39.83,-94.57
+7715,38266,Hollywood,Place Made,34.83,-118.32
+7716,38267,Los Angeles,Place Made,34.5,-118.23
+7717,38268,Boston,Place Made,42.35,-71.5
+7718,38269,Saint Paul,Place Made,44.93,-93.83
+7719,38272,Calgary,Place Made,51.83,-114.83
+7720,38273,Great Falls,Place Made,47.5,-111.3
+7721,38274,Calgary,Place Made,51.83,-114.83
+7722,38277,Calgary,Place Made,51.83,-114.83
+7723,38278,New York,Place Made,43.0,-75.0
+7724,38279,New York,Place Made,43.0,-75.0
+7725,38282,New York,Place Made,43.0,-75.0
+7726,38283,New York,Place Made,43.0,-75.0
+7727,38286,New York,Place Made,43.0,-75.0
+7728,38289,Apgar,Place Made,48.52,-113.98
+7729,38291,Bigfork,Place Made,48.5,-114.66
+7730,38292,Bigfork,Place Made,48.5,-114.66
+7731,38293,Hollywood,Place Made,34.83,-118.32
+7732,38304,Roscoe,Place Made,45.33,-109.48
+7733,38305,Roscoe,Place Made,45.33,-109.48
+7734,38312,New York,Place Made,43.0,-75.0
+7735,38313,Great Falls,Place Made,47.5,-111.3
+7736,38314,New York,Place Made,43.0,-75.0
+7737,38317,Wassaic,Place Made,41.8,-73.55
+7738,38318,Wassaic,Place Made,41.8,-73.55
+7739,38319,Wassaic,Place Made,41.8,-73.55
+7740,38320,Wassaic,Place Made,41.8,-73.55
+7741,38321,Wassaic,Place Made,41.8,-73.55
+7742,38322,Wassaic,Place Made,41.8,-73.55
+7743,38323,District of Columbia,Place Made,38.83,-77.0
+7744,38325,Los Angeles,Place Made,34.5,-118.23
+7745,38328,Los Angeles,Place Made,34.5,-118.23
+7746,38330,Del Monte,Place Made,36.6,-121.87
+7747,38331,Del Monte,Place Made,36.6,-121.87
+7748,38332,Del Monte,Place Made,36.6,-121.87
+7749,38333,Del Monte,Place Made,36.6,-121.87
+7750,38334,Del Monte,Place Made,36.6,-121.87
+7751,38335,Del Monte,Place Made,36.6,-121.87
+7752,38339,New York,Place Made,43.0,-75.0
+7753,38344,New York,Place Made,43.0,-75.0
+7754,38348,New Jersey,Place Made,40.0,-75.0
+7755,38354,New York,Place Made,43.0,-75.0
+7756,38357,New York,Place Made,43.0,-75.0
+7757,38361,Great Falls,Place Made,47.5,-111.3
+7758,38364,Great Falls,Place Made,47.5,-111.3
+7759,38368,Hollywood,Place Made,34.83,-118.32
+7760,38379,Hollywood,Place Made,34.83,-118.32
+7761,38381,Hollywood,Place Made,34.83,-118.32
+7762,38382,Calgary,Place Made,51.83,-114.83
+7763,38383,Los Angeles,Place Made,34.37,-118.2
+7764,38384,Pasadena,Place Made,0.0,0.0
+7765,38385,New York,Place Made,43.0,-75.0
+7766,38386,New York,Place Made,43.0,-75.0
+7767,38390,New York,Place Made,43.0,-75.0
+7768,38397,Missoula,Place Made,46.87,-113.98
+7769,38399,Pasadena,Place Made,0.0,0.0
+7770,38400,Pasadena,Place Made,0.0,0.0
+7771,38401,Taos,Place Made,36.4,-105.57
+7772,38405,Montana,Place Made,47.0,-110.0
+7773,38406,Trail's End,Place Made,,
+7774,38407,Saint Paul,Place Made,44.93,-93.83
+7775,38409,Great Falls,Place Made,47.5,-111.3
+7776,38413,Great Falls,Place Made,47.5,-111.3
+7777,38414,Great Falls,Place Made,47.5,-111.3
+7778,38416,Great Falls,Place Made,47.5,-111.3
+7779,38417,Pasadena,Place Made,0.0,0.0
+7780,38419,Pasadena,Place Made,0.0,0.0
+7781,38420,Trail's End,Place Made,,
+7782,38421,New York,Place Made,43.0,-75.0
+7783,38424,New York,Place Made,43.0,-75.0
+7784,38426,New York,Place Made,43.0,-75.0
+7785,38427,Pasadena,Place Made,0.0,0.0
+7786,38429,New York,Place Made,43.0,-75.0
+7787,38430,Pasadena,Place Made,0.0,0.0
+7788,38432,New York,Place Made,43.0,-75.0
+7789,38449,New York,Place Made,43.0,-75.0
+7790,38453,New York,Place Made,43.0,-75.0
+7791,38454,Trail's End,Place Made,,
+7792,38456,New York,Place Made,43.0,-75.0
+7793,38458,New York,Place Made,43.0,-75.0
+7794,38460,Pasadena,Place Made,0.0,0.0
+7795,38463,Pasadena,Place Made,0.0,0.0
+7796,38464,New York,Place Made,43.0,-75.0
+7797,38465,Pasadena,Place Made,0.0,0.0
+7798,38466,New York,Place Made,43.0,-75.0
+7799,38467,New York,Place Made,43.0,-75.0
+7800,38468,New York,Place Made,43.0,-75.0
+7801,38469,Los Angeles,Place Made,34.5,-118.23
+7802,38470,Apgar,Place Made,48.52,-113.98
+7803,38471,New York,Place Made,43.0,-75.0
+7804,38473,New York,Place Made,43.0,-75.0
+7805,38474,Trail's End,Place Made,,
+7806,38475,New York,Place Made,43.0,-75.0
+7807,38476,New York,Place Made,43.0,-75.0
+7808,38477,Oklahoma City,Place Made,35.47,-97.5
+7809,38479,Pasadena,Place Made,0.0,0.0
+7810,38480,Pasadena,Place Made,0.0,0.0
+7811,38481,New York,Place Made,43.0,-75.0
+7812,38485,Calgary,Place Made,51.83,-114.83
+7813,38486,New York,Place Made,43.0,-75.0
+7814,38487,New York,Place Made,43.0,-75.0
+7815,38489,Pasadena,Place Made,0.0,0.0
+7816,38490,Bonham,Place Made,33.57,-96.17
+7817,38494,New York,Place Made,43.0,-75.0
+7818,38495,New York,Place Made,43.0,-75.0
+7820,38498,Calgary,Place Made,51.83,-114.83
+7821,38501,Calgary,Place Made,51.83,-114.83
+7822,38502,Pasadena,Place Made,0.0,0.0
+7823,38503,Pasadena,Place Made,0.0,0.0
+7824,38513,Calgary,Place Made,31.62,-94.12
+7825,38517,Los Angeles,Place Made,34.5,-118.23
+7826,38519,Pasadena,Place Made,0.0,0.0
+7827,38520,Pasadena,Place Made,0.0,0.0
+7828,38521,Los Angeles,Place Made,34.5,-118.23
+7829,38522,Pasadena,Place Made,0.0,0.0
+7830,38523,Calgary,Place Made,51.83,-114.83
+7831,38524,Great Falls,Place Made,47.5,-111.3
+7832,38525,Calgary,Place Made,51.83,-114.83
+7833,38530,New York,Place Made,43.0,-75.0
+7834,38532,New York,Place Made,43.0,-75.0
+7835,38538,New York,Place Made,43.0,-75.0
+7836,38539,Pasadena,Place Made,0.0,0.0
+7837,38540,Great Falls,Place Made,47.5,-111.3
+7838,38541,San Francisco,Place Made,37.77,-122.42
+7839,38543,Danville,Place Made,40.12,-87.62
+7840,38547,Danville,Place Made,40.12,-87.62
+7841,38549,Montana,Place Made,47.0,-110.0
+7842,38551,California,Place Made,37.0,-119.0
+7843,38552,La Jolla,Place Made,32.83,-117.27
+7844,38555,New York,Place Made,43.0,-75.0
+7845,38556,New York,Place Made,43.0,-75.0
+7846,38559,New York,Place Made,43.0,-75.0
+7847,38561,Hollywood,Place Made,34.83,-118.32
+7848,38562,New York,Place Made,43.0,-75.0
+7849,38564,Hollywood,Place Made,34.83,-118.32
+7850,38565,New York,Place Made,43.0,-75.0
+7851,38566,Hollywood,Place Made,34.83,-118.32
+7852,38567,New York,Place Made,43.0,-75.0
+7853,38570,New York,Place Made,43.0,-75.0
+7854,38571,New York,Place Made,43.0,-75.0
+7855,38573,New York,Place Made,43.0,-75.0
+7856,38574,New York,Place Made,43.0,-75.0
+7857,38576,Montana,Place Made,47.0,-110.0
+7858,38577,New York,Place Made,43.0,-75.0
+7859,38578,New York,Place Made,43.0,-75.0
+7860,38580,New York,Place Made,43.0,-75.0
+7861,38630,New York,Place Made,43.0,-75.0
+7862,38631,New York,Place Made,43.0,-75.0
+7863,38632,Kalispell,Place Made,48.18,-114.3
+7864,38639,New York,Place Made,43.0,-75.0
+7865,38641,New York,Place Made,43.0,-75.0
+7866,38643,New York,Place Made,43.0,-75.0
+7867,38654,New York,Place Made,43.0,-75.0
+7868,38659,New York,Place Made,43.0,-75.0
+7869,38660,Hollywood,Place Made,34.83,-118.32
+7870,38662,New York,Place Made,43.0,-75.0
+7871,38670,Pasadena,Place Made,0.0,0.0
+7872,38672,Syracuse,Place Made,43.33,-76.13
+7873,38674,Los Angeles,Place Made,34.5,-118.23
+7874,38675,Pittsburgh,Place Made,40.43,-79.98
+7875,38677,Pittsburgh,Place Made,40.43,-79.98
+7876,38679,Pittsburgh,Place Made,40.43,-79.98
+7877,38680,Los Angeles,Place Made,34.5,-118.23
+7878,38681,Saint Louis,Place Made,38.62,-90.18
+7879,38682,Saint Louis,Place Made,38.62,-90.18
+7880,38683,Saint Louis,Place Made,38.62,-90.18
+7881,38694,Saint Louis,Place Made,38.62,-90.18
+7882,38695,Los Angeles,Place Made,34.5,-118.23
+7883,38696,Saint Louis,Place Made,38.62,-90.18
+7884,38698,Los Angeles,Place Made,34.5,-118.23
+7885,38699,Saint Louis,Place Made,38.62,-90.18
+7886,38700,Los Angeles,Place Made,34.5,-118.23
+7887,38706,Phoenix,Place Made,33.43,-112.66
+7888,38707,Murphysboro,Place Made,37.75,-89.33
+7889,38709,Pittsfield,Place Made,39.6,-90.8
+7890,38712,Pittsfield,Place Made,39.6,-90.8
+7891,38723,Los Angeles,Place Made,34.5,-118.23
+7892,38725,New York,Place Made,43.0,-75.0
+7893,38726,Los Angeles,Place Made,34.5,-118.23
+7894,38728,New York,Place Made,43.0,-75.0
+7895,38730,New York,Place Made,43.0,-75.0
+7896,38733,Pasadena,Place Made,0.0,0.0
+7897,38734,Pasadena,Place Made,0.0,0.0
+7898,38738,Pasadena,Place Made,0.0,0.0
+7899,38740,San Diego,Place Made,32.7,-117.15
+7900,38743,New York,Place Made,43.0,-75.0
+7901,38744,California,Place Made,37.0,-119.0
+7902,38748,Pasadena,Place Made,0.0,0.0
+7903,38754,Philadelphia,Place Made,39.95,-75.15
+7904,38755,Trail's End,Place Made,,
+7905,38756,Philadelphia,Place Made,39.95,-75.15
+7906,38757,Philadelphia,Place Made,39.95,-75.15
+7907,38758,Philadelphia,Place Made,39.95,-75.15
+7908,38760,New York,Place Made,43.0,-75.0
+7909,38761,Atlantic City,Place Made,39.35,-74.42
+7910,38762,Philadelphia,Place Made,39.95,-75.15
+7911,38763,New York,Place Made,43.0,-75.0
+7912,38764,New York,Place Made,43.0,-75.0
+7913,38766,Pennsylvania,Place Made,40.83,-76.0
+7914,38769,Philadelphia,Place Made,39.95,-75.15
+7915,38771,Philadelphia,Place Made,39.95,-75.15
+7916,38774,Philadelphia,Place Made,39.95,-75.15
+7917,38791,Chicago,Place Made,41.85,-87.65
+7918,38792,New York,Place Made,43.0,-75.0
+7919,38795,Toronto,Place Made,43.7,-79.42
+7920,38796,New York,Place Made,43.0,-75.0
+7921,38798,Calgary,Place Made,51.83,-114.83
+7922,38799,Calgary,Place Made,51.83,-114.83
+7923,38801,Calgary,Place Made,51.83,-114.83
+7924,38803,Calgary,Place Made,51.83,-114.83
+7925,38805,New York,Place Made,43.0,-75.0
+7926,38806,Calgary,Place Made,51.83,-114.83
+7927,38812,Ohio,Place Made,40.0,-80.83
+7928,38813,New York,Place Made,43.0,-75.0
+7929,38817,Ohio,Place Made,40.0,-80.83
+7930,38819,Ohio,Place Made,40.0,-80.83
+7931,38821,New York,Place Made,43.0,-75.0
+7932,38825,Ohio,Place Made,40.0,-80.83
+7933,38830,Calgary,Place Made,51.83,-114.83
+7934,38831,New York,Place Made,43.0,-75.0
+7935,38833,Alberta,Place Made,54.0,113.0
+7936,38835,Gleichen,Place Made,50.87,-113.33
+7937,38838,Montana,Place Made,47.0,-110.0
+7938,38839,New York,Place Made,43.0,-75.0
+7939,38842,New York,Place Made,43.0,-75.0
+7940,38845,New York,Place Made,43.0,-75.0
+7941,38848,New York,Place Made,43.0,-75.0
+7942,38850,New York,Place Made,43.0,-75.0
+7943,38851,New York,Place Made,43.0,-75.0
+7944,38853,New York,Place Made,43.0,-75.0
+7945,38855,New York,Place Made,43.0,-75.0
+7946,38856,New York,Place Made,43.0,-75.0
+7947,38859,New York,Place Made,43.0,-75.0
+7948,38864,New York,Place Made,43.0,-75.0
+7949,38870,New York,Place Made,43.0,-75.0
+7950,38873,New York,Place Made,43.0,-75.0
+7951,38874,New York,Place Made,43.0,-75.0
+7952,38875,Pasadena,Place Made,0.0,0.0
+7953,38876,New York,Place Made,43.0,-75.0
+7954,38877,New York,Place Made,43.0,-75.0
+7955,38878,New York,Place Made,43.0,-75.0
+7956,38925,Gleichen,Place Made,50.87,-113.33
+7957,38931,New York,Place Made,43.0,-75.0
+7958,38934,New York,Place Made,43.0,-75.0
+7959,38936,New York,Place Made,43.0,-75.0
+7960,38938,New York,Place Made,43.0,-75.0
+7961,38941,New York,Place Made,43.0,-75.0
+7962,38944,New York,Place Made,43.0,-75.0
+7963,38956,New York,Place Made,43.0,-75.0
+7964,38958,New York,Place Made,43.0,-75.0
+7965,38961,New York,Place Made,43.0,-75.0
+7966,38964,New York,Place Made,43.0,-75.0
+7967,38965,New York,Place Made,43.0,-75.0
+7968,38966,New York,Place Made,43.0,-75.0
+7969,38970,New York,Place Made,43.0,-75.0
+7970,38971,New York,Place Made,43.0,-75.0
+7971,38972,New York,Place Made,43.0,-75.0
+7972,38974,New York,Place Made,43.0,-75.0
+7973,38975,New York,Place Made,43.0,-75.0
+7974,38978,New York,Place Made,43.0,-75.0
+7975,38980,New York,Place Made,43.0,-75.0
+7976,42073,Montana,Place Made,47.0,-110.0
+7977,42221,France,Place Made,46.0,2.0
+7978,44682,Montana,Place Made,47.0,-110.0
+7979,44693,Phoenix,Place Made,33.43,-112.66
+7980,44712,Phoenix,Place Made,33.43,-112.66
+7981,44745,Montana,Place Made,47.0,-110.0
+7982,44788,Great,Place Made,12.13,61.6
+7984,44815,Los Angeles,Place Made,34.37,-118.2
+7985,44826,London,Place Made,51.5,-0.17
+7986,44832,New York,Place Made,40.7,-74.0
+7987,44855,Los Angeles,Place Made,34.5,-118.23
+7988,44859,Santa Barbara,Place Made,34.73,-120.33
+7989,44865,Great Falls,Place Made,47.5,-111.3
+7990,44986,New York,Place Made,40.7,-74.0
+7991,44987,District of Columbia,Place Made,38.83,-77.0
+7992,45165,Los Angeles,Place Made,34.5,-118.23
+7993,45169,Santa Barbara,Place Made,34.73,-120.33
+7994,45172,New York,Place Made,40.7,-74.0
+7995,45180,Los Angeles,Place Made,34.18,-118.6
+7996,45199,San Francisco,Place Made,37.77,-122.42
+7997,45200,San Francisco,Place Made,37.77,-122.42
+7998,45201,New York,Place Made,40.7,-74.0
+7999,45202,New York,Place Made,40.7,-74.0
+8000,45207,New York,Place Made,40.7,-74.0
+8001,45247,Saint Louis,Place Made,38.63,-90.4
+8002,45547,Great Falls,Place Made,47.5,-111.3
+8003,45574,Chicago,Place Made,41.85,-87.65
+8004,45577,Pasadena,Place Made,0.0,0.0
+8005,45707,Saint Louis,Place Made,38.62,-90.18
+8006,45791,Cody,Place Made,44.52,-109.5
+8007,45802,Bozeman,Place Made,45.67,-111.33
+8008,45804,Helena,Place Made,46.58,-112.33
+8009,45807,Great Falls,Place Made,47.5,-111.3
+8010,45865,Montana,Place Made,47.0,-110.0
+8011,45906,Great Falls,Place Made,47.5,-111.3
+8012,45909,Brooklyn,Place Made,42.42,-78.73
+8013,45918,New York,Place Made,40.7,-74.0
+8014,45927,Pasadena,Place Made,0.0,0.0
+8015,45949,Pasadena,Place Made,0.0,0.0
+8016,45951,Los Angeles,Place Made,34.5,-118.23
+8017,45956,Los Angeles,Place Made,34.5,-118.23
+8018,45959,Los Angeles,Place Made,34.5,-118.23
+8019,46012,Texas,Place Made,30.0,-100.0
+8020,46021,Los Angeles,Place Made,34.18,-118.6
+8021,46080,Great Falls,Place Made,47.5,-111.3
+8022,46084,Great Falls,Place Made,47.5,-111.3
+8023,46100,Springfield,Place Made,39.8,-89.63
+8024,46107,Great Falls,Place Made,47.5,-111.3
+8025,46466,Reno,Place Made,39.52,-119.8
+8026,48241,Great Falls,Place Made,47.5,-111.3
+8027,48924,Hollywood,Place Made,34.83,-118.32
+8028,48987,Billings,Place Made,45.78,-108.5
+8029,48990,Phoenix,Place Made,33.43,-112.66
+8030,49050,Philipsburg,Place Made,46.32,-113.28
+8031,49054,Hollywood,Place Made,34.83,-118.32
+8032,49114,Cooper Road,Place Made,32.53,-93.8
+8033,49145,Los Angeles,Place Made,34.37,-118.2
+8034,49224,Austin,Place Made,29.88,-96.32
+8035,51675,United States of America,Place found,38.0,-98.0
