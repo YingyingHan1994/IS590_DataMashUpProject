@@ -14,6 +14,7 @@ In the folder "3.intermediatedataset"
 In the folder "5.Reproduceablenotebook_YingyingHan", inside which a detailed manifest of files is offered. 
 
 # A GitHub repo with everything (can be made private if needed) above.  If you have data that’s too big to be stored in github, you’ll need to have it hosted in a box folder or something.
+Here: https://github.com/YingyingHan1994/IS590_DataMashUpProject
 
 # Your project’s entry for your resume. You can either submit an updated resume with this element highlighted or submit the text extract as a PDF.  We’ll be doing a workshop on this during class.
 In the file "6.updated_CURRICULUM VITAE_Yingying Han.docx". The updated part was highlighted. 
